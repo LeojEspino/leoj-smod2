@@ -1,0 +1,44 @@
+{
+  "ItemType": 25,
+  "Id": 10007,
+  "Body": {
+    "Size": 1.0,
+    "Length": 1.0,
+    "Velocity": 5.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 1.0,
+    "Color": "#FF8900",
+    "BulletPrefab": 4
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "se_kira00",
+      "Ammunition": 10009,
+      "Color": "#00000000",
+      "Quantity": 1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 10.0
+    }
+  ]
+}

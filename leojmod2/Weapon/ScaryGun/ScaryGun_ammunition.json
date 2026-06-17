@@ -1,0 +1,53 @@
+{
+  "ItemType": 25,
+  "Id": 100010,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 5.0,
+    "Lifetime": 3.0,
+    "Color": "#340056",
+    "BulletPrefab": 4
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "t*5",
+    "Size": "1+t*1"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "AudioClip": "se_power0",
+      "Color": "#9D00FF",
+      "ColorMode": 1,
+      "Size": 2.0,
+      "Lifetime": 3.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100011,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 9,
+      "AudioClip": "se_slash",
+      "Color": "#9D00FF",
+      "Size": 5.0,
+      "Lifetime": 2.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#9D00FF",
+      "Size": 5.0,
+      "Lifetime": 10.0
+    }
+  ],
+  "ImpactType": 2
+}

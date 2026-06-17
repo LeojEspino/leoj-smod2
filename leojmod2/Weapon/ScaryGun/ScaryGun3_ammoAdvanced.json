@@ -1,0 +1,19 @@
+{
+  "ItemType": 25,
+  "Id": 100013,
+  "Body": {
+    "Size": 5.0,
+    "Length": 10.0,
+    "Velocity": 100.0,
+    "Range": 200.0,
+    "Color": "#C900FF",
+    "BulletPrefab": 19
+  },
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 100.0
+    }
+  ]
+}

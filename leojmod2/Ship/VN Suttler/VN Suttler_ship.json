@@ -1,0 +1,44 @@
+{
+  "ItemType": 6,
+  "Id": 10001,
+  "SizeClass": 2,
+  "Name": "VN Suttler",
+  "Faction": 10001,
+  "IconImage": "VNSUTTLER1i.png",
+  "IconScale": 1.0,
+  "ModelImage": "VNSUTTLER1m.png",
+  "ModelScale": 2.75,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.5
+    }
+  ],
+  "Layout": "000000444000000000000444000000000000333000000000000333000000000001323100000000001323100000000001323100000000014424410000000014424410000000014424410000000013333310000000113333311000000011555110000000000555000000000000555000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.3
+      },
+      "Rotation": 90.0,
+      "WeaponClass": "M"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.3
+      },
+      "Rotation": -90.0,
+      "WeaponClass": "M"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Single Files/        Bullet",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_bullet",
+      "Type": "File",
+      "Content": {
+		  "ItemType": 27,
+		  "Id": "%n{0}"
+		}
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "Name": "Component/+Stats/5 Sizes",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_component0",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}",
+            "Name": "%s{1} 0",
+			"Icon": "block",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_stats0",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}"
+          }
+        },
+        {
+          "Filename": "{1}_component1",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+1",
+            "Name": "%s{1} 1",
+			"Icon": "block",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+1",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_stats1",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+1"
+          }
+        },
+        {
+          "Filename": "{1}_component2",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+2",
+            "Name": "%s{1} 2",
+			"Icon": "block",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+2",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_stats2",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+2"
+          }
+        },
+        {
+          "Filename": "{1}_component3",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+3",
+            "Name": "%s{1} 3",
+			"Icon": "block",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+3",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_stats3",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+3"
+          }
+        },
+        {
+          "Filename": "{1}_component4",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+4",
+            "Name": "%s{1} 4",
+			"Icon": "block",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+4",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_stats4",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+4"
+          }
+        }
+      ]
+    }
+  ]
+}

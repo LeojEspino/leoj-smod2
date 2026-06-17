@@ -1,0 +1,218 @@
+{
+  "ItemType": 8,
+  "Id": 160,
+  "Disabled": false,
+  "ShipId": 73,
+  "AvailableForPlayer": false,
+  "AvailableForEnemy": true,
+  "DifficultyClass": 1,
+  "BuildFaction": 0,
+  "CustomAI": 0,
+  "Components": [
+    {
+      "ComponentId": 55,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 6,
+      "Y": 11,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 55,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 6,
+      "Y": 9,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 55,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 6,
+      "Y": 7,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 116,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 0,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 116,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 6,
+      "Y": 0,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 65,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 3,
+      "Y": 9,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 74,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 4,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 80,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 8,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 7,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 156,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 3,
+      "Y": 7,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 63,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 1,
+      "Y": 9,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 64,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 2,
+      "Y": 8,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 64,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 12,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 78,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 4,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 78,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 7,
+      "Y": 4,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 78,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 7,
+      "Y": 6,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 78,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 6,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 64,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 8,
+      "Y": 8,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 64,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 8,
+      "Y": 9,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    },
+    {
+      "ComponentId": 64,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 13,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": -1
+    }
+  ],
+  "NotAvailableInGame": false,
+  "ExtendedLayout": false,
+  "RandomColor": false,
+  "LeftSatelliteBuild": 0,
+  "RightSatelliteBuild": 0
+}

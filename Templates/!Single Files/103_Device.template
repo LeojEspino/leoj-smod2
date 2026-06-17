@@ -1,0 +1,16 @@
+{
+  "Name": "Single Files/        Device",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_device",
+      "Type": "File",
+      "Content": {
+		  "ItemType": 2,
+		  "Id": "%n{0}",
+		  "ControlButtonIcon": "controls_boost"
+		}
+    }
+  ]
+}

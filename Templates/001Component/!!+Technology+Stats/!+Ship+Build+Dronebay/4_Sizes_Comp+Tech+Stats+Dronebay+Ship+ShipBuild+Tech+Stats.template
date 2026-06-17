@@ -1,0 +1,317 @@
+{
+    "Name": "Component/+Tech+Stats/+Dronebay/4 Sizes + Ship + Build",
+    "NameDialog":"File Name",
+    "IdDialog":"ID",
+    "Items":[
+		{
+			"Filename":"{1}",
+			"Type":"Folder",
+			"Items":[
+				{
+					"Filename":"{1} Hangar_0",
+					"Type":"Folder",
+					"Items":[
+						{
+							"Filename": "{1} Hangar_0_component",
+							"Content":{
+								"ItemType":1,
+								"Id":"%n{0}",
+								"Name":"%s{1} Hangar 0",
+								"DisplayCategory": 5,
+								"Layout": "1",
+								"DroneId": "%n{0}",
+								"ComponentStatsId": "%n{0}",
+								"PossibleModifications":[
+									17,
+									18,
+									19,
+									20,
+									1,
+									2
+								],
+								"DroneBayId": "%n{0}"
+							},
+							"Type":"File"
+						},
+						{
+						  "Filename": "{1} Hangar_0_technology",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 10,
+							"Id": "%n{0}",
+							"ItemId": "%n{0}",
+							"Type": 0,
+							"Dependencies": []
+						  }
+						},
+						{
+						  "Filename": "{1} Hangar_0_dronebay",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 5,
+							"Id": "%n{0}",
+							"DamageMultiplier": 1.0,
+							"DefenseMultiplier": 1.0,
+							"SpeedMultiplier": 1.0,
+							"ImprovedAi": true,
+							"Capacity": 1,
+							"ActivationType": 2,
+							"LaunchSound": "launch_08",
+							"LaunchEffectPrefab": "OrbAdditive",
+							"ControlButtonIcon": "controls_drone.png"
+						  }
+						},
+						{
+						  "Filename": "{1} Hangar_0_stats",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 11,
+							"Id": "%n{0}",
+							"Type": 1,
+							"Weight": 50.0
+						  }
+						}
+					]
+				},
+				{
+					"Filename":"{1} Hangar_1",
+					"Type":"Folder",
+					"Items":[
+						{
+							"Filename": "{1} Hangar_1_component",
+							"Content":{
+								"ItemType":1,
+								"Id":"%n{0}+1",
+								"Name":"%s{1} Hangar 1",
+								"DisplayCategory": 5,
+								"Layout": "1",
+								"DroneId": "%n{0}",
+								"ComponentStatsId": "%n{0}+1",
+								"PossibleModifications":[
+									17,
+									18,
+									19,
+									20,
+									1,
+									2
+								],
+								"DroneBayId": "%n{0}+1"
+							},
+							"Type":"File"
+						},
+						{
+						  "Filename": "{1} Hangar_1_technology",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 10,
+							"Id": "%n{0}+1",
+							"ItemId": "%n{0}+1",
+							"Type": 0,
+							"Dependencies": []
+						  }
+						},
+						{
+						  "Filename": "{1} Hangar_1_dronebay",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 5,
+							"Id": "%n{0}+1",
+							"DamageMultiplier": 1.0,
+							"DefenseMultiplier": 1.0,
+							"SpeedMultiplier": 1.0,
+							"ImprovedAi": true,
+							"Capacity": 2,
+							"ActivationType": 2,
+							"LaunchSound": "launch_08",
+							"LaunchEffectPrefab": "OrbAdditive",
+							"ControlButtonIcon": "controls_drone.png"
+						  }
+						},
+						{
+						  "Filename": "{1} Hangar_1_stats",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 11,
+							"Id": "%n{0}+1",
+							"Type": 1,
+							"Weight": 50.0
+						  }
+						}
+					]
+				},
+				{
+					"Filename":"{1} Hangar_2",
+					"Type":"Folder",
+					"Items":[
+						{
+							"Filename": "{1} Hangar_2_component",
+							"Content":{
+								"ItemType":1,
+								"Id":"%n{0}+2",
+								"Name":"%s{1} Hangar 2",
+								"DisplayCategory": 5,
+								"Layout": "1",
+								"DroneId": "%n{0}",
+								"ComponentStatsId": "%n{0}+2",
+								"PossibleModifications":[
+									17,
+									18,
+									19,
+									20,
+									1,
+									2
+								],
+								"DroneBayId": "%n{0}+2"
+							},
+							"Type":"File"
+						},
+						{
+						  "Filename": "{1} Hangar_2_technology",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 10,
+							"Id": "%n{0}+2",
+							"ItemId": "%n{0}+2",
+							"Type": 0,
+							"Dependencies": []
+						  }
+						},
+						{
+						  "Filename": "{1} Hangar_2_dronebay",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 5,
+							"Id": "%n{0}+2",
+							"DamageMultiplier": 1.0,
+							"DefenseMultiplier": 1.0,
+							"SpeedMultiplier": 1.0,
+							"ImprovedAi": true,
+							"Capacity": 3,
+							"ActivationType": 2,
+							"LaunchSound": "launch_08",
+							"LaunchEffectPrefab": "OrbAdditive",
+							"ControlButtonIcon": "controls_drone.png"
+						  }
+						},
+						{
+						  "Filename": "{1} Hangar_2_stats",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 11,
+							"Id": "%n{0}+2",
+							"Type": 1,
+							"Weight": 50.0
+						  }
+						}
+					]
+				},
+				{
+					"Filename":"{1} Hangar_3",
+					"Type":"Folder",
+					"Items":[
+									{
+							"Filename": "{1} Hangar_3_component",
+							"Content":{
+								"ItemType":1,
+								"Id":"%n{0}+3",
+								"Name":"%s{1} Hangar 3",
+								"DisplayCategory": 5,
+								"Layout": "1",
+								"DroneId": "%n{0}",
+								"ComponentStatsId": "%n{0}+3",
+								"PossibleModifications":[
+									17,
+									18,
+									19,
+									20,
+									1,
+									2
+								],
+								"DroneBayId": "%n{0}+3"
+							},
+							"Type":"File"
+						},
+						{
+						  "Filename": "{1} Hangar_3_technology",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 10,
+							"Id": "%n{0}+3",
+							"ItemId": "%n{0}+3",
+							"Type": 0,
+							"Dependencies": []
+						  }
+						},
+						{
+						  "Filename": "{1} Hangar_3_dronebay",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 5,
+							"Id": "%n{0}+3",
+							"DamageMultiplier": 1.0,
+							"DefenseMultiplier": 1.0,
+							"SpeedMultiplier": 1.0,
+							"ImprovedAi": true,
+							"Capacity": 4,
+							"ActivationType": 2,
+							"LaunchSound": "launch_08",
+							"LaunchEffectPrefab": "OrbAdditive",
+							"ControlButtonIcon": "controls_drone"
+						  }
+						},
+						{
+						  "Filename": "{1} Hangar_3_stats",
+						  "Type": "File",
+						  "Content": {
+							"ItemType": 11,
+							"Id": "%n{0}+3",
+							"Type": 1,
+							"Weight": 50.0
+						  }
+						}
+					]
+				},
+				{
+					"Filename":"{1}_ship",
+					"Type":"Folder",
+					"Items":[
+						{
+						  "Filename": "{1}_ship",
+						  "Content": {
+							"ItemType": 6,
+							"Name": "%s{1}",
+							"Id": "%n{0}",
+							"IconImage": "f1s1",
+							"IconScale": 1.0,
+							"ModelImage": "f1s1",
+							"ModelScale": 1.0,
+							"Layout": "4",
+							"BuiltinDevices": [],
+							"Barrels": [
+							  {
+								"Position": {
+								  "x": 0.0
+								}
+							  }
+							]
+						  },
+						  "Type": "File"
+						},
+						{
+							"Filename":"{1}_shipBuild",
+							"Type":"File",
+							"Content":{
+								"ItemType":8,
+								"Id":"%n{0}",
+								"ShipId":"%n{0}",
+								"Components":[
+
+								]
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

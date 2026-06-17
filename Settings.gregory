@@ -1,0 +1,142 @@
+{
+	// 9 by default
+	// How many elements per page
+	// f.e 9 quest nodes per page
+	// Affects all pagination
+	// So 9 will be 9 quest nodes per page, 9 dialogue options per page
+	// 9 Ammunition triggers per page, etc.
+	"ElementsPerPage": 12,
+	// Whether to keep default values for parameters in ship build json files
+	// this is to avoid the annoying behaviour of EH adding and DBE removing fields
+	// from ship builds.
+	"KeepShipBuildsDefaultValues": true,
+	"FontIndex": 4, // index starts with 0, then 1,2....
+	// You can add your own font, if the name is recognized it will work.
+	"Fonts": [
+		"Consolas",
+		"Arial",
+		"Segoe UI",
+		"Helvetica",
+		"Calibri",
+		"Aptos",
+		"Open Sans"
+	],
+	"ActiveTheme": 0,	// index starts with 0, then 1,2....
+	"Themes": [
+		// Default dark DBE theme
+		// Do not delete
+		// Do not modify
+		// Use as template
+		// Index of this theme must always be 0
+		// Append your theme after
+		{
+			"Name": "Gregory Black DBE", 	// Not used internally, an ID
+			"BorderColor": "#191919",		// rgb(25,25,25)
+			"BackgroundColor": "#2D2D2D",	// 45, 45, 45 rgb
+			"FontColor": "#F2BC57",			// COLOR OF FONT AND THE GRADIENT AT THE TOP
+			"Accent": "#414141", 			// 65, 65, 65 rgb
+			"Accent2": "#5F5F5F",			// rgb(95,95,95)
+			"Accent3": "#5F5F5F"			// USED FOR CREATE MOD BUTTON ONLY
+		},
+		{
+			"Name": "Ultra",
+			"BorderColor": "#3F2C4D",
+			"BackgroundColor": "#2A1C38",
+			"FontColor": "#F2A6D8",
+			"Accent": "#9E58A2",
+			"Accent2": "#BA75A5",
+			"Accent3": "#D587BC"
+		},
+		{
+			"Name": "Brown",
+			"BorderColor": "#3F2F23",
+			"BackgroundColor": "#2B1F15",
+			"FontColor": "#C9A15C",
+			"Accent": "#8C6A3D",
+			"Accent2": "#9A7C4A",
+			"Accent3": "#D0A95C"
+		},
+		{
+			"Name": "Cyberpunk Core",
+			"BorderColor": "#1E2B2F",
+			"BackgroundColor": "#13191B",
+			"FontColor": "#7DF7E6",
+			"Accent": "#336566",
+			"Accent2": "#457A7A",
+			"Accent3": "#61A3A3"
+		},
+		{
+			"Name": "Neon Haze",
+			"BorderColor": "#1E3B2F",
+			"BackgroundColor": "#13241E",
+			"FontColor": "#91F2BC",
+			"Accent": "#2E5744",
+			"Accent2": "#417E5D",
+			"Accent3": "#62A07E"
+		},
+		{
+			"Name": "Sunset Glow",
+			"BorderColor": "#3F2E35",
+			"BackgroundColor": "#2D262A",
+			"FontColor": "#E6B89C",
+			"Accent": "#BF7162",
+			"Accent2": "#A65C4F",
+			"Accent3": "#C89D86"
+		},
+		{
+			"Name": "Pink Girly Theme",
+			"BorderColor": "#F2D0DF",
+			"BackgroundColor": "#F9EEF5",
+			"FontColor": "#9F6D7E",
+			"Accent": "#F9A2B7",
+			"Accent2": "#E8C7D2",
+			"Accent3": "#D5B2C1"
+		},
+		{
+			"Name": "SynthWave '84",
+			"BorderColor": "#3A314A",
+			"BackgroundColor": "#2E2736",
+			"FontColor": "#C9A459",
+			"Accent": "#9F5F8C",
+			"Accent2": "#74877B",
+			"Accent3": "#75939C"
+		},
+		{
+			"Name": "Voyager",
+			"BorderColor": "#1F2D33",
+			"BackgroundColor": "#151E21",
+			"FontColor": "#B8C1C8",
+			"Accent": "#6D7C83",
+			"Accent2": "#556F8C",
+			"Accent3": "#7E8F71"
+		},
+		{
+			"Name": "Monokai Night",
+			"BorderColor": "#2C2A2C",
+			"BackgroundColor": "#252323",
+			"FontColor": "#E4E4DA",
+			"Accent": "#B8718F",
+			"Accent2": "#72875C",
+			"Accent3": "#5E7F94"
+		},
+		{
+			"Name": "One Dark Pro",
+			"BorderColor": "#2B303B",
+			"BackgroundColor": "#1E2228",
+			"FontColor": "#A3AFBF",
+			"Accent": "#4F6A8C",
+			"Accent2": "#6A905B",
+			"Accent3": "#935355"
+		},
+		// THEME Locardian by Seneriel
+		{
+			"Name": "Locardian",
+			"BorderColor": "#2B2835", 
+			"BackgroundColor": "#423f55", 
+			"FontColor": "#FEFEAA", 
+			"Accent": "#454545",
+			"Accent2": "#6D6D6D",
+			"Accent3": "#6D6D6D" 
+		}
+	]
+}

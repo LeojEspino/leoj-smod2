@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 100030,
+  "Name": "Complex Divergence",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 10002,
+  "Icon": "laser4",
+  "Color": "#FFFF5E",
+  "Layout": "110110000",
+  "CellType": "4",
+  "WeaponId": 100030,
+  "AmmunitionId": 100030,
+  "WeaponSlotType": "T"
+}

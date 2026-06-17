@@ -1,0 +1,21 @@
+{
+	"Name": "Single Files/        Dronebay",
+	"NameDialog": "File Name",
+	"IdDialog": "ID",
+	"Items": [
+		{
+			"Filename": "{1}_dronebay",
+			"Type": "File",
+			"Content": {
+			  "ItemType": 5,
+			  "Id": "%n{0}",
+			  "DamageMultiplier": 1.0,
+		   	  "DefenseMultiplier": 1.0,
+			  "SpeedMultiplier": 1.0,
+			  "ImprovedAi": true,
+			  "ActivationType": 2,
+			  "ControlButtonIcon": "controls_drone"
+			}
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "ItemType": 25,
+  "Id": 100014,
+  "Body": {
+    "Lifetime": 1.0,
+    "Color": "#FF00F4"
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100015,
+      "Color": "#FA00FF"
+    }
+  ],
+  "ImpactType": 2
+}

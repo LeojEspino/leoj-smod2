@@ -1,0 +1,37 @@
+{
+  "Name": "Ship/Only Builds/3 Builds",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_build0",
+      "Type": "File",
+      "Content": {
+        "ItemType": 8,
+        "Id": "%n{0}",
+        "ShipId": 83,
+        "Components": []
+      }
+    },
+    {
+      "Filename": "{1}_build1",
+      "Type": "File",
+      "Content": {
+        "ItemType": 8,
+        "Id": "%n{0}+1",
+        "ShipId": 83,
+        "Components": []
+      }
+    },
+    {
+      "Filename": "{1}_build2",
+      "Type": "File",
+      "Content": {
+        "ItemType": 8,
+        "Id": "%n{0}+2",
+        "ShipId": 83,
+        "Components": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 100027,
+  "Name": "Superposition",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10002,
+  "Level": 40,
+  "Icon": "gun6",
+  "Color": "#FFFF5E",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 100027,
+  "AmmunitionId": 100029,
+  "WeaponSlotType": "C"
+}

@@ -1,0 +1,38 @@
+{
+  "ItemType": 25,
+  "Id": 10002,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 100.0,
+    "AttachedToParent": true,
+    "Range": 1000.0,
+    "Lifetime": 0.9,
+    "BulletPrefab": 3,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.1,
+    "IgnoreRotation": true
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 10003,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Rotation": "RANDOM(-5,5)"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "AudioClip": "se_kira00",
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 1
+}

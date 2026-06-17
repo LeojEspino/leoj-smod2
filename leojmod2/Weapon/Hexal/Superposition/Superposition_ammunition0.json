@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 100027,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 20.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 5.0,
+    "Color": "#FFFF5E",
+    "EnergyCost": 3.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100028,
+      "Color": "#2D2D2D",
+      "Quantity": 2,
+      "Rotation": "0",
+      "OffsetY": "-2+i*4"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100029,
+      "Color": "#00000000",
+      "MaxNestingLevel": 3
+    }
+  ],
+  "ImpactType": 1
+}

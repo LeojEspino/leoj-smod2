@@ -1,0 +1,39 @@
+{
+  "Name": "Component/2 Sizes",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_component0",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}",
+            "Name": "%s{1} 0",
+			"Icon": "block",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_component1",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+1",
+            "Name": "%s{1} 1",
+			"Icon": "block",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+1",
+            "PossibleModifications": []
+          },
+          "Type": "File"
+        }
+      ]
+    }
+  ]
+}

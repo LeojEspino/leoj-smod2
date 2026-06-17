@@ -1,0 +1,55 @@
+{
+  "ItemType": 6,
+  "Id": 10004,
+  "Name": "Woodpecker",
+  "Faction": 10001,
+  "IconImage": "woodpeckerexi.png",
+  "IconScale": 1.0,
+  "ModelImage": "woodpeckerexm.png",
+  "ModelScale": 3.0,
+  "EngineColor": "#4907F7",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.5
+    }
+  ],
+  "Layout": "0000000440000000000000044000000000000004400000000000000110000000000000011000000000000011110000000000001111000000000000333300000000000432234000000000042222400000044334222243344004433422224334400443332222333440011333555533311001130555555031100010000550000100",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "y": 0.35
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "y": -0.35
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": -0.25,
+        "y": 0.7
+      },
+      "WeaponClass": "CM"
+    },
+    {
+      "Position": {
+        "x": -0.25,
+        "y": -0.7
+      },
+      "WeaponClass": "CM"
+    }
+  ],
+  "BuiltinDevices": []
+}

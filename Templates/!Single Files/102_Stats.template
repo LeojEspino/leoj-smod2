@@ -1,0 +1,15 @@
+{
+  "Name": "Single Files/        Stats",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_stats",
+      "Type": "File",
+      "Content": {
+		  "ItemType": 11,
+		  "Id": "%n{0}",
+		}
+    }
+  ]
+}

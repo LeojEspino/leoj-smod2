@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 10006,
+  "Name": "Factor 20",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 10006,
+  "Faction": 10002,
+  "Level": 30,
+  "Icon": "QuadModule3.png",
+  "Layout": "111111111",
+  "CellType": "1"
+}

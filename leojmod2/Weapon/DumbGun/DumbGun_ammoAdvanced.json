@@ -1,0 +1,34 @@
+{
+  "ItemType": 25,
+  "Id": 10001,
+  "Body": {
+    "DetonateWhenDestroyed": false,
+    "Size": 1.0,
+    "Length": 1.0,
+    "Range": 50.0,
+    "Lifetime": 1.0,
+    "Color": "#FFAA00",
+    "BulletPrefab": 4,
+    "EnergyCost": 2.0
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "5*t^0.5"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "tan00",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 10002,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

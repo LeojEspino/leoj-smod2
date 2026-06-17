@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 10005,
+  "Name": "DumbGunMkII",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10001,
+  "Icon": "gun1",
+  "Layout": "111111000",
+  "CellType": "4",
+  "WeaponId": 10005,
+  "AmmunitionId": 10005,
+  "WeaponSlotType": "C"
+}

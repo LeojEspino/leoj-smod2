@@ -1,0 +1,17 @@
+{
+  "Name": "Single Files/        Ship Build",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_shipBuild",
+      "Type": "File",
+      "Content": {
+        "ItemType": 8,
+        "Id": "%n{0}",
+        "ShipId": 83,
+        "Components": []
+      }
+    }
+  ]
+}

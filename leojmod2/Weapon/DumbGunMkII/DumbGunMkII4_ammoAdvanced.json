@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 10009,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 100.0,
+    "AttachedToParent": true,
+    "Range": 1000.0,
+    "Lifetime": 0.9,
+    "BulletPrefab": 3,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.1,
+    "IgnoreRotation": true
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 10008,
+      "Color": "#FFE000",
+      "ColorMode": 1,
+      "Quantity": 3,
+      "Rotation": "RANDOM(-5,5)+20+i*-20"
+    }
+  ],
+  "ImpactType": 2
+}

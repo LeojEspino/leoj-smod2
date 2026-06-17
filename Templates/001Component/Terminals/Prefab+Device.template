@@ -1,0 +1,31 @@
+{
+  "Name": "Component/Prefab + Device -???",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_device",
+          "Type": "File",
+          "Content": {
+            "ItemType": 2,
+            "Id": "%n{0}",
+            "ControlButtonIcon": "controls_boost"
+          }
+        },
+        {
+          "Filename": "{1}_prefab",
+          "Content": {
+            "ItemType": 29,
+            "Id": "%n{0}",
+			"Type": 0
+          },
+          "Type": "File"
+        }
+      ]
+    }
+  ]
+}

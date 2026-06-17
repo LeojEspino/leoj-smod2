@@ -1,0 +1,38 @@
+{
+  "ItemType": 25,
+  "Id": 100012,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 100.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 1000.0,
+    "Lifetime": 9.9,
+    "BulletPrefab": 3
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.1,
+    "SmartAim": true
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100013,
+      "Color": "#B900FF",
+      "ColorMode": 1
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 9,
+      "AudioClip": "se_gun00",
+      "Color": "#B900FF",
+      "ColorMode": 1,
+      "Size": 10.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 2
+}

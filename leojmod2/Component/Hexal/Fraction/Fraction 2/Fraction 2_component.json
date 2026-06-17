@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 100011,
+  "Name": "Fraction 2",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 100011,
+  "Faction": 10002,
+  "Level": 20,
+  "Icon": "TriModule1.png",
+  "Layout": "1",
+  "CellType": "5"
+}

@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 10009,
+  "Name": "Subdivide 15",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 10009,
+  "Faction": 10002,
+  "Level": 40,
+  "Icon": "HexModule2.png",
+  "Layout": "1111",
+  "CellType": "2"
+}

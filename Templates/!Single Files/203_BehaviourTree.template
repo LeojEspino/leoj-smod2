@@ -1,0 +1,18 @@
+{
+	"Name": "Single Files/        Behaviour Tree",
+	"NameDialog": "File Name",
+	"IdDialog": "ID",
+	"Items": [
+		{
+			"Filename": "{1}_behaviourTree",
+			"Type": "File",
+			"Content": {
+				"ItemType": 28,
+				"Id": "%n{0}",
+				"RoodNode": {	//Start with SubTree node
+					"Type": 1
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+  "ItemType": 25,
+  "Id": 100017,
+  "Body": {
+    "AttachedToParent": true,
+    "Lifetime": 0.9,
+    "Color": "#F500FF",
+    "BulletPrefab": 1
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100018,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "AudioClip": "se_kira01",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0,
+      "Cooldown": 0.5
+    }
+  ],
+  "ImpactType": 2
+}

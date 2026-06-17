@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 100010,
+  "Name": "ScaryGun",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10001,
+  "Icon": "cannont1.png",
+  "Layout": "0110011001100110",
+  "CellType": "4",
+  "WeaponId": 100010,
+  "AmmunitionId": 100010,
+  "WeaponSlotType": "S"
+}

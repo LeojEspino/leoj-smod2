@@ -1,0 +1,25 @@
+{
+	"Name": "Single Files/Quest",
+	"NameDialog": "File Name",
+	"IdDialog": "ID",
+	"Items": [
+		{
+			"Filename": "{1}_quest",
+			"Type": "File",
+			"Content": {
+				"ItemType": 15,
+				"Id": "%n{0}",
+				"Nodes": [
+					{
+					  "Id": 1,
+					  "Type": 0
+					},	
+					{
+					  "Id": 999,
+					  "Type": 40
+					}
+				]
+			}
+		}
+	]
+}

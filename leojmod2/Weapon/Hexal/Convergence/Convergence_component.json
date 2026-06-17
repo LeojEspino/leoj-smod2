@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 100024,
+  "Name": "Convergence",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10002,
+  "Level": 30,
+  "Icon": "shotgun2",
+  "Color": "#FFFF5E",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 100024,
+  "AmmunitionId": 100024,
+  "WeaponSlotType": "C"
+}

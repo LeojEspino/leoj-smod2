@@ -1,0 +1,17 @@
+{
+  "Name": "Single Files/        Satellite Build",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_satelliteBuild",
+      "Type": "File",
+      "Content": {
+        "ItemType": 9,
+        "Id": "%n{0}",
+		"SatelliteId": 1,
+        "Components": []
+      }
+    }
+  ]
+}

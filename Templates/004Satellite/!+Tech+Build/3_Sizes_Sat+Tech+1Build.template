@@ -1,0 +1,157 @@
+{
+  "Name": "Satellite/+Tech+Build/3 Sats 1 Builds Each",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+		  {
+			  "Filename": "{1}_0",
+			  "Type": "Folder",
+			  "Items": [
+				  {
+					"Filename": "{1}_satellite0",
+					"Type": "File",
+					"Content": {
+					  "ItemType": 7,
+					  "Id": "%n{0}",
+					  "Name": "%s{1} 0",
+					  "ModelImage": "satellite1",
+					  "ModelScale": 1.0,
+					  "SizeClass": -1,
+					  "Layout": "4",
+					  "Barrels": [
+						{
+						  "Position": {
+							"x": 0.0
+						  }
+						}
+					  ]
+					},
+					  "Type": "File"
+				},
+				{
+				  "Filename": "{1}_technology0",
+					"Type": "File",
+				  "Content": {
+					"ItemType": 10,
+					"Id": "%n{0}",
+					"ItemId": "%n{0}",
+					"Type": 2,
+					"Dependencies": []
+				  }
+				},
+				{
+				  "Filename": "{1}_satBuild00",
+				  "Type": "File",
+				  "Content": {
+					"ItemType": 9,
+					"Id": "%n{0}",
+					"SatelliteId": "%n{0}",
+					"Components": []
+				  }
+				}
+			  ]
+		  },
+		  {
+			  "Filename": "{1}_1",
+			  "Type": "Folder",
+			  "Items": [
+				  {
+					"Filename": "{1}_satellite1",
+					"Type": "File",
+					"Content": {
+					  "ItemType": 7,
+					  "Id": "%n{0}+1",
+					  "Name": "%s{1} 1",
+					  "ModelImage": "satellite1",
+					  "ModelScale": 1.0,
+					  "SizeClass": -1,
+					  "Layout": "4",
+					  "Barrels": [
+						{
+						  "Position": {
+							"x": 0.0
+						  }
+						}
+					  ]
+					},
+					  "Type": "File"
+				},
+				{
+				  "Filename": "{1}_technology1",
+					"Type": "File",
+				  "Content": {
+					"ItemType": 10,
+					"Id": "%n{0}+1",
+					"ItemId": "%n{0}+1",
+					"Type": 2,
+					"Dependencies": []
+				  }
+				},
+				{
+				  "Filename": "{1}_satBuild10",
+				  "Type": "File",
+				  "Content": {
+					"ItemType": 9,
+					"Id": "%n{0}+1",
+					"SatelliteId": "%n{0}+1",
+					"Components": []
+				  }
+				}
+			  ]
+		  },
+		  {
+			  "Filename": "{1}_2",
+			  "Type": "Folder",
+			  "Items": [
+				  {
+					"Filename": "{1}_satellite2",
+					"Type": "File",
+					"Content": {
+					  "ItemType": 7,
+					  "Id": "%n{0}+2",
+					  "Name": "%s{1} 2",
+					  "ModelImage": "satellite1",
+					  "ModelScale": 1.0,
+					  "SizeClass": -1,
+					  "Layout": "4",
+					  "Barrels": [
+						{
+						  "Position": {
+							"x": 0.0
+						  }
+						}
+					  ]
+					},
+					  "Type": "File"
+				},
+				{
+				  "Filename": "{1}_technology2",
+					"Type": "File",
+				  "Content": {
+					"ItemType": 10,
+					"Id": "%n{0}+2",
+					"ItemId": "%n{0}+2",
+					"Type": 2,
+					"Dependencies": []
+				  }
+				},
+				{
+				  "Filename": "{1}_satBuild20",
+				  "Type": "File",
+				  "Content": {
+					"ItemType": 9,
+					"Id": "%n{0}+2",
+					"SatelliteId": "%n{0}+2",
+					"Components": []
+				  }
+				}
+			  ]
+		  }
+      ]
+    }
+  ]
+}

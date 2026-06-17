@@ -1,0 +1,16 @@
+{
+  "Name": "Single Files/        Effect",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_effect",
+      "Type": "File",
+      "Content": {
+		  "ItemType": 26,
+		  "Id": "%n{0}",
+		  "Elements": []
+		}
+    }
+  ]
+}

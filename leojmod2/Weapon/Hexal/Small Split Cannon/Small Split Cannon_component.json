@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 100020,
+  "Name": "Displace",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10002,
+  "Level": 10,
+  "Icon": "gun2",
+  "Color": "#FFFF5E",
+  "Layout": "1010",
+  "CellType": "4",
+  "WeaponId": 100020,
+  "AmmunitionId": 100020,
+  "WeaponSlotType": "C"
+}

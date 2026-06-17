@@ -1,0 +1,19 @@
+{
+  "Name": "Single Files/Comp",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_component",
+      "Type": "File",
+      "Content": {
+        "ItemType": 1,
+        "Id": "%n{0}",
+        "Name": "%s{1}",
+        "Layout": "1",
+        "ComponentStatsId": "1",
+        "PossibleModifications": []
+      }
+    }
+  ]
+}

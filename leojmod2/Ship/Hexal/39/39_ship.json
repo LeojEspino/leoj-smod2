@@ -1,0 +1,24 @@
+{
+  "ItemType": 6,
+  "Id": 10007,
+  "Name": "6th Iteration",
+  "IconImage": "39.png",
+  "IconScale": 1.0,
+  "ModelImage": "39.png",
+  "ModelScale": 1.3,
+  "EngineColor": "#404040",
+  "Engines": [
+    {
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000000000001100110000123321000023553200113544531111354453110023553200001233210000110011000000000000",
+  "Barrels": [
+    {
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "CT"
+    }
+  ],
+  "BuiltinDevices": []
+}

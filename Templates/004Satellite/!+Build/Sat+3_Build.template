@@ -1,0 +1,64 @@
+{
+  "Name": "Satellite/+Build/3 Builds",
+  "NameDialog": "9 ID Range\nFile Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+		  {
+			"Filename": "{1}_satellite",
+			"Type": "File",
+			"Content": {
+			  "ItemType": 7,
+			  "Id": "%n{0}",
+			  "Name": "%s{1}",
+			  "ModelImage": "satellite1",
+			  "ModelScale": 1.0,
+			  "SizeClass": -1,
+			  "Layout": "4",
+			  "Barrels": [
+				{
+				  "Position": {
+					"x": 0.0
+				  }
+				}
+			  ]
+			},
+			  "Type": "File"
+		},
+        {
+          "Filename": "{1}_satBuild0",
+          "Type": "File",
+          "Content": {
+            "ItemType": 9,
+            "Id": "%n{0}",
+            "SatelliteId": "%n{0}",
+            "Components": []
+          }
+        },
+        {
+          "Filename": "{1}_satBuild1",
+          "Type": "File",
+          "Content": {
+            "ItemType": 9,
+            "Id": "%n{0}+1",
+            "SatelliteId": "%n{0}+1",
+            "Components": []
+          }
+        },
+        {
+          "Filename": "{1}_satBuild2",
+          "Type": "File",
+          "Content": {
+            "ItemType": 9,
+            "Id": "%n{0}+2",
+            "SatelliteId": "%n{0}+2",
+            "Components": []
+          }
+        }
+      ]
+    }
+  ]
+}

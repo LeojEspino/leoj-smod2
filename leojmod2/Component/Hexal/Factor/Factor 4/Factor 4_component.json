@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 10004,
+  "Name": "Factor 4",
+  "DisplayCategory": 2,
+  "ComponentStatsId": 10004,
+  "Faction": 10002,
+  "Level": 20,
+  "Icon": "QuadModule2.png",
+  "Layout": "1111",
+  "CellType": "1"
+}

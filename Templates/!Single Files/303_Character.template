@@ -1,0 +1,15 @@
+{
+	"Name": "Single Files/        Character",
+	"NameDialog": "File Name",
+	"IdDialog": "ID",
+	"Items": [
+		{
+			"Filename": "{1}_character",
+			"Type": "File",
+			"Content": {
+			    "ItemType": 19,
+			    "Id": "%n{0}"
+			}
+		}
+	]
+}

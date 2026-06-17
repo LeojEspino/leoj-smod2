@@ -1,0 +1,16 @@
+{
+  "Name": "Single Files/        Prefab",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+	{
+	  "Filename": "{1}_prefab",
+	  "Content": {
+		"ItemType": 29,
+		"Id": "%n{0}",
+		"Type": 0
+	  },
+	  "Type": "File"
+	}
+  ]
+}

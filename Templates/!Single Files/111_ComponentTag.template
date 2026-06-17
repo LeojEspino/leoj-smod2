@@ -1,0 +1,16 @@
+{
+	"Name": "Single Files/Component Tag",
+	"NameDialog": "File Name",
+	"IdDialog": "ID",
+	"Items": [
+		{
+			"Filename": "{1}_componentTag",
+			"Type": "File",
+			"Content": {
+				"ItemType": 35,
+				"Id": "%n{0}",
+				"MaxInstallableComponents": 1
+			}
+		}
+	]
+}

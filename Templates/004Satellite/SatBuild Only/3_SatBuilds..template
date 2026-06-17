@@ -1,0 +1,43 @@
+{
+  "Name": "Satellite/Only 3 Satellite Builds",
+  "NameDialog": "Needs Sat ID 1\nFile name:",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}_satbuilds",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_satBuild0",
+          "Type": "File",
+          "Content": {
+            "ItemType": 9,
+            "Id": "%n{0}",
+            "SatelliteId": 1,
+            "Components": []
+          }
+        },
+        {
+          "Filename": "{1}_satBuild1",
+          "Type": "File",
+          "Content": {
+            "ItemType": 9,
+            "Id": "%n{0}+1",
+            "SatelliteId": 1,
+            "Components": []
+          }
+        },
+        {
+          "Filename": "{1}_satBuild2",
+          "Type": "File",
+          "Content": {
+            "ItemType": 9,
+            "Id": "%n{0}+2",
+            "SatelliteId": 1,
+            "Components": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Name": "Satellite/3 Sizes",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+		{
+			"Filename": "{1}_satellite0",
+			"Type": "File",
+			"Content": {
+			  "ItemType": 7,
+			  "Id": "%n{0}",
+			  "Name": "%s{1} 0",
+			  "ModelImage": "satellite1",
+			  "ModelScale": 1.0,
+			  "SizeClass": -1,
+			  "Layout": "4",
+			  "Barrels": [
+				{
+				  "Position": {
+					"x": 0.0
+				  }
+				}
+			  ]
+			},
+          "Type": "File"
+        },
+		{
+			"Filename": "{1}_satellite1",
+			"Type": "File",
+			"Content": {
+			  "ItemType": 7,
+			  "Id": "%n{0}+1",
+			  "Name": "%s{1} 1",
+			  "ModelImage": "satellite1",
+			  "ModelScale": 1.0,
+			  "SizeClass": -1,
+			  "Layout": "4",
+			  "Barrels": [
+				{
+				  "Position": {
+					"x": 0.0
+				  }
+				}
+			  ]
+			},
+          "Type": "File"
+        },
+		{
+			"Filename": "{1}_satellite2",
+			"Type": "File",
+			"Content": {
+			  "ItemType": 7,
+			  "Id": "%n{0}+2",
+			  "Name": "%s{1} 2",
+			  "ModelImage": "satellite1",
+			  "ModelScale": 1.0,
+			  "SizeClass": -1,
+			  "Layout": "4",
+			  "Barrels": [
+				{
+				  "Position": {
+					"x": 0.0
+				  }
+				}
+			  ]
+			},
+          "Type": "File"
+        }
+      ]
+    }
+  ]
+}
