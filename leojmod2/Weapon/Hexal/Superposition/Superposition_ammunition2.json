@@ -5,7 +5,8 @@
     "Size": 1.0,
     "Velocity": 30.0,
     "ParentVelocityEffect": 0.0,
-    "Range": 5.0,
+    "Range": 30.0,
+    "Lifetime": 0.16666,
     "Color": "#FFFF5E",
     "BulletPrefab": 1,
     "EnergyCost": 3.0
