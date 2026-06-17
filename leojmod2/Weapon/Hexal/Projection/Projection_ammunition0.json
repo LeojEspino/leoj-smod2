@@ -1,0 +1,29 @@
+{
+  "ItemType": 25,
+  "Id": 100034,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 5.0,
+    "Range": 30.0,
+    "Color": "#FFFF5E",
+    "BulletPrefab": 9
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "t*5",
+    "Rotation": "t*30"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "se_ch01",
+      "Ammunition": 100035,
+      "Color": "#00000000",
+      "Quantity": 6,
+      "Rotation": "i*30"
+    }
+  ],
+  "ImpactType": 1
+}

@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 100034,
+  "Name": "Projection",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10002,
+  "Level": 40,
+  "Icon": "doom1",
+  "Color": "#FFFF5E",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 100034,
+  "AmmunitionId": 100034,
+  "WeaponSlotType": "S"
+}

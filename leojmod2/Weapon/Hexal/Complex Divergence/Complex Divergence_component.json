@@ -8,7 +8,7 @@
   "Faction": 10002,
   "Icon": "laser4",
   "Color": "#FFFF5E",
-  "Layout": "110110000",
+  "Layout": "111111111",
   "CellType": "4",
   "WeaponId": 100030,
   "AmmunitionId": 100030,

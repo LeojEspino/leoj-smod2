@@ -1,0 +1,38 @@
+{
+  "ItemType": 25,
+  "Id": 100035,
+  "Body": {
+    "DetonateWhenDestroyed": false,
+    "Size": 0.5,
+    "AttachedToParent": true,
+    "Range": 5.0,
+    "Lifetime": 999.0,
+    "Color": "#FFFF5E",
+    "BulletPrefab": 2
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100035,
+      "Color": "#00000000",
+      "MaxNestingLevel": 2,
+      "Rotation": "-120",
+      "OffsetX": "5"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "AudioClip": "hit_01",
+      "Ammunition": 101,
+      "Color": "#00000000",
+      "Size": 3.0,
+      "PowerMultiplier": 2.0
+    }
+  ],
+  "ImpactType": 1
+}
