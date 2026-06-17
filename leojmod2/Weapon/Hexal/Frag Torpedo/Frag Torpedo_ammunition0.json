@@ -12,7 +12,7 @@
   },
   "Triggers": [
     {
-      "Condition": 3,
+      "Condition": 2,
       "EffectType": 2,
       "AudioClip": "hit_01",
       "Ammunition": 100023,
@@ -27,16 +27,7 @@
       "Color": "#00000000"
     },
     {
-      "Condition": 5,
-      "EffectType": 2,
-      "AudioClip": "hit_01",
-      "Ammunition": 101,
-      "Color": "#00000000",
-      "Size": 5.0,
-      "PowerMultiplier": 10.0
-    },
-    {
-      "Condition": 3,
+      "Condition": 2,
       "EffectType": 1,
       "VisualEffect": 1,
       "Color": "#00000000",

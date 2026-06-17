@@ -1,0 +1,26 @@
+{
+  "ItemType": 6,
+  "Id": 100014,
+  "SizeClass": 2,
+  "Name": "32nd Iteration",
+  "Faction": 10002,
+  "IconImage": "41.png",
+  "IconScale": 1.0,
+  "ModelImage": "41.png",
+  "ModelScale": 2.0,
+  "EngineColor": "#404040",
+  "Engines": [
+    {
+      "Size": 0.4
+    }
+  ],
+  "Layout": "0000000000000000111111100000122222221000012333332100012234443221001233444332101223544453221012354445321001255555552100012333332100001222222210000011111110000000000000000",
+  "Barrels": [
+    {
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "CT"
+    }
+  ],
+  "BuiltinDevices": []
+}

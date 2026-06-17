@@ -1,0 +1,19 @@
+{
+  "ItemType": 25,
+  "Id": 100043,
+  "Body": {
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 0.2
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "se_nice",
+      "Ammunition": 101,
+      "Color": "#00000000",
+      "Size": 10.0,
+      "PowerMultiplier": 30.0
+    }
+  ]
+}

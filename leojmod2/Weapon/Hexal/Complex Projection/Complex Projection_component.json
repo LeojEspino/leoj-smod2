@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 100036,
+  "Name": "Complex Projection",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 10002,
+  "Icon": "doom1",
+  "Color": "#FFFF5E",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 100036,
+  "AmmunitionId": 100036,
+  "WeaponSlotType": "S"
+}

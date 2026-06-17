@@ -2,12 +2,18 @@
   "ItemType": 6,
   "Id": 100010,
   "SizeClass": 1,
-  "Name": "40",
+  "Name": "10th Iteration",
   "Faction": 10002,
   "IconImage": "40.png",
   "IconScale": 1.0,
   "ModelImage": "40.png",
   "ModelScale": 1.5,
+  "EngineColor": "#404040",
+  "Engines": [
+    {
+      "Size": 0.3
+    }
+  ],
   "Layout": "000000000000000111111000001112211100001223322100012235532210112445544211112445544211012235532210001223322100001112211100000111111000000000000000",
   "Barrels": [
     {

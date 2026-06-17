@@ -29,6 +29,12 @@
       "Color": "#00000000",
       "Size": 0.25,
       "Lifetime": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "shot_03",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

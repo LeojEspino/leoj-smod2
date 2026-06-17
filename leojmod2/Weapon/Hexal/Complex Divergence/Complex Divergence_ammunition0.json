@@ -20,7 +20,7 @@
       "Lifetime": 1.5
     },
     {
-      "Condition": 3,
+      "Condition": 2,
       "EffectType": 2,
       "Ammunition": 143,
       "Color": "#00000000",
@@ -28,7 +28,7 @@
       "PowerMultiplier": 20.0
     },
     {
-      "Condition": 3,
+      "Condition": 2,
       "EffectType": 2,
       "Ammunition": 100031,
       "Color": "#00000000",

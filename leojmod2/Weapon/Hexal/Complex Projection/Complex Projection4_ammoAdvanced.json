@@ -1,0 +1,35 @@
+{
+  "ItemType": 25,
+  "Id": 100039,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 5.0,
+    "Color": "#FFFF5E"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100040,
+      "Color": "#00000000",
+      "Quantity": 6,
+      "Rotation": "i*30"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100042,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 10.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 1
+}

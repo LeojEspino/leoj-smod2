@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 100037,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 50.0,
+    "Lifetime": 0.2
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100038,
+      "Color": "#00000000",
+      "Quantity": 6,
+      "Rotation": "-30+i*60",
+      "OffsetX": "9"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100039,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

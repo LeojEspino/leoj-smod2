@@ -3,11 +3,12 @@
   "Id": 100029,
   "Body": {
     "Size": 1.0,
-    "Velocity": 20.0,
+    "Velocity": 30.0,
     "ParentVelocityEffect": 0.0,
     "Range": 5.0,
     "Color": "#FFFF5E",
-    "BulletPrefab": 1
+    "BulletPrefab": 1,
+    "EnergyCost": 3.0
   },
   "Triggers": [
     {

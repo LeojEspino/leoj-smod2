@@ -1,0 +1,26 @@
+{
+  "ItemType": 26,
+  "Id": 10002,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 1.2,
+      "Inverse": true
+    },
+    {
+      "Type": 1,
+      "Image": "star",
+      "Size": 2.0
+    },
+    {
+      "Type": 1,
+      "Image": "star",
+      "ColorMode": 1
+    },
+    {
+      "Type": 5,
+      "Inverse": true
+    }
+  ]
+}
