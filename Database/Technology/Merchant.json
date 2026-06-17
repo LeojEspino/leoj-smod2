@@ -3,8 +3,7 @@
   "Id": 324,
   "Type": 1,
   "ItemId": 81,
-  "Price": 10,
-  "Hidden": true,
+  "Price": 3,
   "Dependencies": [
     259
   ]

@@ -2,8 +2,7 @@
   "ItemType": 10,
   "Id": 264,
   "ItemId": 213,
-  "Price": 10,
-  "Hidden": true,
+  "Price": 8,
   "Dependencies": [
     250,
     247
