@@ -3,6 +3,6 @@
   "Id": 177,
   "Type": 1,
   "EnergyRechargeRate": -0.5,
-  "ShieldRechargeRate": 4.0,
+  "ShieldRechargeRate": 6.0,
   "Weight": 50.0
 }

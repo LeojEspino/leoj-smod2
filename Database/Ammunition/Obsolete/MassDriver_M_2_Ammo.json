@@ -7,8 +7,8 @@
   "InitialPosition": {
     "x": 0.5
   },
-  "Damage": 12.0,
-  "Range": 17.0,
+  "Damage": 10.0,
+  "Range": 24.0,
   "Velocity": 16.0,
   "LifeTime": 0.8,
   "EnergyCost": 3.0,

@@ -37,7 +37,7 @@
   "Effects": [
     {
       "DamageType": 1,
-      "Power": 10.0,
+      "Power": 7.5,
       "Factor": 1.0
     },
     {

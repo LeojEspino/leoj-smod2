@@ -7,7 +7,7 @@
   "Recoil": 0.01,
   "Size": 0.5,
   "AreaOfEffect": 3.0,
-  "Damage": 7.5,
+  "Damage": 12.0,
   "Range": 20.0,
   "Velocity": 10.0,
   "LifeTime": 2.0,

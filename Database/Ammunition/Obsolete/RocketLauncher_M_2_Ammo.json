@@ -9,9 +9,9 @@
   "InitialPosition": {
     "x": 0.5
   },
-  "AreaOfEffect": 4.5,
+  "AreaOfEffect": 6.0,
   "Damage": 16.0,
-  "Range": 40.0,
+  "Range": 60.0,
   "Velocity": 30.0,
   "HitPoints": 3,
   "EnergyCost": 4.0,

@@ -1,15 +1,15 @@
 {
   "ItemType": 4,
   "Id": 70,
-  "Impulse": 0.2,
-  "Recoil": 0.2,
+  "Impulse": 0.1,
+  "Recoil": 0.1,
   "Size": 1.0,
   "InitialPosition": {
     "x": 0.5
   },
-  "Damage": 54.0,
+  "Damage": 30.0,
   "Range": 40.0,
-  "Velocity": 30.0,
+  "Velocity": 60.0,
   "LifeTime": 0.8,
   "EnergyCost": 18.0,
   "Color": "#A6CCFF",

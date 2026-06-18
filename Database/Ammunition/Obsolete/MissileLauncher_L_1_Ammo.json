@@ -9,10 +9,10 @@
     "x": 0.5
   },
   "AreaOfEffect": 2.0,
-  "Damage": 8.0,
-  "Range": 30.0,
+  "Damage": 12.0,
+  "Range": 60.0,
   "Velocity": 15.0,
-  "HitPoints": 2,
+  "HitPoints": 6,
   "EnergyCost": 2.0,
   "Color": "#FFF2A7",
   "FireSound": "shot_01",
