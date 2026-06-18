@@ -8,7 +8,7 @@
     "Lifetime": 2.0,
     "Color": "#FFFF5E",
     "BulletPrefab": 4,
-    "EnergyCost": 7.0
+    "EnergyCost": 8.0
   },
   "Triggers": [
     {

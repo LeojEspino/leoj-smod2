@@ -7,7 +7,7 @@
     "Range": 30.0,
     "Color": "#FFFF5E",
     "BulletPrefab": 10001,
-    "EnergyCost": 20.0
+    "EnergyCost": 30.0
   },
   "Triggers": [
     {

@@ -6,7 +6,8 @@
     "Velocity": 5.0,
     "Range": 30.0,
     "Color": "#FFFF5E",
-    "BulletPrefab": 9
+    "BulletPrefab": 9,
+    "EnergyCost": 30.0
   },
   "Controller": {
     "Type": 3,
