@@ -8,7 +8,7 @@
     "Range": 5.0,
     "Lifetime": 999.0,
     "Color": "#FFFF5E",
-    "BulletPrefab": 19
+    "BulletPrefab": 6
   },
   "Controller": {
     "Type": 2,
