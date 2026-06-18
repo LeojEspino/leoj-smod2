@@ -1,0 +1,23 @@
+{
+  "ItemType": 25,
+  "Id": 100048,
+  "Body": {
+    "Size": 5.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Lifetime": 999.0
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "AudioClip": "se_graze",
+      "Ammunition": 100049,
+      "Color": "#00000000",
+      "Quantity": 4,
+      "Cooldown": 0.2,
+      "Rotation": "90+i*60"
+    }
+  ],
+  "ImpactType": 2
+}

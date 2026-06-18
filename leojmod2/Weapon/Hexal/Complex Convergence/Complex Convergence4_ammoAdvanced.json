@@ -1,0 +1,26 @@
+{
+  "ItemType": 25,
+  "Id": 100047,
+  "Body": {
+    "Size": 1.0,
+    "Length": 0.5,
+    "Velocity": 60.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 40.0,
+    "BulletPrefab": 10002
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100048,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 5.0
+    }
+  ]
+}

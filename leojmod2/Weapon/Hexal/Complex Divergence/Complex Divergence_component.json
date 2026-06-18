@@ -6,6 +6,7 @@
   "Availability": 2,
   "ComponentStatsId": 1,
   "Faction": 10002,
+  "Level": 50,
   "Icon": "laser4",
   "Color": "#FFFF5E",
   "Layout": "111111111",

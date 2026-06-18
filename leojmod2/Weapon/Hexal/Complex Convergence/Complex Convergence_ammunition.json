@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 100044,
+  "Body": {
+    "Size": 0.1,
+    "ParentVelocityEffect": 0.0,
+    "Range": 30.0,
+    "Lifetime": 0.2,
+    "Color": "#FFFF5E",
+    "BulletPrefab": 4,
+    "EnergyCost": 6.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100045,
+      "Color": "#00000000",
+      "Quantity": 1
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100046,
+      "Color": "#00000000"
+    }
+  ]
+}

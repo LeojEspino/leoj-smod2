@@ -2,5 +2,6 @@
   "ItemType": 14,
   "Id": 10001,
   "Name": "Random",
-  "NoTerritories": true
+  "NoTerritories": true,
+  "NoWanderingShips": true
 }
