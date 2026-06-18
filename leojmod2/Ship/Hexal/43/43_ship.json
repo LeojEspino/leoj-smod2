@@ -1,0 +1,44 @@
+{
+  "ItemType": 6,
+  "Id": 100021,
+  "SizeClass": 3,
+  "Name": "73rd Iteration",
+  "Faction": 10002,
+  "IconImage": "43.png",
+  "IconScale": 1.0,
+  "ModelImage": "43.png",
+  "ModelScale": 2.5,
+  "EngineColor": "#404040",
+  "Engines": [
+    {
+      "Size": 0.5
+    }
+  ],
+  "Layout": "000000000000000000011111110000000133333331000001322222223100001322222223100013222444222310113442444244311133442444244331113445444544311013225444522310001355555553100001322555223100000133555331000000011111110000000000000000000",
+  "Barrels": [
+    {
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "CT"
+    },
+    {
+      "Position": {
+        "y": 0.3
+      },
+      "Rotation": 90.0,
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "y": -0.3
+      },
+      "Rotation": -90.0,
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "CS"
+    }
+  ],
+  "BuiltinDevices": []
+}

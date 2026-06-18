@@ -1,0 +1,85 @@
+{
+  "ItemType": 6,
+  "Id": 100025,
+  "ShipType": 4,
+  "SizeClass": 4,
+  "Name": "101st Iteration",
+  "Faction": 10002,
+  "IconImage": "44.png",
+  "IconScale": 1.0,
+  "ModelImage": "44.png",
+  "ModelScale": 4.0,
+  "EngineColor": "#404040",
+  "Engines": [
+    {
+      "Size": 1.0
+    }
+  ],
+  "Layout": "0000000000000000000000000111111111100000000031111111111300000003333333333333300000032444222244423000003324442222444233000032244422224442230003322222222222222330113224454444544223111132244544445442231111322445444454422311113224454444544223110332225555555522233000322444555544422300003324445555444233000003244422224442300000033333333333333000000031111111111300000000011111111110000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.3,
+        "y": 0.2
+      },
+      "Rotation": 30.0,
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "T"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.2
+      },
+      "Rotation": -30.0,
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "T"
+    },
+    {
+      "Position": {
+        "y": 0.35
+      },
+      "Rotation": 90.0,
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "C"
+    },
+    {
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "CTS"
+    },
+    {
+      "Position": {
+        "y": -0.35
+      },
+      "Rotation": -90.0,
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": 0.2
+      },
+      "Rotation": 150.0,
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "S"
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": -0.2
+      },
+      "Rotation": -150.0,
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 180.0,
+      "WeaponClass": "S"
+    }
+  ],
+  "BuiltinDevices": []
+}
