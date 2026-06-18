@@ -3,5 +3,8 @@
   "Id": 10001,
   "Name": "Random",
   "NoTerritories": true,
-  "NoWanderingShips": true
+  "NoWanderingShips": true,
+  "HideFromMerchants": true,
+  "HideResearchTree": true,
+  "NoMissions": true
 }
