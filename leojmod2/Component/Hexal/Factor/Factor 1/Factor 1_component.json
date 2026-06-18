@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 10003,
   "Name": "Factor 1",
+  "Description": "Reduce. ",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 10003,

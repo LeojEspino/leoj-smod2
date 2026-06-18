@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 100012,
   "Name": "Fraction 6",
+  "Description": "Lingers between the border of planes.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 100012,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 10008,
   "Name": "Subdivide 3",
+  "Description": "Reduces the self.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 10008,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 100036,
   "Name": "Complex Projection",
+  "Description": "Greeting from many other worlds.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

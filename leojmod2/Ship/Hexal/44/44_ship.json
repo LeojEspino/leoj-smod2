@@ -4,6 +4,7 @@
   "ShipType": 4,
   "SizeClass": 4,
   "Name": "101st Iteration",
+  "Description": "The apex.",
   "Faction": 10002,
   "IconImage": "44.png",
   "IconScale": 1.0,

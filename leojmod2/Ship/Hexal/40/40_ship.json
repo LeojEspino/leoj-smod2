@@ -3,6 +3,7 @@
   "Id": 100010,
   "SizeClass": 1,
   "Name": "10th Iteration",
+  "Description": "Slightly grown. With growth, comes greater strength, but less flexibility.",
   "Faction": 10002,
   "IconImage": "40.png",
   "IconScale": 1.0,

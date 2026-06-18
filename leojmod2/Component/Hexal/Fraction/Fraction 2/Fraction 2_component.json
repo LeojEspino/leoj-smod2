@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 100011,
   "Name": "Fraction 2",
+  "Description": "Reduced presence in their plane of existence.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 100011,

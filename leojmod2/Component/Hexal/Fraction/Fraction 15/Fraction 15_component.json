@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 100013,
   "Name": "Fraction 15",
+  "Description": "Almost nonexistent. One could see it, touch it, but its presence on the material plane is almost nil.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 100013,

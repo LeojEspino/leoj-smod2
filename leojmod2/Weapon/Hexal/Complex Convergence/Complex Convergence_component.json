@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 100044,
   "Name": "Complex Convergence",
+  "Description": "Catches even the most agile.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,
