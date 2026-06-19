@@ -1,0 +1,43 @@
+{
+  "ItemType": 25,
+  "Id": 100051,
+  "Body": {
+    "Size": 10.0,
+    "Velocity": 20.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 30.0,
+    "HitPoints": 300,
+    "BulletPrefab": 10003
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "IF(t<1, (10*t)+10*t^2, t*20)"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100052,
+      "Color": "#FFF096",
+      "ColorMode": 1,
+      "OffsetX": "-4.5"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100053,
+      "Color": "#00000000",
+      "Quantity": 2,
+      "Rotation": "0",
+      "OffsetX": "2.25",
+      "OffsetY": "2+i*-4"
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 200.0
+    }
+  ]
+}

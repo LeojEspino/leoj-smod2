@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 100053,
+  "Body": {
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 80.0,
+    "Lifetime": 999.0,
+    "BulletPrefab": 19
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "AudioClip": "shot_04",
+      "Ammunition": 100054,
+      "Color": "#FF9494",
+      "ColorMode": 1,
+      "Cooldown": 0.2,
+      "OffsetX": "-80"
+    }
+  ],
+  "ImpactType": 2
+}

@@ -1,0 +1,11 @@
+{
+  "ItemType": 25,
+  "Id": 100052,
+  "Body": {
+    "Size": 2.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Lifetime": 999.0,
+    "BulletPrefab": 10004
+  }
+}

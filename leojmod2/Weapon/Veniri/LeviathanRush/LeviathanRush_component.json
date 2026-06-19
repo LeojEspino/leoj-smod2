@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 100050,
+  "Name": "LeviathanRush",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "star_icon",
+  "Color": "#80FFFF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 100050,
+  "AmmunitionId": 100050
+}
