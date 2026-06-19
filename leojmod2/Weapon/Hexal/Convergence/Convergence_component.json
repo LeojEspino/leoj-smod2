@@ -14,5 +14,15 @@
   "CellType": "4",
   "WeaponId": 100024,
   "AmmunitionId": 100024,
-  "WeaponSlotType": "C"
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
 }

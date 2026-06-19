@@ -10,5 +10,9 @@
   "Level": 40,
   "Icon": "TriModule3.png",
   "Layout": "010010111",
-  "CellType": "5"
+  "CellType": "5",
+  "PossibleModifications": [
+    11,
+    2
+  ]
 }

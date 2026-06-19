@@ -9,5 +9,10 @@
   "Level": 20,
   "Icon": "QuadModule2.png",
   "Layout": "1111",
-  "CellType": "1"
+  "CellType": "1",
+  "PossibleModifications": [
+    1,
+    3,
+    9
+  ]
 }

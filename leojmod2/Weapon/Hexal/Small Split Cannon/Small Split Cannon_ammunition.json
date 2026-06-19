@@ -4,7 +4,7 @@
   "Body": {
     "Size": 0.5,
     "Length": 0.5,
-    "Velocity": 40.0,
+    "Velocity": 20.0,
     "Range": 16.0,
     "Lifetime": 0.25,
     "Color": "#FFFF5E",
@@ -39,7 +39,7 @@
   ],
   "Effects": [
     {
-      "Power": 4.0
+      "Power": 3.0
     }
   ]
 }
