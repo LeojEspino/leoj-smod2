@@ -2,7 +2,7 @@
   "ItemType": 11,
   "Id": 260,
   "Type": 1,
-  "ArmorPoints": 1.0,
-  "ArmorRepairRate": 0.1,
+  "ArmorPoints": 2.0,
+  "ArmorRepairRate": 0.3,
   "Weight": 10.0
 }
