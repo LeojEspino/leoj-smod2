@@ -1,0 +1,21 @@
+{
+  "ItemType": 6,
+  "Id": 100047,
+  "ShipType": 3,
+  "ShipRarity": 2,
+  "SizeClass": 2,
+  "Name": "Literally an Asteroid",
+  "IconImage": "fragment.png",
+  "IconScale": 1.0,
+  "ModelImage": "fragment.png",
+  "ModelScale": 3.0,
+  "Layout": "0111011111111111111101110",
+  "Barrels": [
+    {}
+  ],
+  "Features": {
+    "ShipWeightBonus": 10.0,
+    "EquipmentWeightBonus": 10.0
+  },
+  "BuiltinDevices": []
+}

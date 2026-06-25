@@ -1,0 +1,230 @@
+{
+  "ItemType": 15,
+  "Id": 100012,
+  "Name": "Explore Mysterious Anomaly II",
+  "StartCondition": 3,
+  "Weight": 1.0,
+  "Requirement": {
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 20,
+        "Faction": 1
+      },
+      {
+        "Type": 25,
+        "ItemId": 10001,
+        "MinValue": 700
+      }
+    ]
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "They want you to explore a mysterious anomaly! Though this time they want you to pay some credits upfront for intel about it. Must be more important?",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 3,
+              "MinAmount": 50000,
+              "MaxAmount": 50000
+            }
+          },
+          "ButtonText": "Ok"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "No"
+        },
+        {
+          "TargetNode": 999,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 10001,
+            "MinValue": 800
+          },
+          "ButtonText": "Give me a different mission."
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 42
+    },
+    {
+      "Id": 3,
+      "Type": 36,
+      "DefaultTransition": 4,
+      "Loot": 100013
+    },
+    {
+      "Id": 4,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 5,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 8,
+            "MaxValue": 20
+          }
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 10,
+      "Message": "You have arrived!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 6,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 16,
+      "Transitions": [
+        {
+          "TargetNode": 7,
+          "Weight": 0.5
+        },
+        {
+          "TargetNode": 8,
+          "Weight": 0.5
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 43,
+      "DefaultTransition": 10,
+      "Quest": 100011
+    },
+    {
+      "Id": 8,
+      "Type": 10,
+      "Message": "It's a rift in space!",
+      "Loot": 8,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 9,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 35,
+      "DefaultTransition": 10,
+      "Loot": 8
+    },
+    {
+      "Id": 10,
+      "Type": 10,
+      "Message": "Time to report back!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 11,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 12,
+          "Requirement": {
+            "Type": 30
+          }
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 56,
+      "DefaultTransition": 13,
+      "Value": 15
+    },
+    {
+      "Id": 13,
+      "Type": 15,
+      "Transitions": [
+        {
+          "TargetNode": 14,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 25,
+                "ItemId": 10001,
+                "MinValue": 800
+              }
+            ]
+          }
+        },
+        {
+          "TargetNode": 16,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 10001,
+            "MinValue": 800
+          }
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 10,
+      "Message": "Mission Complete!",
+      "Loot": 100014,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 15,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100014
+    },
+    {
+      "Id": 16,
+      "Type": 10,
+      "Message": "Mission Complete!",
+      "Loot": 100015,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 17,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 17,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100015
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "ItemType": 15,
+  "Id": 10007,
+  "Name": "Explore Debris Field",
+  "StartCondition": 3,
+  "Weight": 1.0,
+  "Requirement": {
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 20,
+        "Faction": 1
+      },
+      {
+        "Type": 25,
+        "ItemId": 10001,
+        "MinValue": 400
+      }
+    ]
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "They want you to go explore a Debris Field somewhere!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        },
+        {
+          "TargetNode": 999,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 10001,
+            "MinValue": 700
+          },
+          "ButtonText": "Give me a different mission."
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 3,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 8,
+            "MaxValue": 20
+          }
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 16,
+      "Message": "You have arrived at the Debris Field!",
+      "Transitions": [
+        {
+          "TargetNode": 4,
+          "Weight": 0.3
+        },
+        {
+          "TargetNode": 7,
+          "Weight": 0.4
+        },
+        {
+          "TargetNode": 8,
+          "Weight": 0.3
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "Pirates Ambushed you!",
+      "Enemy": 3,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Bruh"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 20,
+      "DefaultTransition": 10,
+      "FailureTransition": 6,
+      "Enemy": 3,
+      "Loot": 11
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "Oops you lost!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 999,
+          "ButtonText": "Bruh"
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 10,
+      "Message": "Just a normal asteroid field...",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 10,
+          "ButtonText": "Really?"
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 10,
+      "Message": "Its a mineral asteroid field, you can mine them!",
+      "Loot": 8,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 9,
+          "ButtonText": "Mine"
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 35,
+      "DefaultTransition": 10,
+      "Loot": 8
+    },
+    {
+      "Id": 10,
+      "Type": 17,
+      "Message": "Report Back!",
+      "Transitions": [
+        {
+          "TargetNode": 11,
+          "Requirement": {
+            "Type": 30
+          }
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 56,
+      "DefaultTransition": 12,
+      "Value": 15
+    },
+    {
+      "Id": 12,
+      "Type": 10,
+      "Message": "Mission Complete!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 13,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 13,
+      "Type": 15,
+      "Transitions": [
+        {
+          "TargetNode": 14,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 25,
+                "ItemId": 10001,
+                "MinValue": 700
+              }
+            ]
+          }
+        },
+        {
+          "TargetNode": 16,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 10001,
+            "MinValue": 700
+          }
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 10,
+      "Loot": 10007,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 15,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 10007
+    },
+    {
+      "Id": 16,
+      "Type": 10,
+      "Loot": 10008,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 17,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 17,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 10008
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    }
+  ]
+}

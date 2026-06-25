@@ -1,5 +1,10 @@
 {
   "ItemType": 30,
   "Id": 5,
-  "InitialEnemyShips": "3"
+  "InitialEnemyShips": "3",
+  "CustomSoundtrack": [
+    {
+      "Audio": "Faraway 380,000 Kilometer Voyage"
+    }
+  ]
 }

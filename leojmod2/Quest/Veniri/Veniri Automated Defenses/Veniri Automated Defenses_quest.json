@@ -1,0 +1,195 @@
+{
+  "ItemType": 15,
+  "Id": 10009,
+  "Name": "Deal with troublesome automated defense",
+  "StartCondition": 3,
+  "Weight": 1.0,
+  "Requirement": {
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 20,
+        "Faction": 1
+      },
+      {
+        "Type": 25,
+        "ItemId": 10001,
+        "MinValue": 250
+      }
+    ]
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "They want you to destroy some automated defenses!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        },
+        {
+          "TargetNode": 999,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 10001,
+            "MinValue": 650
+          },
+          "ButtonText": "Give me a different mission."
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 3,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 12,
+            "MaxValue": 30
+          }
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "Hey, its the turrets! Destroy them!",
+      "Enemy": 10009,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "DEMOLISH!"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 20,
+      "DefaultTransition": 5,
+      "FailureTransition": 6,
+      "Enemy": 10009,
+      "Loot": 11
+    },
+    {
+      "Id": 5,
+      "Type": 10,
+      "Message": "Nice you destroyed them!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 8,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "Oops you lost!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 7,
+          "ButtonText": "Bruh."
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 41
+    },
+    {
+      "Id": 8,
+      "Type": 17,
+      "Message": "Report back!",
+      "Transitions": [
+        {
+          "TargetNode": 9,
+          "Requirement": {
+            "Type": 30
+          }
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 56,
+      "DefaultTransition": 10,
+      "Value": 15
+    },
+    {
+      "Id": 10,
+      "Type": 15,
+      "Transitions": [
+        {
+          "TargetNode": 11,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 25,
+                "ItemId": 10001,
+                "MinValue": 650
+              }
+            ]
+          }
+        },
+        {
+          "TargetNode": 13,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 10001,
+            "MinValue": 650
+          }
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 10,
+      "Message": "Mission Complete!",
+      "Loot": 10009,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 12,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 10009
+    },
+    {
+      "Id": 13,
+      "Type": 10,
+      "Message": "Mission Complete!",
+      "Loot": 100010,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 14,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100010
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    }
+  ]
+}

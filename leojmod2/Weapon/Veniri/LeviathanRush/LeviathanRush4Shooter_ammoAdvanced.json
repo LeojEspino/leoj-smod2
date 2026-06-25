@@ -4,7 +4,7 @@
   "Body": {
     "ParentVelocityEffect": 0.0,
     "AttachedToParent": true,
-    "Range": 80.0,
+    "Range": 90.0,
     "Lifetime": 999.0,
     "BulletPrefab": 19
   },
@@ -20,8 +20,8 @@
       "Ammunition": 100054,
       "Color": "#FF9494",
       "ColorMode": 1,
-      "Cooldown": 0.2,
-      "OffsetX": "-80"
+      "Cooldown": 0.33334,
+      "OffsetX": "-90"
     }
   ],
   "ImpactType": 2

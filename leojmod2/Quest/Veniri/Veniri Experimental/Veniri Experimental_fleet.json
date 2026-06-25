@@ -1,0 +1,15 @@
+{
+  "ItemType": 18,
+  "Id": 100020,
+  "Factions": {
+    "Type": 1,
+    "List": [
+      1
+    ]
+  },
+  "LevelBonus": 50,
+  "SpecificShips": [
+    100046
+  ],
+  "CombatRules": 1
+}

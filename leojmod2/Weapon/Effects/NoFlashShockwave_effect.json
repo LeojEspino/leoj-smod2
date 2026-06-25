@@ -1,0 +1,14 @@
+{
+  "ItemType": 26,
+  "Id": 10003,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Size": 1.2
+    },
+    {
+      "Type": 5
+    }
+  ]
+}

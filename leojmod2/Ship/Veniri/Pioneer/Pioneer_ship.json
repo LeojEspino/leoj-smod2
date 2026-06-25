@@ -1,0 +1,53 @@
+{
+  "ItemType": 6,
+  "Id": 100045,
+  "ShipRarity": 3,
+  "SizeClass": 2,
+  "Name": "Pioneer",
+  "Faction": 1,
+  "IconImage": "pioneer.png",
+  "IconScale": 1.0,
+  "ModelImage": "pioneer.png",
+  "ModelScale": 1.7,
+  "EngineColor": "#40FFF096",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.95
+      },
+      "Size": 0.3
+    }
+  ],
+  "Layout": "0000003000000000003330000000000333000000000033300000000002220000000000222000000000022200000004032223040040433222334044343322233434434355555343440035555530040000555550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.1,
+        "y": 0.55
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": -0.55
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.85
+      },
+      "WeaponClass": "C"
+    }
+  ],
+  "BuiltinDevices": []
+}

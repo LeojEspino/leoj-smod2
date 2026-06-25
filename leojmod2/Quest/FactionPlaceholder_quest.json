@@ -1,0 +1,104 @@
+{
+  "ItemType": 15,
+  "Id": 100017,
+  "StartCondition": 3,
+  "Weight": 1.0,
+  "Requirement": {
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 1,
+        "Requirements": [
+          {
+            "Type": 20,
+            "Faction": 10
+          },
+          {
+            "Type": 20,
+            "Faction": 11
+          },
+          {
+            "Type": 20,
+            "Faction": 12
+          },
+          {
+            "Type": 20,
+            "Faction": 13
+          },
+          {
+            "Type": 20,
+            "Faction": 14
+          },
+          {
+            "Type": 20,
+            "Faction": 15
+          },
+          {
+            "Type": 20,
+            "Faction": 16
+          },
+          {
+            "Type": 20,
+            "Faction": 3
+          },
+          {
+            "Type": 20,
+            "Faction": 4
+          },
+          {
+            "Type": 20,
+            "Faction": 5
+          },
+          {
+            "Type": 20,
+            "Faction": 6
+          },
+          {
+            "Type": 20,
+            "Faction": 7
+          },
+          {
+            "Type": 20,
+            "Faction": 8
+          },
+          {
+            "Type": 20,
+            "Faction": 9
+          },
+          {
+            "Type": 20,
+            "Faction": 10002
+          },
+          {
+            "Type": 20,
+            "Faction": 10001
+          }
+        ]
+      }
+    ]
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "This Faction doesn't have quests yet! I would max out your reputation but Tree wouldn't like that so I'll just let you be able to access workshop for now!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 51,
+      "DefaultTransition": 999,
+      "Value": 60
+    }
+  ]
+}

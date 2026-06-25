@@ -7,5 +7,10 @@
   "ShipSelection": 2,
   "DisableSkillBonuses": true,
   "DisableRandomLoot": true,
-  "DisableAsteroids": true
+  "DisableAsteroids": true,
+  "CustomSoundtrack": [
+    {
+      "Audio": "The Rabbit Has Landed"
+    }
+  ]
 }

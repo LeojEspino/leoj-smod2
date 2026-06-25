@@ -1,0 +1,57 @@
+{
+  "ItemType": 15,
+  "Id": 10002,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "A super powerful Veniri ship appears, are you ready?",
+      "Enemy": 10002,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "ATTACK!!!!"
+        },
+        {
+          "TargetNode": 5,
+          "ButtonText": "On second thought, later!"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 20,
+      "DefaultTransition": 4,
+      "FailureTransition": 3,
+      "Enemy": 10002
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "You lost... Care to try again?",
+      "Enemy": 10002,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Retry"
+        },
+        {
+          "TargetNode": 5,
+          "ButtonText": "No"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 35,
+      "DefaultTransition": 5,
+      "Loot": 10002
+    },
+    {
+      "Id": 5,
+      "Type": 40
+    }
+  ]
+}

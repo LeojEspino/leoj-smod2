@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 100068,
+  "Name": "VeniriBossAttack",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "star_icon.png",
+  "Color": "#80FFFF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 100068,
+  "AmmunitionId": 100068,
+  "WeaponSlotType": "B"
+}

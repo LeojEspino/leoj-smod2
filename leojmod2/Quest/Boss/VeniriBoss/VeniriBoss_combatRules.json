@@ -1,0 +1,14 @@
+{
+  "ItemType": 30,
+  "Id": 10001,
+  "TimeLimit": "999",
+  "LootCondition": 2,
+  "ExpCondition": 2,
+  "ShipSelection": 2,
+  "DisableRandomLoot": true,
+  "CustomSoundtrack": [
+    {
+      "Audio": "Old Yuanxian (Spirit World Ver.)"
+    }
+  ]
+}

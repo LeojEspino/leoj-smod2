@@ -1,0 +1,32 @@
+{
+  "ItemType": 25,
+  "Id": 100060,
+  "Body": {
+    "Size": 1E-05,
+    "Range": 5.0,
+    "Lifetime": 0.5,
+    "Color": "#000000"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100061,
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Rotation": "0",
+      "OffsetX": "-20"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "shot_11",
+      "Ammunition": 100062,
+      "Color": "#FF9494",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "OffsetX": "-19.5"
+    }
+  ],
+  "ImpactType": 1
+}

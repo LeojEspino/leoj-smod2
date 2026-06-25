@@ -1,0 +1,18 @@
+{
+  "ItemType": 25,
+  "Id": 100075,
+  "Body": {
+    "AttachedToParent": true,
+    "Range": 1000.0,
+    "Lifetime": 999.0,
+    "BulletPrefab": 4,
+    "FriendlyFire": true
+  },
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 3,
+      "Power": 1000.0
+    }
+  ]
+}

@@ -6,7 +6,7 @@
     "Length": 2.0,
     "Velocity": 50.0,
     "ParentVelocityEffect": 0.0,
-    "Range": 40.0,
+    "Range": 45.0,
     "BulletPrefab": 1
   },
   "Triggers": [
@@ -22,7 +22,7 @@
   ],
   "Effects": [
     {
-      "Power": 15.0
+      "Power": 24.0
     }
   ]
 }

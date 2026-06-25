@@ -6,5 +6,10 @@
   "ExpCondition": 2,
   "ShipSelection": 2,
   "DisableSkillBonuses": true,
-  "DisableRandomLoot": true
+  "DisableRandomLoot": true,
+  "CustomSoundtrack": [
+    {
+      "Audio": "The Rabbit Has Landed"
+    }
+  ]
 }

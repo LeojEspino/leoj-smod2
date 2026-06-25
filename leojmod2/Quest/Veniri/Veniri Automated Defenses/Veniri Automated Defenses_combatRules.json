@@ -1,0 +1,22 @@
+{
+  "ItemType": 30,
+  "Id": 10009,
+  "InitialEnemyShips": "12",
+  "CustomSoundtrack": [
+    {
+      "Audio": "Night Sakura of Dead Spirits"
+    },
+    {
+      "Audio": "Starry Sky of Small Desires"
+    },
+    {
+      "Audio": "Welcome to Youkai Temple"
+    },
+    {
+      "Audio": "Engi Battle"
+    },
+    {
+      "Audio": "Unforgettable, the Nostalgic Greenery"
+    }
+  ]
+}

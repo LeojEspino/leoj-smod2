@@ -1,3 +1,5 @@
 {
-  "ItemType": 107
+  "ItemType": 107,
+  "BaseFlightRange": 3.0,
+  "BaseFlightSpeed": 2.0
 }

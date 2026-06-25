@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 100046,
+  "Name": "Awakened Veniri Beacon",
+  "Description": "Bring to Home Star to initiate a fight against the Veniri Supership",
+  "ComponentStatsId": 3,
+  "Faction": 1,
+  "Icon": "star_circle.png",
+  "Color": "#80FFFF",
+  "Layout": "1111",
+  "CellType": "\u0000"
+}

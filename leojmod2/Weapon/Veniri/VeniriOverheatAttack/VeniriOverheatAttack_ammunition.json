@@ -1,0 +1,58 @@
+{
+  "ItemType": 25,
+  "Id": 100074,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 400.0,
+    "AttachedToParent": true,
+    "Range": 1000.0,
+    "Lifetime": 999.0,
+    "Color": "#80FFFF",
+    "BulletPrefab": 4
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "-0.75"
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 100050,
+      "ColorMode": 1,
+      "Cooldown": 30.0
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 100063,
+      "ColorMode": 1,
+      "Cooldown": 30.0
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 100055,
+      "ColorMode": 1,
+      "Cooldown": 30.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 18,
+      "AudioClip": "CAUTION",
+      "Color": "#80FFFF",
+      "ColorMode": 1,
+      "Size": 5.0,
+      "Lifetime": 999.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100075,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 2
+}

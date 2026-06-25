@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 100074,
+  "Name": "VeniriOverheatAttack",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "star_icon.png",
+  "Color": "#80FFFF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 100074,
+  "AmmunitionId": 100074
+}

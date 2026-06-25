@@ -1,0 +1,37 @@
+{
+  "ItemType": 25,
+  "Id": 100055,
+  "Body": {
+    "Size": 10.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 100.0,
+    "Lifetime": 3.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "AudioClip": "se_cat00",
+      "Color": "#80FFFF",
+      "ColorMode": 1,
+      "Size": 50.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100058,
+      "Color": "#00000000",
+      "ColorMode": 1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100056,
+      "Color": "#00000000",
+      "Quantity": 6,
+      "Rotation": "-30+i*60"
+    }
+  ],
+  "ImpactType": 1
+}

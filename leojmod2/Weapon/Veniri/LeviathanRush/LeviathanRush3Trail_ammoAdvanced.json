@@ -7,5 +7,6 @@
     "AttachedToParent": true,
     "Lifetime": 999.0,
     "BulletPrefab": 10004
-  }
+  },
+  "ImpactType": 1
 }

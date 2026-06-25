@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 100055,
+  "Name": "Scout Squad",
+  "Description": "Summons a squad of Scout Mk2s to pelt your enemies!",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "star_icon.png",
+  "Color": "#80FFFF",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 100055,
+  "AmmunitionId": 100055,
+  "WeaponSlotType": "B"
+}

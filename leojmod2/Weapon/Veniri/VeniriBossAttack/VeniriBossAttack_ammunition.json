@@ -1,0 +1,32 @@
+{
+  "ItemType": 25,
+  "Id": 100068,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 400.0,
+    "AttachedToParent": true,
+    "Range": 1000.0,
+    "Lifetime": 999.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100069,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100070,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100071,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

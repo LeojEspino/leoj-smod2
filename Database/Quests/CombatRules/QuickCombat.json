@@ -4,5 +4,13 @@
   "TimeLimit": "60",
   "LootCondition": 2,
   "ExpCondition": 2,
-  "DisableSkillBonuses": true
+  "DisableSkillBonuses": true,
+  "CustomSoundtrack": [
+    {
+      "Audio": "Bell of Avici  Infinite Nightmare"
+    },
+    {
+      "Audio": "Sleepless Night of the Eastern Country"
+    }
+  ]
 }

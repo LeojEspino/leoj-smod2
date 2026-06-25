@@ -1,0 +1,111 @@
+{
+  "ItemType": 9,
+  "Id": 100031,
+  "SatelliteId": 4,
+  "NotAvailableInGame": true,
+  "DifficultyClass": 3,
+  "Components": [
+    {
+      "ComponentId": 105,
+      "Modification": 66,
+      "Quality": 5,
+      "X": 1
+    },
+    {
+      "ComponentId": 106,
+      "Modification": 66,
+      "Quality": 5,
+      "X": 2
+    },
+    {
+      "ComponentId": 6,
+      "Modification": 3,
+      "Quality": 5,
+      "X": 1,
+      "Y": 2
+    },
+    {
+      "ComponentId": 12,
+      "Modification": 3,
+      "Quality": 5,
+      "X": 4,
+      "Y": 2
+    },
+    {
+      "ComponentId": 6,
+      "Modification": 3,
+      "Quality": 5,
+      "Y": 3
+    },
+    {
+      "ComponentId": 6,
+      "Modification": 3,
+      "Quality": 5,
+      "X": 1,
+      "Y": 3
+    },
+    {
+      "ComponentId": 91,
+      "Modification": 2,
+      "Quality": 5,
+      "X": 2,
+      "Y": 3
+    },
+    {
+      "ComponentId": 12,
+      "Modification": 3,
+      "Quality": 5,
+      "X": 4,
+      "Y": 3
+    },
+    {
+      "ComponentId": 12,
+      "Modification": 3,
+      "Quality": 5,
+      "X": 5,
+      "Y": 3
+    },
+    {
+      "ComponentId": 6,
+      "Modification": 3,
+      "Quality": 5,
+      "X": 1,
+      "Y": 4
+    },
+    {
+      "ComponentId": 69,
+      "Modification": 2,
+      "Quality": 5,
+      "X": 2,
+      "Y": 4
+    },
+    {
+      "ComponentId": 69,
+      "Modification": 2,
+      "Quality": 5,
+      "X": 3,
+      "Y": 4
+    },
+    {
+      "ComponentId": 12,
+      "Modification": 3,
+      "Quality": 5,
+      "X": 4,
+      "Y": 4
+    },
+    {
+      "ComponentId": 6,
+      "Modification": 3,
+      "Quality": 5,
+      "X": 2,
+      "Y": 5
+    },
+    {
+      "ComponentId": 12,
+      "Modification": 3,
+      "Quality": 5,
+      "X": 3,
+      "Y": 5
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "ItemType": 15,
+  "Id": 10004,
+  "QuestType": 2,
+  "StartCondition": 4,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "Oh hi, welcome to the mod I made! Along with Tree too.",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 10,
+      "Message": "Unfortunately he doesn't wanna show himself, but I'll introduce myself!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "I'm Dummy, the creator! I manage the quests and some other thing-a-majig, though however the sprites you see are usually not mine!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "There is also Tree, you may ocassionally see him describe a ship or weapon. He usually directs me on what to do next!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 10,
+      "Message": "Oh also, have some starter gear from me!",
+      "Loot": 10004,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 6,
+          "ButtonText": "FREE STUFF!!!"
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 35,
+      "DefaultTransition": 7,
+      "Loot": 10004
+    },
+    {
+      "Id": 7,
+      "Type": 10,
+      "Message": "Well then, go now! I'll be narrating over the quests you might get!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 999,
+          "ButtonText": "Bye bro"
+        }
+      ]
+    }
+  ]
+}

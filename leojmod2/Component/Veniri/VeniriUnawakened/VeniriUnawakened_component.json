@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 100045,
+  "Name": "Unawakened Veniri Beacon",
+  "Description": "Bring to Home Star to initiate a fight against a strong veniri fleet.",
+  "ComponentStatsId": 3,
+  "Faction": 1,
+  "Icon": "star_icon.png",
+  "Color": "#80FFFF",
+  "Layout": "1",
+  "CellType": "\u0000"
+}

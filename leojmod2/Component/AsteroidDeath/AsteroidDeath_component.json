@@ -1,0 +1,10 @@
+{
+  "ItemType": 1,
+  "Id": 100076,
+  "Name": "AsteroidDeath",
+  "ComponentStatsId": 100076,
+  "Icon": "block",
+  "Layout": "1",
+  "CellType": "\u0000",
+  "DeviceId": 100076
+}

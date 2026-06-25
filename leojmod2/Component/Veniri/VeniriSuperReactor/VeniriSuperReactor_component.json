@@ -1,0 +1,11 @@
+{
+  "ItemType": 1,
+  "Id": 100047,
+  "Name": "VeniriSuperReactor",
+  "Description": "Causes the main weapon to be supercharged!",
+  "ComponentStatsId": 100047,
+  "Icon": "star_circle.png",
+  "Color": "#80FFFF",
+  "Layout": "010101010",
+  "CellType": "\u0000"
+}

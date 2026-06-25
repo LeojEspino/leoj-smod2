@@ -1,0 +1,25 @@
+{
+  "ItemType": 25,
+  "Id": 100077,
+  "Body": {
+    "Size": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100076,
+      "Color": "#00000000",
+      "Quantity": 10,
+      "RandomFactor": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 6,
+      "Color": "#00000000",
+      "Size": 5.0,
+      "Lifetime": 5.0
+    }
+  ]
+}

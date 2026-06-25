@@ -1,0 +1,25 @@
+{
+  "ItemType": 25,
+  "Id": 100072,
+  "Body": {
+    "AttachedToParent": true,
+    "Range": 9999.0,
+    "Lifetime": 999.0,
+    "Color": "#FF6A00",
+    "BulletPrefab": 4,
+    "FriendlyFire": true
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "IF(t>90, 0, -200)",
+    "Size": "IF(t>90, 2, 0)"
+  },
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 3,
+      "Power": 1000.0
+    }
+  ]
+}

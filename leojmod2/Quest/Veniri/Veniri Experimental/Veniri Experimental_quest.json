@@ -1,0 +1,191 @@
+{
+  "ItemType": 15,
+  "Id": 100020,
+  "Name": "Capture stolen experimental ship",
+  "StartCondition": 3,
+  "Weight": 1.0,
+  "Requirement": {
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 20,
+        "Faction": 1
+      },
+      {
+        "Type": 25,
+        "ItemId": 10001,
+        "MinValue": 800
+      }
+    ]
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "They want you to capture a stolen experimental ship! And they'll make us an extra one if we manage to bring it back!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": ">>>"
+        },
+        {
+          "TargetNode": 999,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 10001,
+            "MinValue": 900
+          },
+          "ButtonText": "Give me a different mission."
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 3,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 4,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 1,
+            "MaxValue": 1
+          }
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "There it is! Just attack it!",
+      "Enemy": 100020,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "ATTACK!"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 20,
+      "DefaultTransition": 7,
+      "FailureTransition": 6,
+      "Enemy": 100020,
+      "Loot": 11
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "Dang you lost!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 999,
+          "ButtonText": "Bruh"
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 10,
+      "Message": "Nice you beaten them up, the ship we're looking for has also been captured! Simply need to return it now.",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 8,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 17,
+      "Message": "Return the Veniri Experimental Ship",
+      "Transitions": [
+        {
+          "TargetNode": 9,
+          "Requirement": {
+            "Type": 30
+          }
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 56,
+      "DefaultTransition": 10,
+      "Value": 15
+    },
+    {
+      "Id": 10,
+      "Type": 15,
+      "Transitions": [
+        {
+          "TargetNode": 11,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 25,
+                "ItemId": 10001,
+                "MinValue": 900
+              }
+            ]
+          }
+        },
+        {
+          "TargetNode": 13,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 10001,
+            "MinValue": 900
+          }
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 10,
+      "Message": "Mission Complete! Also you get a new ship!",
+      "Loot": 100020,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 12,
+          "ButtonText": "Sweet"
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100020
+    },
+    {
+      "Id": 13,
+      "Type": 10,
+      "Message": "Mission Complete! Also you get a new ship!",
+      "Loot": 100021,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 14,
+          "ButtonText": "Sweet"
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100021
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ItemType": 25,
+  "Id": 100070,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Lifetime": 30.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100050,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

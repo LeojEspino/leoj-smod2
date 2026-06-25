@@ -4,7 +4,6 @@
   "RemoveUnlimitedRespawnMod": true,
   "RemoveEnergyRechargeCdMod": true,
   "RemoveShieldRechargeCdMod": true,
-  "RemoveBiggerSatellitesMod": true,
   "HeatDefenseValue": 0.25,
   "KineticDefenseValue": 0.25,
   "EnergyDefenseValue": 0.25,

@@ -1,0 +1,10 @@
+{
+  "ItemType": 1,
+  "Id": 100048,
+  "Name": "VeniriBossReactor",
+  "ComponentStatsId": 100048,
+  "Icon": "star_circle.png",
+  "Color": "#80FFFF",
+  "Layout": "010101010",
+  "CellType": "\u0000"
+}

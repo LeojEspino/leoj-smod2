@@ -1,3 +1,27 @@
 {
-  "ItemType": 112
+  "ItemType": 112,
+  "MainMenuMusic": [
+    {
+      "Audio": "Spirit of Avarice"
+    }
+  ],
+  "GalaxyMapMusic": [
+    {
+      "Audio": "Mantis Explore"
+    },
+    {
+      "Audio": "MilkyWay Explore"
+    },
+    {
+      "Audio": "Rockmen Explore"
+    },
+    {
+      "Audio": "Zoltan Explore"
+    }
+  ],
+  "ExplorationMusic": [
+    {
+      "Audio": "Federal Explore"
+    }
+  ]
 }
