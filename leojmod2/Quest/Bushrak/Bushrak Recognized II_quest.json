@@ -24,6 +24,16 @@
         "Type": 25,
         "ItemId": 10002,
         "MinValue": 850
+      },
+      {
+        "Type": 3,
+        "Requirements": [
+          {
+            "Type": 16,
+            "MinValue": -1,
+            "MaxValue": -100
+          }
+        ]
       }
     ]
   },
