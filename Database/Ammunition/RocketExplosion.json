@@ -6,8 +6,7 @@
     "ParentVelocityEffect": 0.0,
     "Lifetime": 0.5,
     "Color": "#FF0000",
-    "EnergyCost": 1.0,
-    "Type": 2
+    "EnergyCost": 1.0
   },
   "Controller": {
     "StartingVelocityModifier": 0.1

@@ -1,0 +1,34 @@
+{
+  "ItemType": 16,
+  "Id": 100044,
+  "Loot": {
+    "Type": 21,
+    "Items": [
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 150000,
+          "MaxAmount": 150000
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 4,
+          "MinAmount": 90,
+          "MaxAmount": 90
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 25,
+          "ItemId": 10001,
+          "MinAmount": 50,
+          "MaxAmount": 50
+        }
+      }
+    ]
+  }
+}

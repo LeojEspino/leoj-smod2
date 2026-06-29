@@ -47,7 +47,7 @@
     {
       "Id": 4,
       "Type": 10,
-      "Message": "There is also Tree, you may ocassionally see him describe a ship or weapon. He usually directs me on what to do next!",
+      "Message": "There is also Tree, you may ocassionally see him describe a ship or weapon. They make the quest ideas and usually directs me on what to do next!",
       "Character": 5365,
       "Actions": [
         {
@@ -78,7 +78,7 @@
     {
       "Id": 7,
       "Type": 10,
-      "Message": "Well then, go now! I'll be narrating over the quests you might get!",
+      "Message": "Well then, go now! I'll be narrating over the quests you might get! Oh and there's a faction reputation system in-place, try doing their missions!",
       "Character": 5365,
       "Actions": [
         {

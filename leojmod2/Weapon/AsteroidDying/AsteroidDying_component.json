@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 100087,
+  "Name": "AsteroidDying",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "block",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 100087,
+  "AmmunitionId": 100087
+}

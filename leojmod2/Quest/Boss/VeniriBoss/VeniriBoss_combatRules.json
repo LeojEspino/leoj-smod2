@@ -4,7 +4,6 @@
   "TimeLimit": "999",
   "LootCondition": 2,
   "ExpCondition": 2,
-  "ShipSelection": 2,
   "DisableRandomLoot": true,
   "CustomSoundtrack": [
     {

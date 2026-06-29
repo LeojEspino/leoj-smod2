@@ -112,7 +112,7 @@
       "Id": 8,
       "Type": 10,
       "Message": "It's a rift in space!",
-      "Loot": 8,
+      "Loot": 100023,
       "Character": 5365,
       "Actions": [
         {
@@ -125,7 +125,7 @@
       "Id": 9,
       "Type": 35,
       "DefaultTransition": 10,
-      "Loot": 8
+      "Loot": 100023
     },
     {
       "Id": 10,
@@ -142,6 +142,7 @@
     {
       "Id": 11,
       "Type": 17,
+      "Message": "Report back",
       "Transitions": [
         {
           "TargetNode": 12,

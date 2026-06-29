@@ -1,0 +1,13 @@
+{
+  "ItemType": 16,
+  "Id": 100056,
+  "Loot": {
+    "Type": 10,
+    "MinAmount": 40,
+    "MaxAmount": 50,
+    "ValueRatio": 3.0,
+    "Factions": {
+      "Type": 3
+    }
+  }
+}

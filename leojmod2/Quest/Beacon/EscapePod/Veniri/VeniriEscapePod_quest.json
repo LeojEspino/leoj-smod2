@@ -1,0 +1,109 @@
+{
+  "ItemType": 15,
+  "Id": 100041,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 16,
+      "Transitions": [
+        {
+          "TargetNode": 2,
+          "Requirement": {},
+          "Weight": 0.1
+        },
+        {
+          "TargetNode": 4,
+          "Weight": 0.5
+        },
+        {
+          "TargetNode": 6,
+          "Weight": 0.3
+        },
+        {
+          "TargetNode": 8,
+          "Weight": 0.1
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 10,
+      "Message": "You dropped off a pretty irrelevant person. They reward you their thanks.",
+      "Loot": 100036,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100036
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "You dropped off a Veniri person. They reward you their thanks.",
+      "Loot": 100042,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100042
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "You dropped off a pretty important Veniri person! They reward you their thanks!",
+      "Loot": 100043,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 7,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100043
+    },
+    {
+      "Id": 8,
+      "Type": 10,
+      "Message": "You dropped off a very important Veniri person! They reward you a pretty exquisite thanks!",
+      "Loot": 100044,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 9,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100044
+    }
+  ]
+}

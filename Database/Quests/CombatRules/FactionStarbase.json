@@ -1,7 +1,8 @@
 {
   "ItemType": 30,
   "Id": 4,
-  "InitialEnemyShips": "3",
+  "InitialEnemyShips": "99",
+  "MaxEnemyShips": "99",
   "DisablePlanet": true,
   "CustomSoundtrack": [
     {

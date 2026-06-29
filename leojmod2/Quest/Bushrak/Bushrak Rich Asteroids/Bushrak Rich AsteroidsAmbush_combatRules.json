@@ -1,0 +1,17 @@
+{
+  "ItemType": 30,
+  "Id": 100027,
+  "InitialEnemyShips": "32",
+  "MaxEnemyShips": "32",
+  "BattleMapSize": 300,
+  "LootCondition": 2,
+  "ExpCondition": 2,
+  "DisableRandomLoot": true,
+  "DisableAsteroids": true,
+  "DisablePlanet": true,
+  "CustomSoundtrack": [
+    {
+      "Audio": "Galactic Battle"
+    }
+  ]
+}

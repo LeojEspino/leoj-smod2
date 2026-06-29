@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 100090,
+  "Name": "AsteroidDEATH",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "block",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 100090,
+  "AmmunitionId": 100090
+}

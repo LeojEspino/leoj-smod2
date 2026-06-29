@@ -1,0 +1,25 @@
+{
+  "ItemType": 16,
+  "Id": 100023,
+  "Loot": {
+    "Type": 21,
+    "Items": [
+      {
+        "Loot": {
+          "Type": 25,
+          "ItemId": 16,
+          "MinAmount": 2,
+          "MaxAmount": 10
+        }
+      },
+      {
+        "Loot": {
+          "Type": 25,
+          "ItemId": 5,
+          "MinAmount": 10,
+          "MaxAmount": 50
+        }
+      }
+    ]
+  }
+}

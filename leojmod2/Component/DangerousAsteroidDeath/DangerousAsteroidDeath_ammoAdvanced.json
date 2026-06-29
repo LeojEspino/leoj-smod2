@@ -1,0 +1,24 @@
+{
+  "ItemType": 25,
+  "Id": 100081,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 20.0,
+    "Range": 9999.0,
+    "HitPoints": 10,
+    "BulletPrefab": 10009,
+    "CanBeDisarmed": true,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "explosion_04",
+      "Ammunition": 100082,
+      "Color": "#00000000",
+      "Size": 3.0,
+      "PowerMultiplier": 30.0
+    }
+  ]
+}

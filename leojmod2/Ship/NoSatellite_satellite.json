@@ -1,0 +1,12 @@
+{
+  "ItemType": 7,
+  "Id": 1000,
+  "Name": "NoSatellite",
+  "ModelImage": "satellite1",
+  "ModelScale": 0.1,
+  "SizeClass": -1,
+  "Layout": "0",
+  "Barrels": [
+    {}
+  ]
+}

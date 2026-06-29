@@ -2,7 +2,6 @@
   "ItemType": 15,
   "Id": 6,
   "StartCondition": 1,
-  "Weight": 0.7,
   "Nodes": [
     {
       "Id": 1,

@@ -1,0 +1,39 @@
+{
+  "ItemType": 16,
+  "Id": 100033,
+  "Loot": {
+    "Type": 21,
+    "Items": [
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 150000,
+          "MaxAmount": 150000
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 4,
+          "MinAmount": 90,
+          "MaxAmount": 90
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 41,
+          "MinAmount": 3,
+          "MaxAmount": 3,
+          "Factions": {
+            "Type": 1,
+            "List": [
+              2
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

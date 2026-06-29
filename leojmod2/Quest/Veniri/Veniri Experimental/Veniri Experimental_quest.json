@@ -52,8 +52,8 @@
           "TargetNode": 4,
           "Requirement": {
             "Type": 7,
-            "MinValue": 1,
-            "MaxValue": 1
+            "MinValue": 15,
+            "MaxValue": 30
           }
         }
       ]

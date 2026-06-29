@@ -7,7 +7,7 @@
   "AvailableForEnemy": false,
   "DifficultyClass": 0,
   "BuildFaction": 0,
-  "CustomAI": 0,
+  "CustomAI": 2,
   "Components": [
     {
       "ComponentId": 11,
@@ -15,7 +15,7 @@
       "Quality": 0,
       "X": 1,
       "Y": 0,
-      "BarrelId": -1,
+      "BarrelId": 0,
       "Behaviour": 0,
       "KeyBinding": 0
     },
@@ -25,7 +25,7 @@
       "Quality": 0,
       "X": 3,
       "Y": 0,
-      "BarrelId": -1,
+      "BarrelId": 0,
       "Behaviour": 0,
       "KeyBinding": 0
     },
@@ -35,7 +35,7 @@
       "Quality": 0,
       "X": 3,
       "Y": 1,
-      "BarrelId": -1,
+      "BarrelId": 0,
       "Behaviour": 0,
       "KeyBinding": 0
     },
@@ -45,7 +45,7 @@
       "Quality": 0,
       "X": 2,
       "Y": 2,
-      "BarrelId": -1,
+      "BarrelId": 0,
       "Behaviour": 0,
       "KeyBinding": 0
     }
@@ -58,6 +58,6 @@
   },
   "ExtendedLayout": false,
   "RandomColor": false,
-  "LeftSatelliteBuild": 0,
-  "RightSatelliteBuild": 0
+  "LeftSatelliteBuild": 1000,
+  "RightSatelliteBuild": 1000
 }

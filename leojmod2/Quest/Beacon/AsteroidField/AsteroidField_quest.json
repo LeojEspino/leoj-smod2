@@ -1,0 +1,67 @@
+{
+  "ItemType": 15,
+  "Id": 100048,
+  "StartCondition": 1,
+  "Weight": 0.2,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "The beacon here seems abandoned, however there seems to be a mineable asteroid field nearby. Wanna mine them?",
+      "Enemy": 100025,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "Nah"
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 20,
+      "DefaultTransition": 4,
+      "FailureTransition": 3,
+      "Enemy": 100025
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "How did you lose to this...",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 999,
+          "ButtonText": "Oops"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "You successfully mined the asteroid field!",
+      "Loot": 100048,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100048
+    }
+  ]
+}

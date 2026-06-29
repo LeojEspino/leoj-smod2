@@ -1,0 +1,36 @@
+{
+  "ItemType": 25,
+  "Id": 100080,
+  "Body": {
+    "Size": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 6,
+      "AudioClip": "explosion_04",
+      "Color": "#00000000",
+      "Size": 5.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100081,
+      "Color": "#FF6A00",
+      "ColorMode": 1,
+      "Quantity": 20,
+      "RandomFactor": 1.0,
+      "PowerMultiplier": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100079,
+      "Color": "#00000000",
+      "Quantity": 20,
+      "RandomFactor": 1.0
+    }
+  ]
+}

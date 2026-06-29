@@ -17,6 +17,7 @@
       "Condition": 5,
       "EffectType": 1,
       "VisualEffect": 6,
+      "AudioClip": "explosion_04",
       "Color": "#00000000",
       "Size": 5.0,
       "Lifetime": 5.0

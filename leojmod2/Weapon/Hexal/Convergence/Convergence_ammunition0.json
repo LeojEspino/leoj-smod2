@@ -6,14 +6,19 @@
     "ParentVelocityEffect": 0.0,
     "AttachedToParent": true,
     "Range": 20.0,
-    "Lifetime": 0.05,
+    "Lifetime": 0.15,
     "Color": "#FFFF5E",
     "BulletPrefab": 4,
     "EnergyCost": 4.0
   },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "-20+t*400"
+  },
   "Triggers": [
     {
-      "Condition": 5,
+      "Condition": 8,
       "EffectType": 2,
       "AudioClip": "shot_04",
       "Ammunition": 100025,
@@ -21,17 +26,8 @@
       "ColorMode": 1,
       "Quantity": 1,
       "Size": 1.0,
-      "Rotation": "-20"
-    },
-    {
-      "Condition": 5,
-      "EffectType": 2,
-      "Ammunition": 100024,
-      "Color": "#00000000",
-      "Quantity": 1,
-      "Size": 1.0,
-      "MaxNestingLevel": 2,
-      "Rotation": "20"
+      "Cooldown": 0.05,
+      "Rotation": "0"
     }
   ]
 }

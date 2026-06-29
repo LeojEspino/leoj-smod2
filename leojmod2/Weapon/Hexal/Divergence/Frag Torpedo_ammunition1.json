@@ -8,7 +8,8 @@
     "Range": 15.0,
     "Lifetime": 1.0,
     "Color": "#FFFF5E",
-    "BulletPrefab": 10001
+    "BulletPrefab": 10001,
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {

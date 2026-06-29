@@ -1,0 +1,8 @@
+{
+  "ItemType": 2,
+  "Id": 100080,
+  "AmmunitionId": 100080,
+  "DeviceClass": 23,
+  "Power": 1.0,
+  "ControlButtonIcon": "controls_boost"
+}

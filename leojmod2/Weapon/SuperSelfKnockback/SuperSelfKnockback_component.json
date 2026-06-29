@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 100085,
+  "Name": "SuperSelfKnockback",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "block",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 100085,
+  "AmmunitionId": 100085
+}

@@ -4,25 +4,27 @@
   "Body": {
     "Size": 0.1,
     "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
     "Range": 30.0,
-    "Lifetime": 0.2,
+    "Lifetime": 0.29,
     "Color": "#FFFF5E",
     "BulletPrefab": 4,
     "EnergyCost": 6.0
   },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "IF(t<0.15, -10+t*200, 20-(t-0.15)*200)"
+  },
   "Triggers": [
     {
-      "Condition": 1,
+      "Condition": 8,
       "EffectType": 2,
-      "Ammunition": 100045,
+      "Ammunition": 100047,
       "Color": "#00000000",
-      "Quantity": 1
-    },
-    {
-      "Condition": 5,
-      "EffectType": 2,
-      "Ammunition": 100046,
-      "Color": "#00000000"
+      "Quantity": 1,
+      "Cooldown": 0.05
     }
-  ]
+  ],
+  "ImpactType": 1
 }

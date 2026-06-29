@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 100090,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Range": 10.0,
+    "Lifetime": 100.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "AudioClip": "explosion_01",
+      "Color": "#00000000",
+      "Size": 100.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100091,
+      "Color": "#0AFFFFFF",
+      "ColorMode": 1
+    }
+  ],
+  "ImpactType": 1
+}

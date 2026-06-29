@@ -122,7 +122,7 @@
       "Id": 8,
       "Type": 10,
       "Message": "Its a mineral asteroid field, you can mine them!",
-      "Loot": 8,
+      "Loot": 100024,
       "Character": 5365,
       "Actions": [
         {
@@ -135,7 +135,7 @@
       "Id": 9,
       "Type": 35,
       "DefaultTransition": 10,
-      "Loot": 8
+      "Loot": 100024
     },
     {
       "Id": 10,

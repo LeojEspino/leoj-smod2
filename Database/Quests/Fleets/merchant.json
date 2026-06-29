@@ -4,5 +4,8 @@
   "Factions": {
     "Type": 3
   },
-  "LevelBonus": 20
+  "LevelBonus": 20,
+  "SpecificShips": [
+    248
+  ]
 }

@@ -9,7 +9,8 @@
     "Lifetime": 0.25,
     "Color": "#FFFF5E",
     "BulletPrefab": 2,
-    "EnergyCost": 1.0
+    "EnergyCost": 1.0,
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {

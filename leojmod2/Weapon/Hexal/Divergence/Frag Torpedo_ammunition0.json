@@ -7,7 +7,8 @@
     "Range": 30.0,
     "Color": "#FFFF5E",
     "BulletPrefab": 4,
-    "EnergyCost": 8.0
+    "EnergyCost": 8.0,
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {

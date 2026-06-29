@@ -71,7 +71,8 @@
                 "Loot": {
                   "Type": 35,
                   "ItemId": 100045,
-                  "MinAmount": 1
+                  "MinAmount": 1,
+                  "MaxAmount": 1
                 }
               }
             ]
@@ -88,7 +89,8 @@
                 "Loot": {
                   "Type": 35,
                   "ItemId": 100046,
-                  "MinAmount": 1
+                  "MinAmount": 1,
+                  "MaxAmount": 1
                 }
               }
             ]
@@ -110,7 +112,8 @@
             "Loot": {
               "Type": 35,
               "ItemId": 100045,
-              "MinAmount": 1
+              "MinAmount": 1,
+              "MaxAmount": 1
             }
           },
           "ButtonText": "Veniri"
@@ -130,7 +133,8 @@
             "Loot": {
               "Type": 35,
               "ItemId": 100046,
-              "MinAmount": 1
+              "MinAmount": 1,
+              "MaxAmount": 1
             }
           },
           "ButtonText": "Veniri"

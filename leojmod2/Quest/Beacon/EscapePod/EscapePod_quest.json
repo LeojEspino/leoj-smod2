@@ -1,0 +1,282 @@
+{
+  "ItemType": 15,
+  "Id": 100036,
+  "Name": "Escape Pod",
+  "StartCondition": 1,
+  "Weight": 0.25,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "Seems there's an escape pod here! Will you save them?",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Yeah sure"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "Somebody else's problem"
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 16,
+      "Transitions": [
+        {
+          "TargetNode": 3,
+          "Weight": 0.3
+        },
+        {
+          "TargetNode": 8,
+          "Weight": 0.7
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "Pirates showed up! They offer you a reward if you give them the escape pod. They'll fight you if you decline!",
+      "Enemy": 3,
+      "Loot": 100040,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "Give them the escape pod"
+        },
+        {
+          "TargetNode": 5,
+          "ButtonText": "Attack them!"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100040
+    },
+    {
+      "Id": 5,
+      "Type": 20,
+      "DefaultTransition": 7,
+      "FailureTransition": 6,
+      "Enemy": 3,
+      "Loot": 11
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "Ah, you lost.",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 999,
+          "ButtonText": "Bruh"
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 10,
+      "Message": "You successfully defeated the pirates! Now time to save the person in the escape pod!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 8,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 9,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 3,
+            "MaxValue": 5
+          }
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 16,
+      "Transitions": [
+        {
+          "TargetNode": 10,
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 19,
+          "Requirement": {
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 25,
+                "ItemId": 10001,
+                "MinValue": 1
+              },
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 25,
+                    "ItemId": 10001,
+                    "MinValue": 800
+                  }
+                ]
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 20,
+          "Requirement": {
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 25,
+                "ItemId": 10002,
+                "MinValue": 1
+              },
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 25,
+                    "ItemId": 10002,
+                    "MinValue": 800
+                  }
+                ]
+              }
+            ]
+          },
+          "Weight": 1.0
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Type": 16,
+      "DefaultTransition": 13,
+      "Transitions": [
+        {
+          "TargetNode": 11,
+          "Weight": 0.1
+        },
+        {
+          "TargetNode": 13,
+          "Weight": 0.5
+        },
+        {
+          "TargetNode": 15,
+          "Weight": 0.3
+        },
+        {
+          "TargetNode": 17,
+          "Weight": 0.1
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 10,
+      "Message": "You dropped off a pretty irrelevant person. They reward you their thanks.",
+      "Loot": 100036,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 12,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100036
+    },
+    {
+      "Id": 13,
+      "Type": 10,
+      "Message": "You dropped off a pretty normal person. They reward you their thanks.",
+      "Loot": 100037,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 14,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100037
+    },
+    {
+      "Id": 15,
+      "Type": 10,
+      "Message": "You dropped off a pretty important person! They reward you their thanks!",
+      "Loot": 100038,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 16,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 16,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100038
+    },
+    {
+      "Id": 17,
+      "Type": 10,
+      "Message": "You dropped off a very important person! They reward you a pretty exquisite thanks!",
+      "Loot": 100039,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 18,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 18,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100039
+    },
+    {
+      "Id": 19,
+      "Type": 43,
+      "DefaultTransition": 999,
+      "Quest": 100041
+    },
+    {
+      "Id": 20,
+      "Type": 43,
+      "DefaultTransition": 999,
+      "Quest": 100045
+    }
+  ]
+}

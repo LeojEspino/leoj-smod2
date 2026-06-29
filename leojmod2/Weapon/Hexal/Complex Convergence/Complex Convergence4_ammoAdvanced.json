@@ -15,6 +15,12 @@
       "EffectType": 2,
       "Ammunition": 100048,
       "Color": "#00000000"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "shot_04",
+      "Color": "#00000000"
     }
   ],
   "ImpactType": 1,

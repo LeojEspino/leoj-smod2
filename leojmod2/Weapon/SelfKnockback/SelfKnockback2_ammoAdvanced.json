@@ -1,0 +1,18 @@
+{
+  "ItemType": 25,
+  "Id": 100084,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 1.0,
+    "Range": 10.0,
+    "BulletPrefab": 4,
+    "FriendlyFire": true
+  },
+  "Effects": [
+    {
+      "Type": 1,
+      "Power": 150.0,
+      "Factor": 15.0
+    }
+  ]
+}

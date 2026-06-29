@@ -113,7 +113,7 @@
       "Id": 6,
       "Type": 10,
       "Message": "A rift in space!",
-      "Loot": 8,
+      "Loot": 100023,
       "Character": 5365,
       "Actions": [
         {
@@ -126,7 +126,7 @@
       "Id": 7,
       "Type": 35,
       "DefaultTransition": 8,
-      "Loot": 8
+      "Loot": 100023
     },
     {
       "Id": 8,

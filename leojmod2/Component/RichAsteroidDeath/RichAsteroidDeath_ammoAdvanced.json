@@ -1,0 +1,29 @@
+{
+  "ItemType": 25,
+  "Id": 100079,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 10.0,
+    "Range": 9999.0,
+    "HitPoints": 10,
+    "BulletPrefab": 10009,
+    "CanBeDisarmed": true,
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 6,
+      "AudioClip": "hit_03",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 10.0
+    }
+  ]
+}

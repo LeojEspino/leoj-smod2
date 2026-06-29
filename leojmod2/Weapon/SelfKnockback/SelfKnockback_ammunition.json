@@ -1,0 +1,22 @@
+{
+  "ItemType": 25,
+  "Id": 100083,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 1.0,
+    "Range": 1.0,
+    "Lifetime": 1E-05,
+    "BulletPrefab": 4,
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 100084,
+      "Color": "#00000000",
+      "Rotation": "RANDOM(0,360)"
+    }
+  ],
+  "ImpactType": 1
+}

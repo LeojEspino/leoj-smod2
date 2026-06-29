@@ -1,0 +1,18 @@
+{
+  "ItemType": 25,
+  "Id": 100091,
+  "Body": {
+    "Size": 1000.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 100.0,
+    "Lifetime": 9999.0,
+    "BulletPrefab": 5365
+  },
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 3,
+      "Power": 9999.0
+    }
+  ]
+}
