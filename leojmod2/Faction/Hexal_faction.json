@@ -3,5 +3,6 @@
   "Id": 10002,
   "Name": "Hexal",
   "Color": "#FFFF5E",
-  "HomeStarDistance": 10
+  "HomeStarDistance": 10,
+  "WanderingShipsDistance": 10
 }

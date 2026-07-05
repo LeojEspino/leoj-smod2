@@ -36,14 +36,8 @@
         ]
       },
       {
-        "Type": 3,
-        "Requirements": [
-          {
-            "Type": 16,
-            "MinValue": -1,
-            "MaxValue": -100
-          }
-        ]
+        "Type": 16,
+        "MaxValue": 29
       }
     ]
   },
