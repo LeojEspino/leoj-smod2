@@ -16,8 +16,16 @@
       "VisualEffect": 1,
       "AudioClip": "hit_01",
       "Color": "#00000000",
-      "Size": 0.5,
-      "Lifetime": 0.25
+      "Size": 2.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 8,
+      "EffectType": 4,
+      "VisualEffect": 11,
+      "Color": "#00000000",
+      "Size": 1.5,
+      "Lifetime": 0.5
     }
   ],
   "Effects": [

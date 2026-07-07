@@ -5,15 +5,14 @@
     "Size": 1.0,
     "Velocity": 30.0,
     "ParentVelocityEffect": 0.0,
-    "Range": 5.0,
-    "Color": "#FFFF5E"
+    "Range": 5.0
   },
   "Triggers": [
     {
       "Condition": 1,
       "EffectType": 2,
       "Ammunition": 100028,
-      "Color": "#2D2D2D",
+      "ColorMode": 3,
       "Quantity": 2,
       "Rotation": "0",
       "OffsetY": "-1+i*2"
@@ -22,8 +21,25 @@
       "Condition": 5,
       "EffectType": 2,
       "Ammunition": 100029,
-      "Color": "#00000000",
+      "ColorMode": 3,
       "MaxNestingLevel": 5
+    },
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 2,
+      "AudioClip": "explosion_02",
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 0.5
     }
   ],
   "ImpactType": 1
