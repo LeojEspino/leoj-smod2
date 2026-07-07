@@ -6,6 +6,7 @@
   "SizeClass": 4,
   "Name": "Veniri Supership",
   "Description": "SPEED UNMATCHED!!!",
+  "Faction": 1,
   "IconImage": "VeniriSupership.png",
   "IconScale": 1.0,
   "ModelImage": "VeniriSupership.png",

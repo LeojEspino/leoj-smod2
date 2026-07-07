@@ -15,15 +15,16 @@
         "Weight": 1.0,
         "Loot": {
           "Type": 4,
-          "MinAmount": 100
+          "MinAmount": 500,
+          "MaxAmount": 500
         }
       },
       {
         "Weight": 1.0,
         "Loot": {
           "Type": 3,
-          "MinAmount": 100000,
-          "MaxAmount": 100000
+          "MinAmount": 2000000,
+          "MaxAmount": 2000000
         }
       },
       {

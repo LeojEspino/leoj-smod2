@@ -4,6 +4,43 @@
   "Nodes": [
     {
       "Id": 1,
+      "Type": 15,
+      "Transitions": [
+        {
+          "TargetNode": 6,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 35,
+                  "ItemId": 100046,
+                  "MinAmount": 1,
+                  "MaxAmount": 1
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 7,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 35,
+              "ItemId": 100046,
+              "MinAmount": 1,
+              "MaxAmount": 1
+            }
+          },
+          "Weight": 1.0
+        }
+      ]
+    },
+    {
+      "Id": 6,
       "Type": 10,
       "Message": "A super powerful Veniri Fleet appears, are you ready?",
       "Enemy": 10001,
@@ -54,6 +91,30 @@
     {
       "Id": 5,
       "Type": 40
+    },
+    {
+      "Id": 7,
+      "Type": 10,
+      "Message": "A super powerful Veniri Fleet appears- Haven't you beaten them already? I'm not giving extra rewards for redoing this!",
+      "Enemy": 10001,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 8,
+          "ButtonText": "I want to fight again!"
+        },
+        {
+          "TargetNode": 5,
+          "ButtonText": "Nevermind."
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 20,
+      "DefaultTransition": 5,
+      "FailureTransition": 5,
+      "Enemy": 10001
     }
   ]
 }

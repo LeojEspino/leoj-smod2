@@ -3,7 +3,6 @@
   "Id": 10004,
   "SizeClass": 3,
   "Name": "Woodpecker",
-  "Faction": 10001,
   "IconImage": "woodpeckerexi.png",
   "IconScale": 1.0,
   "ModelImage": "woodpeckerexm.png",
