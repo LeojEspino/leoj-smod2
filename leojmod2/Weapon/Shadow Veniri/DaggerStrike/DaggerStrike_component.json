@@ -1,0 +1,34 @@
+{
+  "ItemType": 1,
+  "Id": 100097,
+  "Name": "Striker",
+  "Description": "Teleports you forward and does a single strike",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 200,
+  "Icon": "laser4_1.png",
+  "Color": "#00FF00",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 100097,
+  "AmmunitionId": 100097,
+  "WeaponSlotType": "S",
+  "Restrictions": {
+    "ShipSizes": [
+      0,
+      1,
+      2,
+      3,
+      -1
+    ]
+  },
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

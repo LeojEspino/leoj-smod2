@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1000165,
+  "Name": "Ò:Z",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 1000165,
+  "Faction": 10004,
+  "Level": 350,
+  "Icon": "evilresist.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    3,
+    2
+  ]
+}

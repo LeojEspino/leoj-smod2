@@ -1,0 +1,27 @@
+{
+  "ItemType": 25,
+  "Id": 1000136,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "pinkyryoshu_3_2-3",
+      "Ammunition": 1000134,
+      "Color": "#00000000",
+      "OffsetX": "-100"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000138,
+      "Color": "#00000000",
+      "OffsetX": "-100"
+    }
+  ],
+  "ImpactType": 2
+}

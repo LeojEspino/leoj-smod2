@@ -1,0 +1,38 @@
+{
+  "ItemType": 25,
+  "Id": 1000175,
+  "Body": {
+    "Size": 10.0,
+    "Velocity": 1.0,
+    "AttachedToParent": true,
+    "Range": 10.0,
+    "Lifetime": 0.25,
+    "Color": "#7F0000",
+    "EnergyCost": 15.0,
+    "AiBulletBehavior": 3
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "AudioClip": "se_slash",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000176,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Type": 17,
+      "Power": 20.0
+    }
+  ]
+}

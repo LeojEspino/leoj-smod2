@@ -1,0 +1,17 @@
+{
+  "ItemType": 25,
+  "Id": 1000145,
+  "Body": {
+    "Size": 10.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Lifetime": 999.0,
+    "BulletPrefab": 10004
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Size": "IF(t<3, t*0.33, 1)"
+  },
+  "ImpactType": 1
+}

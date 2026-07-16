@@ -1,0 +1,32 @@
+{
+  "ItemType": 25,
+  "Id": 100097,
+  "Body": {
+    "Size": 1.0,
+    "Length": 1.0,
+    "Velocity": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 5.0,
+    "Lifetime": 1E-05,
+    "Color": "#00FF00",
+    "BulletPrefab": 4,
+    "EnergyCost": 10.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "cinqsinc_2_1-1",
+      "Ammunition": 100098,
+      "Color": "#00000000",
+      "Rotation": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 100099,
+      "Color": "#00000000"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ItemType": 1,
+  "Id": 1000131,
+  "Name": "Sword of Heavens - Durandal",
+  "Description": "Unleash the Sword of Heavens to strike upon your enemy!",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 300,
+  "Icon": "doom13.png",
+  "Color": "#00FF00",
+  "Layout": "1111111111111111111111111",
+  "CellType": "4",
+  "WeaponId": 1000131,
+  "AmmunitionId": 1000131,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

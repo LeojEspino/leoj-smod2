@@ -1,0 +1,48 @@
+{
+  "ItemType": 25,
+  "Id": 1000176,
+  "Body": {
+    "Size": 10.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 20.0
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000178,
+      "Color": "#7F0000",
+      "ColorMode": 1,
+      "Cooldown": 0.05,
+      "Rotation": "0",
+      "OffsetX": "RANDOM(-5,5)",
+      "OffsetY": "RANDOM(-5,5)"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10005,
+      "Color": "#1E0000",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 20.0
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000179,
+      "Color": "#7F0000",
+      "ColorMode": 1,
+      "Cooldown": 0.05,
+      "OffsetX": "RANDOM(-2.5,2.5)",
+      "OffsetY": "RANDOM(-2.5,2.5)"
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 3,
+      "Power": 20.0
+    }
+  ]
+}

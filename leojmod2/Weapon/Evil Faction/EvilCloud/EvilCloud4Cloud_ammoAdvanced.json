@@ -1,0 +1,23 @@
+{
+  "ItemType": 25,
+  "Id": 1000178,
+  "Body": {
+    "Size": 2.0,
+    "Velocity": 5.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 10.0,
+    "Lifetime": 2.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10005,
+      "Color": "#330000",
+      "ColorMode": 1,
+      "Size": 1.0
+    }
+  ],
+  "ImpactType": 2
+}

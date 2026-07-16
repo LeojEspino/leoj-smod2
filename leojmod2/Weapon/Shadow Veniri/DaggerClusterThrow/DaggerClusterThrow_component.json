@@ -1,0 +1,28 @@
+{
+  "ItemType": 1,
+  "Id": 1000112,
+  "Name": "Dagger Cluster Shooter",
+  "Description": "Shoots larger daggers that also launches more daggers at whatever it hits",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 225,
+  "Icon": "gun11.png",
+  "Color": "#00FF00",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 1000112,
+  "AmmunitionId": 1000112,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    8,
+    13,
+    2,
+    7,
+    1,
+    66
+  ]
+}

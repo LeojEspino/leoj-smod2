@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 1000120,
+  "Body": {
+    "Size": 20.0,
+    "AttachedToParent": true,
+    "Lifetime": 1.0,
+    "FriendlyFire": true
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Size": "t*1"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Type": 7,
+      "DamageType": 1,
+      "Power": 10.0
+    }
+  ]
+}

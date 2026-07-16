@@ -1,0 +1,11 @@
+{
+  "ItemType": 30,
+  "Id": 100058,
+  "InitialEnemyShips": "99",
+  "MaxEnemyShips": "99",
+  "CustomSoundtrack": [
+    {
+      "Audio": "The Rabbit Has Landed"
+    }
+  ]
+}

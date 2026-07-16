@@ -18,7 +18,7 @@
       "Size": 0.1
     }
   ],
-  "Layout": "040121050",
+  "Layout": "1000101410335330555000500",
   "Barrels": [
     {
       "Position": {
@@ -27,6 +27,12 @@
     }
   ],
   "Features": {
+    "ShipWeightBonus": -0.5,
+    "EquipmentWeightBonus": -0.5,
+    "VelocityBonus": -0.5,
+    "TurnRateBonus": -0.5,
+    "ArmorBonus": -0.5,
+    "ShieldBonus": -0.5,
     "Regeneration": true,
     "BuiltinDevices": [
       18

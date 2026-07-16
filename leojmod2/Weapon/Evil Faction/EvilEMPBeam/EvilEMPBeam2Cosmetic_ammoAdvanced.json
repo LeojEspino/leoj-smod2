@@ -1,0 +1,12 @@
+{
+  "ItemType": 25,
+  "Id": 1000170,
+  "Body": {
+    "Size": 0.1,
+    "Velocity": 20.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 20.0,
+    "BulletPrefab": 4
+  },
+  "ImpactType": 1
+}

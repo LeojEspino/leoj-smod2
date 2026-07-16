@@ -1,0 +1,27 @@
+{
+  "ItemType": 25,
+  "Id": 1000130,
+  "Body": {
+    "Size": 60.0,
+    "AttachedToParent": true,
+    "Lifetime": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10004,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Type": 18,
+      "DamageType": 1,
+      "Power": 6.5
+    }
+  ]
+}

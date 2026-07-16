@@ -1,0 +1,33 @@
+{
+  "ItemType": 1,
+  "Id": 1000121,
+  "Name": "Mini Striker",
+  "Description": "Teleports you forward and does a single strike",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 150,
+  "Icon": "laser4_1.png",
+  "Color": "#00FF00",
+  "Layout": "1010",
+  "CellType": "4",
+  "WeaponId": 1000121,
+  "AmmunitionId": 1000121,
+  "Restrictions": {
+    "ShipSizes": [
+      0,
+      1,
+      2,
+      3,
+      -1
+    ]
+  },
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

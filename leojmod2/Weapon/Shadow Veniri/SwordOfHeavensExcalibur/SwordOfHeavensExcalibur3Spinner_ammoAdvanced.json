@@ -1,0 +1,25 @@
+{
+  "ItemType": 25,
+  "Id": 1000143,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 5.0
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "t*180"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000144,
+      "Color": "#00000000",
+      "Quantity": 2,
+      "Rotation": "i*180"
+    }
+  ],
+  "ImpactType": 1
+}

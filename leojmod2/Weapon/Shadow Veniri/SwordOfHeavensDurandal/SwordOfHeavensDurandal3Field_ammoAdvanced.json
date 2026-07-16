@@ -1,0 +1,65 @@
+{
+  "ItemType": 25,
+  "Id": 1000133,
+  "Body": {
+    "Size": 20.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 2.5
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 2,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000135,
+      "Color": "#00000000",
+      "Rotation": "45"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000136,
+      "Color": "#00000000",
+      "Rotation": "-45"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000137,
+      "Color": "#00000000",
+      "Rotation": "90"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "pinkyryoshu_4_3-4",
+      "Ammunition": 1000139,
+      "Color": "#00000000",
+      "Rotation": "-180",
+      "OffsetX": "-100"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "pinkyryoshu_4_3-4",
+      "Ammunition": 1000140,
+      "Color": "#00000000",
+      "Rotation": "-180",
+      "OffsetX": "-50"
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 5,
+      "Power": 10.0
+    }
+  ]
+}

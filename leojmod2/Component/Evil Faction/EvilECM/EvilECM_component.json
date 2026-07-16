@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 1000166,
+  "Name": "Vì)",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 3,
+  "Faction": 10004,
+  "Level": 325,
+  "Icon": "evilecm.png",
+  "Layout": "1",
+  "CellType": "\u0000",
+  "DeviceId": 1000166,
+  "PossibleModifications": [
+    6,
+    2,
+    1
+  ]
+}

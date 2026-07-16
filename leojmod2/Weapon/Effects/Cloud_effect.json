@@ -1,0 +1,13 @@
+{
+  "ItemType": 26,
+  "Id": 10005,
+  "Elements": [
+    {
+      "Type": 3,
+      "Image": "CloudWhite",
+      "Color": "#80808080",
+      "Quantity": 3,
+      "Size": 1.8
+    }
+  ]
+}

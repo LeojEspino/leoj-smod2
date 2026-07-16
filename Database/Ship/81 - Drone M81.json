@@ -18,7 +18,7 @@
       "Size": 0.1
     }
   ],
-  "Layout": "040242515",
+  "Layout": "0040000400122210515005050",
   "Barrels": [
     {
       "Position": {
@@ -26,5 +26,13 @@
       },
       "WeaponClass": "L"
     }
-  ]
+  ],
+  "Features": {
+    "ShipWeightBonus": -0.5,
+    "EquipmentWeightBonus": -0.5,
+    "VelocityBonus": -0.5,
+    "TurnRateBonus": -0.5,
+    "ArmorBonus": -0.5,
+    "ShieldBonus": -0.5
+  }
 }

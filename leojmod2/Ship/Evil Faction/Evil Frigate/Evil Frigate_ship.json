@@ -1,0 +1,57 @@
+{
+  "ItemType": 6,
+  "Id": 100070,
+  "Name": "%tR¬å›É",
+  "Faction": 10004,
+  "IconImage": "evilfrigate.png",
+  "IconScale": 1.0,
+  "ModelImage": "evilfrigate.png",
+  "ModelScale": 1.0,
+  "EngineColor": "#FF0000",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.05
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0040000040003400200430034022204300342242243003024442030030224220300300222003003300200330033333333300055555550000550005500",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.95,
+        "y": 0.45
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.95,
+        "y": -0.4
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": 0.025
+      },
+      "AutoAimingArc": 30.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    }
+  ],
+  "Features": {
+    "EnergyResistance": 1.0,
+    "KineticResistance": 1.0,
+    "HeatResistance": 1.0,
+    "ArmorBonus": -0.5
+  },
+  "BuiltinDevices": []
+}

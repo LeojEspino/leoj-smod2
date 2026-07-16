@@ -1,0 +1,42 @@
+{
+  "ItemType": 25,
+  "Id": 1000107,
+  "Body": {
+    "Size": 2.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Lifetime": 10.0,
+    "HitPoints": 10,
+    "BulletPrefab": 100011
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "IF(t<1, t*5, 5)"
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "hit_01",
+      "Ammunition": 1000108,
+      "Color": "#00000000",
+      "Quantity": 4,
+      "Rotation": "i*90"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 4.0
+    }
+  ]
+}

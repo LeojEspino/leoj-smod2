@@ -1,0 +1,38 @@
+{
+  "ItemType": 25,
+  "Id": 1000197,
+  "Body": {
+    "Size": 1.0,
+    "Range": 30.0,
+    "Lifetime": 0.5,
+    "Color": "#FF0000",
+    "BulletPrefab": 2,
+    "EnergyCost": 20.0,
+    "AiBulletBehavior": 2
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "se_pin00",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "AudioClip": "se_pin01",
+      "Ammunition": 1000198,
+      "Color": "#00000000"
+    }
+  ],
+  "Effects": [
+    {
+      "Type": 10,
+      "Power": 5.0
+    }
+  ]
+}

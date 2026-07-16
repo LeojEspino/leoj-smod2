@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1000163,
+  "Name": "´‡m",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 1000163,
+  "Faction": 10004,
+  "Level": 350,
+  "Icon": "evildamper2.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    3,
+    2
+  ]
+}

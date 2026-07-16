@@ -1,0 +1,21 @@
+{
+  "ItemType": 25,
+  "Id": 1000160,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 10.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 600.0,
+    "Lifetime": 60.0,
+    "EnergyCost": 30.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000152,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

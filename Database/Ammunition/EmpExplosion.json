@@ -7,8 +7,7 @@
     "Lifetime": 0.5,
     "Color": "#FF0000",
     "EnergyCost": 1.0,
-    "FriendlyFire": true,
-    "Type": 2
+    "FriendlyFire": true
   },
   "Controller": {
     "StartingVelocityModifier": 0.1

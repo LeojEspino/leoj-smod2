@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1000158,
+  "Name": "ÑqŒ",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1000158,
+  "Faction": 10004,
+  "Level": 350,
+  "Icon": "evilreactor3.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12,
+    1
+  ]
+}

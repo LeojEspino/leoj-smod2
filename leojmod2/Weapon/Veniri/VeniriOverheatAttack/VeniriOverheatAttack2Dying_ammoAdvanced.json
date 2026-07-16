@@ -2,6 +2,7 @@
   "ItemType": 25,
   "Id": 100075,
   "Body": {
+    "ParentVelocityEffect": 0.0,
     "AttachedToParent": true,
     "Range": 1000.0,
     "Lifetime": 999.0,

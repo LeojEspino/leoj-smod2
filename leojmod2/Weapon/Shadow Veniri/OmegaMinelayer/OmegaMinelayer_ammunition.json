@@ -1,0 +1,112 @@
+{
+  "ItemType": 25,
+  "Id": 1000152,
+  "Body": {
+    "Size": 3.0,
+    "Velocity": 10.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 600.0,
+    "Lifetime": 60.0,
+    "HitPoints": 100,
+    "BulletPrefab": 9
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "t*90"
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 1000114,
+      "Color": "#404040",
+      "ColorMode": 1,
+      "Quantity": 40,
+      "OffsetX": "RANDOM(-30, 30)",
+      "OffsetY": "RANDOM(-30, 30)"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "AudioClip": "hit_01",
+      "Color": "#00000000",
+      "Size": 30.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000153,
+      "Color": "#FF8080",
+      "ColorMode": 1,
+      "OffsetX": "5"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000154,
+      "Color": "#FF6A00",
+      "ColorMode": 1,
+      "Rotation": "(360/7)",
+      "OffsetX": "5"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000155,
+      "Color": "#FFE2A7",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*2",
+      "OffsetX": "5"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000156,
+      "Color": "#00FF00",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*3",
+      "OffsetX": "5"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000157,
+      "Color": "#0094FF",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*4",
+      "OffsetX": "5"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000158,
+      "Color": "#00FFFF",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*5",
+      "OffsetX": "5"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000159,
+      "Color": "#B200FF",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*6",
+      "OffsetX": "5"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "AudioClip": "se_ch01",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 1
+}

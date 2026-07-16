@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 1000129,
+  "Name": "Gravity Minelayer",
+  "Description": "Sets down a mine that constantly emits a gravity field that pulls enemies in",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 225,
+  "Icon": "layer3.png",
+  "Color": "#B200FF",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 1000129,
+  "AmmunitionId": 1000129,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 1000110,
+  "Body": {
+    "Size": 1E-05,
+    "Velocity": 77.0,
+    "Range": 999.0,
+    "Lifetime": 2.0,
+    "BulletPrefab": 4
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 1.0,
+    "SmartAim": true
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000111,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 9,
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 0.5
+    }
+  ],
+  "ImpactType": 2
+}

@@ -1,0 +1,45 @@
+{
+  "ItemType": 25,
+  "Id": 1000109,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Range": 100.0,
+    "Lifetime": 2.0,
+    "Color": "#0094FF",
+    "BulletPrefab": 4,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "2"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10002,
+      "AudioClip": "loboutis_3_1-3",
+      "Color": "#2D2D2D",
+      "Size": 3.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 9,
+      "AudioClip": "loboutis_3_1-4",
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000110,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 2
+}

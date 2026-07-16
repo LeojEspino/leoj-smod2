@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 1000155,
+  "Name": "‡m ö",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1000155,
+  "Faction": 10004,
+  "Level": 300,
+  "Icon": "evilarmor3.png",
+  "Layout": "111111111",
+  "CellType": "\u0000",
+  "PossibleModifications": [
+    3,
+    12,
+    1
+  ]
+}

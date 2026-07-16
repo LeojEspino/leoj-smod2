@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 1000183,
+  "Name": "TæÊSR;",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10004,
+  "Level": 350,
+  "Icon": "evilweapon2.png",
+  "Layout": "0110111111110110",
+  "CellType": "4",
+  "WeaponId": 1000183,
+  "AmmunitionId": 1000183,
+  "WeaponSlotType": "S",
+  "DroneId": 23,
+  "PossibleModifications": [
+    14,
+    5,
+    2,
+    1
+  ]
+}

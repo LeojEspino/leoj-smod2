@@ -1,0 +1,38 @@
+{
+  "ItemType": 25,
+  "Id": 1000106,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Lifetime": 10.0,
+    "Color": "#0094FF",
+    "EnergyCost": 15.0
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "t*90"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000107,
+      "Color": "#00000000",
+      "Quantity": 10,
+      "Rotation": "i*36",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "AudioClip": "se_kira00",
+      "Color": "#2D2D2D",
+      "Size": 5.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 2
+}

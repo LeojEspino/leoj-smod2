@@ -1,0 +1,17 @@
+{
+  "ItemType": 2,
+  "Id": 1000166,
+  "DeviceClass": 1,
+  "EnergyConsumption": 5.0,
+  "PassiveEnergyConsumption": 1.0,
+  "Power": 2.0,
+  "Range": 4.0,
+  "Size": 0.5,
+  "Cooldown": 10.0,
+  "Lifetime": 15.0,
+  "ActivationType": 1,
+  "Color": "#7F0000",
+  "Sound": "launch_05",
+  "ObjectPrefab": "Decoy",
+  "ControlButtonIcon": "controls_gear"
+}

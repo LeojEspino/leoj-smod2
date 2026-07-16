@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 1000109,
+  "Name": "Magic Bullet",
+  "Description": "Shoots a bullet near the enemy (kinda inaccurate)",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 225,
+  "Icon": "gun7",
+  "Color": "#00137F",
+  "Layout": "0100010001000100",
+  "CellType": "4",
+  "WeaponId": 1000109,
+  "AmmunitionId": 1000109,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    14,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

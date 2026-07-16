@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1000200,
+  "Name": "!ì:<",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10004,
+  "Level": 350,
+  "Icon": "evilweapon2.png",
+  "Layout": "0110111111110110",
+  "CellType": "4",
+  "WeaponId": 1000200,
+  "AmmunitionId": 1000200,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    5,
+    2,
+    7,
+    1
+  ]
+}

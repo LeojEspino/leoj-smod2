@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 1000150,
+  "Name": "EMP Minelayer",
+  "Description": "Sets down a mine that does an EMP explosion",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 225,
+  "Icon": "layer4.png",
+  "Color": "#00FFFF",
+  "Layout": "111111000",
+  "CellType": "4",
+  "WeaponId": 1000150,
+  "AmmunitionId": 1000150,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

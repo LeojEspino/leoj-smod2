@@ -1,0 +1,27 @@
+{
+  "ItemType": 1,
+  "Id": 1000152,
+  "Name": "Omega Mine-launcher",
+  "Description": "\"NOOO YOUR SUPPOSED TO OBEY ME!!!\"     Shoots a large mine that has a ring of seven different mines orbiting it, upon exploding creates a minefield around the area",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 250,
+  "Icon": "layer5.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1000152,
+  "AmmunitionId": 1000160,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

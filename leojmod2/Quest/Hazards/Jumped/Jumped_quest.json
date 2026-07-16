@@ -1,0 +1,70 @@
+{
+  "ItemType": 15,
+  "Id": 100058,
+  "StartCondition": 2,
+  "Weight": 0.1,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "Hey, it seems they are attacking you all at once! If you win I'll give extra rewards!",
+      "Enemy": 100058,
+      "Loot": 100059,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": "I like a challenge!"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "GET ME OUTTA HERE!!!"
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 30,
+      "DefaultTransition": 998
+    },
+    {
+      "Id": 3,
+      "Type": 20,
+      "DefaultTransition": 4,
+      "FailureTransition": 2,
+      "Enemy": 100058
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "Nice you did it! Here's the reward!",
+      "Loot": 100059,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 25,
+      "DefaultTransition": 6
+    },
+    {
+      "Id": 6,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100059
+    },
+    {
+      "Id": 998,
+      "Type": 42
+    }
+  ]
+}

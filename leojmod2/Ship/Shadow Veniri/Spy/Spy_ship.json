@@ -1,0 +1,42 @@
+{
+  "ItemType": 6,
+  "Id": 100051,
+  "Name": "Spy",
+  "Description": "Quite strong and light, but it can barely take hits",
+  "Faction": 10003,
+  "IconImage": "Spyicon.png",
+  "IconScale": 1.0,
+  "ModelImage": "Spy.png",
+  "ModelScale": 1.25,
+  "EngineColor": "#4000FF00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.15
+    }
+  ],
+  "Layout": "0000434000000004340000000043400000003222300000322222300002222222000022555220000225552200002255522000022050220000220002200",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.15
+      },
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.15
+      },
+      "WeaponClass": "CS"
+    }
+  ],
+  "Features": {
+    "ShipWeightBonus": -0.3,
+    "EquipmentWeightBonus": -0.3
+  },
+  "BuiltinDevices": []
+}

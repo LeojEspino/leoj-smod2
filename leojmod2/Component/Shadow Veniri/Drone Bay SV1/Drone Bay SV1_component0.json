@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 1000123,
+  "Name": "Small Drone Bay SV1",
+  "DisplayCategory": 5,
+  "Availability": 1,
+  "ComponentStatsId": 2,
+  "Faction": 10003,
+  "Level": 200,
+  "Icon": "dronebay1",
+  "Color": "#00FF00",
+  "Layout": "110110110",
+  "CellType": "\u0000",
+  "DroneBayId": 1,
+  "DroneId": 100063,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    1,
+    2
+  ]
+}

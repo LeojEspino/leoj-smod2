@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 1000106,
+  "Name": "Shieldmaker",
+  "Description": "Creates an orbiting ring of projectiles that can block attacks",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 200,
+  "Icon": "doom11.png",
+  "Color": "#0094FF",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1000106,
+  "AmmunitionId": 1000106,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

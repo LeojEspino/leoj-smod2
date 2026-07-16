@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1000205,
+  "Name": "High Explosive Fragmentation Cannon",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "cannonhe.png",
+  "Color": "#FFD800",
+  "Layout": "0011000001100000110000011000001100000110000011000",
+  "CellType": "4",
+  "WeaponId": 1000205,
+  "AmmunitionId": 1000205
+}

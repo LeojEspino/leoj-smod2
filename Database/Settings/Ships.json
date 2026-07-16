@@ -11,6 +11,7 @@
   "BaseEnergyPoints": 1.0,
   "EnergyRechargeCooldown": 1.0,
   "ShieldRechargeCooldown": 4.0,
+  "ShieldCorrosiveResistance": 0.0,
   "MaxVelocity": 40.0,
   "MaxAngularVelocity": 40.0,
   "MaxAcceleration": 400.0,

@@ -1,0 +1,44 @@
+{
+  "ItemType": 6,
+  "Id": 100054,
+  "SizeClass": 1,
+  "Name": "Knight",
+  "Faction": 10003,
+  "IconImage": "Knighticon.png",
+  "IconScale": 1.0,
+  "ModelImage": "Knight.png",
+  "ModelScale": 1.5,
+  "EngineColor": "#4000FF00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "000004400000000004400000040004400040040032230040040322223040040322223040043222222340012222222210012225522210012255552210010055550010010005500010",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": 0.825,
+        "y": 0.67
+      },
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.825,
+        "y": -0.67
+      },
+      "WeaponClass": "LS"
+    }
+  ],
+  "BuiltinDevices": []
+}

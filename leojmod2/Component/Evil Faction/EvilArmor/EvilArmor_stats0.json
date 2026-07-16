@@ -1,0 +1,12 @@
+{
+  "ItemType": 11,
+  "Id": 1000153,
+  "ArmorPoints": -1.0,
+  "ShieldPoints": 6.0,
+  "ShieldRechargeRate": 0.1,
+  "Weight": 80.0,
+  "EnergyAbsorption": 3.0,
+  "KineticResistance": 3.0,
+  "EnergyResistance": 3.0,
+  "ThermalResistance": 3.0
+}

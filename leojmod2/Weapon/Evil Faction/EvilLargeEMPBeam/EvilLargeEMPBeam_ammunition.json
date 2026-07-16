@@ -1,0 +1,58 @@
+{
+  "ItemType": 25,
+  "Id": 1000191,
+  "Body": {
+    "Size": 1.5,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 30.0,
+    "Lifetime": 0.05,
+    "Color": "#FF0000",
+    "BulletPrefab": 100012,
+    "EnergyCost": 20.0,
+    "AiBulletBehavior": 2
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000192,
+      "Color": "#00000000",
+      "Quantity": 4,
+      "Cooldown": 0.05,
+      "Rotation": "RANDOM(0,360)",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "*se_lazer02",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 1000193,
+      "Color": "#00000000",
+      "Cooldown": 0.25,
+      "Rotation": "RANDOM(0,360)",
+      "OffsetX": "RANDOM(-4,-2)"
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 10.0
+    },
+    {
+      "Type": 3,
+      "DamageType": 1,
+      "Power": 60.0
+    }
+  ]
+}

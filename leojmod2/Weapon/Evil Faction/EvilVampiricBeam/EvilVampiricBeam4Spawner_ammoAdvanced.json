@@ -1,0 +1,49 @@
+{
+  "ItemType": 25,
+  "Id": 1000174,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 20.0,
+    "Lifetime": 0.05,
+    "Color": "#FF0000",
+    "EnergyCost": 10.0,
+    "AiBulletBehavior": 2
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000171,
+      "Color": "#00000000",
+      "Cooldown": 0.05
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000173,
+      "Color": "#00000000",
+      "Quantity": 4,
+      "Cooldown": 0.05,
+      "Rotation": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "*flux_04",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000172,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 2
+}

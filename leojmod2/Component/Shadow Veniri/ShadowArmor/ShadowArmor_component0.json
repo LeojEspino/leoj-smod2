@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 100092,
+  "Name": "Light Shadow Armor",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 100092,
+  "Faction": 10003,
+  "Level": 200,
+  "Icon": "LightShadowArmor.png",
+  "Layout": "1",
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    1,
+    2
+  ]
+}

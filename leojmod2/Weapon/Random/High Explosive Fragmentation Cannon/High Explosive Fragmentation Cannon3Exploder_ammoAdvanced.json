@@ -1,0 +1,26 @@
+{
+  "ItemType": 25,
+  "Id": 1000207,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 999.0,
+    "Lifetime": 0.475
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "AudioClip": "explosion_02",
+      "Ammunition": 1000206,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 2.5,
+      "Cooldown": 0.05,
+      "PowerMultiplier": 5.0,
+      "OffsetX": "RANDOM(-2.5,2.5)",
+      "OffsetY": "RANDOM(-2.5,2.5)"
+    }
+  ],
+  "ImpactType": 1
+}

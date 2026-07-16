@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1000161,
+  "Name": "`ŠqÁ",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 1000161,
+  "Faction": 10004,
+  "Level": 350,
+  "Icon": "evilbooster3.png",
+  "Layout": "0000000000000000111001111111001110000000000000000",
+  "CellType": "2",
+  "PossibleModifications": [
+    2,
+    1
+  ]
+}

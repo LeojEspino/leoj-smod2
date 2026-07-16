@@ -1,0 +1,60 @@
+{
+  "ItemType": 6,
+  "Id": 100057,
+  "SizeClass": 2,
+  "Name": "Spear",
+  "Faction": 10003,
+  "IconImage": "Spearicon.png",
+  "IconScale": 1.0,
+  "ModelImage": "Spear.png",
+  "ModelScale": 2.0,
+  "EngineColor": "#4000FF00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.3
+    }
+  ],
+  "Layout": "0000000020000000000000002220000000000000022200000000000000222000000000334402220443300003344022204433000033440222044330000332222222223300003322222222233000033222222222330000334402220443300000344022204430000000440222044000000000055555000000000000555550000000000005555500000000000055555000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.275,
+        "y": 0.4
+      },
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": 0.275,
+        "y": -0.4
+      },
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": -0.075,
+        "y": 0.4
+      },
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "CS"
+    },
+    {
+      "Position": {
+        "x": -0.075,
+        "y": -0.4
+      },
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "CS"
+    }
+  ],
+  "BuiltinDevices": []
+}

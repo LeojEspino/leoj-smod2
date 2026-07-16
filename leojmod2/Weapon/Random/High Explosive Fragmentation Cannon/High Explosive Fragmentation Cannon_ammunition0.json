@@ -1,0 +1,37 @@
+{
+  "ItemType": 25,
+  "Id": 1000205,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 40.0,
+    "Range": 50.0,
+    "Color": "#FFD800",
+    "BulletPrefab": 10001,
+    "EnergyCost": 10.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "gun_hit_heavy_02",
+      "Ammunition": 1000206,
+      "Color": "#00000000",
+      "Size": 5.0,
+      "PowerMultiplier": 20.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "AudioClip": "gauss_cannon_fire_01",
+      "Color": "#00000000",
+      "Size": 1.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 1000207,
+      "Color": "#00000000"
+    }
+  ]
+}

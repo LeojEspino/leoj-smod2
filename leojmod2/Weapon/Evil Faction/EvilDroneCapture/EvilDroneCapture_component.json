@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1000182,
+  "Name": "1˜ói",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10004,
+  "Level": 325,
+  "Icon": "reactor3",
+  "Layout": "010111010",
+  "CellType": "4",
+  "WeaponId": 1000182,
+  "AmmunitionId": 1000182,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    2,
+    1,
+    66
+  ]
+}

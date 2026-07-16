@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 1000141,
+  "Name": "Sword of Heavens - Excalibur",
+  "Description": "Conjure a massive shield for protection! If the shield somehow breaks, summons Excalibur to slash a massive area!",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 300,
+  "Icon": "doom12.png",
+  "Color": "#00FF00",
+  "Layout": "1111111111111111111111111",
+  "CellType": "4",
+  "WeaponId": 1000141,
+  "AmmunitionId": 1000141,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "ItemType": 14,
+  "Id": 10004,
+  "Name": "Evil Faction",
+  "Color": "#FF0000",
+  "HomeStarDistance": 300,
+  "NoWanderingShips": true,
+  "HideFromMerchants": true
+}

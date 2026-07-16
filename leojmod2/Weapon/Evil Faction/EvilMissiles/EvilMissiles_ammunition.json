@@ -1,0 +1,42 @@
+{
+  "ItemType": 25,
+  "Id": 1000183,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 999.0,
+    "Lifetime": 999.0,
+    "Color": "#FF0000",
+    "EnergyCost": 5.0,
+    "AiBulletBehavior": 1
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "door_open",
+      "Ammunition": 1000184,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Rotation": "90",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "door_open",
+      "Ammunition": 1000185,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Rotation": "-90"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000186,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 2
+}

@@ -1,0 +1,55 @@
+{
+  "ItemType": 6,
+  "Id": 100076,
+  "SizeClass": 1,
+  "Name": "y-K>",
+  "IconImage": "evildestroyer2.png",
+  "IconScale": 1.0,
+  "ModelImage": "evildestroyer2.png",
+  "ModelScale": 1.25,
+  "EngineColor": "#FF0000",
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.05
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000000000000004000400040004440444044400140224220410110222222201111032222230111133322233311155330003355155550000055550550000000550055000000055000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.6,
+        "y": 0.65
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.6
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "S"
+    },
+    {
+      "Position": {
+        "x": 0.6,
+        "y": -0.65
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "L"
+    }
+  ],
+  "Features": {
+    "EnergyResistance": 1.0,
+    "KineticResistance": 1.0,
+    "HeatResistance": 1.0,
+    "ArmorBonus": -0.5
+  },
+  "BuiltinDevices": []
+}

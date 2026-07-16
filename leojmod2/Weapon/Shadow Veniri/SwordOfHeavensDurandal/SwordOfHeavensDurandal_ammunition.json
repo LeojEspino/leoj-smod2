@@ -1,0 +1,40 @@
+{
+  "ItemType": 25,
+  "Id": 1000131,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Lifetime": 2.9,
+    "Color": "#00FF00",
+    "EnergyCost": 100.0
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 10004,
+      "AudioClip": "se_boon01",
+      "Color": "#2D2D2D",
+      "Size": 5.0,
+      "Lifetime": 1.0,
+      "Cooldown": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 9,
+      "AudioClip": "fullstopheath_3_1-7",
+      "Color": "#00000000",
+      "Size": 5.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000132,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 2
+}

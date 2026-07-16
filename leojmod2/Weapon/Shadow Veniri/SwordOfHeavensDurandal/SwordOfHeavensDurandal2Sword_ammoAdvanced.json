@@ -1,0 +1,32 @@
+{
+  "ItemType": 25,
+  "Id": 1000132,
+  "Body": {
+    "Size": 9.0,
+    "Velocity": 200.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 200.0,
+    "BulletPrefab": 100010
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "AudioClip": "pinkyryoshu_3_2-2",
+      "Ammunition": 1000133,
+      "Color": "#00000000",
+      "Cooldown": 100.0,
+      "OffsetX": "4.5"
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 250.0
+    },
+    {
+      "Type": 5,
+      "Power": 20.0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "ItemType": 6,
+  "Id": 100073,
+  "SizeClass": 1,
+  "Name": "FI¢1",
+  "Faction": 10004,
+  "IconImage": "evildestroyer.png",
+  "IconScale": 1.0,
+  "ModelImage": "evildestroyer.png",
+  "ModelScale": 1.25,
+  "EngineColor": "#FF0000",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000011110000000001100110000000110000110000001004400100000030444403000003304444033000033304403330000333000033300003333003333000002222222200000002222220000000002552000000550055550055000055555555000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.2076923,
+        "y": -0.025
+      },
+      "AutoAimingArc": 45.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    }
+  ],
+  "Features": {
+    "EnergyResistance": 1.0,
+    "KineticResistance": 1.0,
+    "HeatResistance": 1.0,
+    "ArmorBonus": -0.5
+  },
+  "BuiltinDevices": []
+}

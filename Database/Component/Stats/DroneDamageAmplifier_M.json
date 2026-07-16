@@ -4,6 +4,6 @@
   "Type": 1,
   "EnergyRechargeRate": -1.0,
   "Weight": 25.0,
-  "DroneDamageModifier": 0.1125,
+  "DroneDamageModifier": 0.05625,
   "DroneBuildTimeModifier": 0.025
 }

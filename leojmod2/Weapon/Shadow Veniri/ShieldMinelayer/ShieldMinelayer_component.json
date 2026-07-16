@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 1000117,
+  "Name": "Shield Minelayer",
+  "Description": "Sets down a mine that creates a forcefield to block attacks",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 225,
+  "Icon": "layer4.png",
+  "Color": "#0094FF",
+  "Layout": "111111000",
+  "CellType": "4",
+  "WeaponId": 1000117,
+  "AmmunitionId": 1000117,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

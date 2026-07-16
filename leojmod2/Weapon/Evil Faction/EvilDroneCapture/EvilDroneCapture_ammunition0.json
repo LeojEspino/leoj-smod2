@@ -1,0 +1,29 @@
+{
+  "ItemType": 25,
+  "Id": 1000182,
+  "Body": {
+    "Size": 20.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 20.0,
+    "Lifetime": 0.25,
+    "EnergyCost": 20.0,
+    "AiBulletBehavior": 3
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "AudioClip": "se_tan03",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Type": 6
+    }
+  ]
+}

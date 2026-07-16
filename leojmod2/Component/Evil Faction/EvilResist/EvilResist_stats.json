@@ -1,0 +1,10 @@
+{
+  "ItemType": 11,
+  "Id": 1000165,
+  "ArmorPoints": 20.0,
+  "EnergyRechargeRate": -9.0,
+  "EnergyAbsorption": 200.0,
+  "KineticResistance": 200.0,
+  "EnergyResistance": 200.0,
+  "ThermalResistance": 200.0
+}

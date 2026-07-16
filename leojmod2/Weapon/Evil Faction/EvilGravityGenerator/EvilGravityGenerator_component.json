@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 1000180,
+  "Name": "‡m ö",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10004,
+  "Level": 325,
+  "Icon": "reactor3",
+  "Color": "#4800FF",
+  "Layout": "010111010",
+  "CellType": "4",
+  "WeaponId": 1000180,
+  "AmmunitionId": 1000180,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

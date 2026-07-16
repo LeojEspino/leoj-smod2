@@ -1,0 +1,49 @@
+{
+  "ItemType": 6,
+  "Id": 100082,
+  "SizeClass": 2,
+  "Name": "£2üT",
+  "Faction": 10004,
+  "IconImage": "evilcruiser2.png",
+  "IconScale": 1.0,
+  "ModelImage": "evilcruiser2.png",
+  "ModelScale": 1.75,
+  "EngineColor": "#FF0000",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.05
+      },
+      "Size": 0.3
+    }
+  ],
+  "Layout": "0010000000000010000100003330000100001000333330001000010440333044010000144443334444100001444433344441000011443333344110000222222022222200002222222222222000002222222222200000022200000222000000555000005550000005550000055500000005500000550000000005000005000000000005000500000000000005050000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.2,
+        "y": 0.425
+      },
+      "AutoAimingArc": 45.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.375
+      },
+      "AutoAimingArc": 45.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    }
+  ],
+  "Features": {
+    "EnergyResistance": 1.0,
+    "KineticResistance": 1.0,
+    "HeatResistance": 1.0,
+    "ArmorBonus": -0.5
+  },
+  "BuiltinDevices": []
+}

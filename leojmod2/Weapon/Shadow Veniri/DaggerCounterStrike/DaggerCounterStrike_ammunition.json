@@ -1,0 +1,22 @@
+{
+  "ItemType": 25,
+  "Id": 1000102,
+  "Body": {
+    "Size": 5.0,
+    "AttachedToParent": true,
+    "Range": 10.0,
+    "Lifetime": 1.0,
+    "Color": "#FFD800",
+    "AiBulletBehavior": 3
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "hit_04",
+      "Ammunition": 1000103,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

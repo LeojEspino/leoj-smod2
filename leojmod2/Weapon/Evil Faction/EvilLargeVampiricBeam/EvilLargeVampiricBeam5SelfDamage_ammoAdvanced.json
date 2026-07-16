@@ -1,0 +1,17 @@
+{
+  "ItemType": 25,
+  "Id": 1000204,
+  "Body": {
+    "Size": 0.5,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Lifetime": 999.0,
+    "FriendlyFire": true
+  },
+  "Effects": [
+    {
+      "DamageType": 3,
+      "Power": 15.0
+    }
+  ]
+}

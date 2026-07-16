@@ -1,0 +1,92 @@
+{
+  "ItemType": 6,
+  "Id": 100085,
+  "SizeClass": 3,
+  "Name": "4æ¦",
+  "Faction": 10004,
+  "IconImage": "evilbattleship.png",
+  "IconScale": 1.0,
+  "ModelImage": "evilbattleship.png",
+  "ModelScale": 2.5,
+  "EngineColor": "#FF0000",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.4
+    }
+  ],
+  "Layout": "0000040001100040000000004440111104440000000004001111004000000000100011110001000000001000011000010000000010001331000100000000110032230011000000001333200233310000004013332442333104000444133344443331444000410033444433001400001100332442330011000001103320023301100000011333222233311000000013333223333100000000033032230330000000040000022000004000004440000550000444000004555555555555400000000055555555000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.425
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.425
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.05,
+        "y": 0.775
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": -0.05
+      },
+      "AutoAimingArc": 30.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.05,
+        "y": -0.775
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.625
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.625
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    }
+  ],
+  "Features": {
+    "EnergyResistance": 1.0,
+    "KineticResistance": 1.0,
+    "HeatResistance": 1.0,
+    "ArmorBonus": -0.5
+  },
+  "BuiltinDevices": []
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 25,
+  "Id": 1000168,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 1.0,
+    "Range": 999.0,
+    "Lifetime": 1.0
+  },
+  "Effects": [
+    {
+      "Type": 2,
+      "Power": 1.0
+    }
+  ]
+}

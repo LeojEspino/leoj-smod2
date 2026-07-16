@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1000164,
+  "Name": "ÚÑq",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1000164,
+  "Faction": 10004,
+  "Level": 300,
+  "Icon": "evilfuel.png",
+  "Layout": "000111000",
+  "CellType": "\u0000",
+  "PossibleModifications": [
+    9
+  ]
+}

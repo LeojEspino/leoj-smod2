@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 1000114,
+  "Name": "Minelayer",
+  "Description": "Sets down a mine",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 200,
+  "Icon": "layer2.png",
+  "Color": "#404040",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1000114,
+  "AmmunitionId": 1000114,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

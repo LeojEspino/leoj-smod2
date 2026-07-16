@@ -1,0 +1,7 @@
+{
+  "ItemType": 11,
+  "Id": 1000159,
+  "EnergyRechargeRate": -5.0,
+  "WeaponDamageModifier": 0.3,
+  "WeaponEnergyCostModifier": 0.15
+}

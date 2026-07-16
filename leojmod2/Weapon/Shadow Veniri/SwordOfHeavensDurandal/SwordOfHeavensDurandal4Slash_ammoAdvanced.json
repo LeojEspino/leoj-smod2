@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 1000134,
+  "Body": {
+    "Size": 20.0,
+    "Range": 200.0,
+    "Lifetime": 1.0,
+    "BulletPrefab": 19
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10001,
+      "Color": "#00000000",
+      "Size": 100.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 125.0
+    }
+  ]
+}

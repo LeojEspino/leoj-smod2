@@ -1,0 +1,20 @@
+{
+  "ItemType": 25,
+  "Id": 1000179,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Lifetime": 0.5
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000177,
+      "Color": "#00000000",
+      "Rotation": "RANDOM(0,360)"
+    }
+  ],
+  "ImpactType": 2
+}

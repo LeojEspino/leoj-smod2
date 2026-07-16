@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 1000103,
+  "Body": {
+    "Size": 5.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Lifetime": 999.0,
+    "HitPoints": 1,
+    "EnergyCost": 15.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 1000105,
+      "Color": "#00000000",
+      "Rotation": "0"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "pinkyryoshu_3_2-3",
+      "Ammunition": 1000104,
+      "Color": "#FFD800",
+      "ColorMode": 1,
+      "PowerMultiplier": 1.0
+    }
+  ],
+  "ImpactType": 2
+}

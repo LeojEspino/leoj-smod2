@@ -10,8 +10,7 @@
     "BulletPrefab": 2,
     "EnergyCost": 10.0,
     "FriendlyFire": true,
-    "AiBulletBehavior": 2,
-    "Type": 3
+    "AiBulletBehavior": 2
   },
   "Controller": {
     "Type": 2,

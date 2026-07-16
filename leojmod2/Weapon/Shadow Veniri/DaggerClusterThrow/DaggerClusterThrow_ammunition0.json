@@ -1,0 +1,45 @@
+{
+  "ItemType": 25,
+  "Id": 1000112,
+  "Body": {
+    "Size": 1.5,
+    "Velocity": 40.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 40.0,
+    "Color": "#00FF00",
+    "BulletPrefab": 100011,
+    "EnergyCost": 6.0,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "AudioClip": "hit_01",
+      "Ammunition": 1000113,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Cooldown": 0.025,
+      "Rotation": "RANDOM(0, 360)",
+      "OffsetX": "-10"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "shot_04",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 100096,
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Cooldown": 0.025,
+      "PowerMultiplier": 2.0,
+      "Rotation": "RANDOM(0, 360)",
+      "OffsetX": "-2"
+    }
+  ],
+  "ImpactType": 2
+}

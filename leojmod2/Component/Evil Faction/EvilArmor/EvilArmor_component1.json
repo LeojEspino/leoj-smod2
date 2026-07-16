@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1000154,
+  "Name": ">fv’",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1000154,
+  "Level": 300,
+  "Icon": "evilarmor2.png",
+  "Layout": "1111",
+  "CellType": "\u0000",
+  "PossibleModifications": [
+    3,
+    12,
+    1
+  ]
+}

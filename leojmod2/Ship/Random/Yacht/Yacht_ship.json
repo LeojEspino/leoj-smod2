@@ -1,0 +1,31 @@
+{
+  "ItemType": 6,
+  "Id": 100095,
+  "Name": "Yacht",
+  "IconImage": "yachti.png",
+  "IconScale": 1.0,
+  "ModelImage": "yachtm.png",
+  "ModelScale": 1.5,
+  "EngineColor": "#4000FFFF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.95
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000010000000000100000000001000000000030000000003330000000024200000003242300000032423000000354530000005555500000000500000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.1
+      },
+      "Offset": 0.1,
+      "AutoAimingArc": 90.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "L"
+    }
+  ],
+  "BuiltinDevices": []
+}

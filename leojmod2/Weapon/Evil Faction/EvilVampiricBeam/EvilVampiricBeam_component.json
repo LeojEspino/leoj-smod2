@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 1000171,
+  "Name": "7ýNŽ",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10004,
+  "Level": 325,
+  "Icon": "reactor3",
+  "Color": "#7F0000",
+  "Layout": "010111010",
+  "CellType": "4",
+  "WeaponId": 1000171,
+  "AmmunitionId": 1000174,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    5,
+    2,
+    7,
+    1
+  ]
+}

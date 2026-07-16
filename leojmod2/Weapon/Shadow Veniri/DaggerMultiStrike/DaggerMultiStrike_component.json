@@ -1,0 +1,34 @@
+{
+  "ItemType": 1,
+  "Id": 1000100,
+  "Name": "Multi Striker",
+  "Description": "Teleports you forward and does multiple strikes",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 225,
+  "Icon": "laser4_2.png",
+  "Color": "#00FF00",
+  "Layout": "0100010001000100",
+  "CellType": "4",
+  "WeaponId": 1000100,
+  "AmmunitionId": 1000100,
+  "WeaponSlotType": "S",
+  "Restrictions": {
+    "ShipSizes": [
+      0,
+      1,
+      2,
+      3,
+      -1
+    ]
+  },
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

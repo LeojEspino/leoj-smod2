@@ -1,0 +1,24 @@
+{
+  "ItemType": 25,
+  "Id": 1000190,
+  "Body": {
+    "Size": 0.5,
+    "Length": 0.5,
+    "Velocity": 40.0,
+    "Range": 999.0,
+    "Lifetime": 5.0,
+    "BulletPrefab": 10
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 1.0,
+    "SmartAim": true
+  },
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 10.0
+    }
+  ]
+}

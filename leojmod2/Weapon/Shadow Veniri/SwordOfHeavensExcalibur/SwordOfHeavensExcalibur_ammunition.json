@@ -1,0 +1,20 @@
+{
+  "ItemType": 25,
+  "Id": 1000141,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Lifetime": 30.0,
+    "Color": "#00FF00"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "se_ch00",
+      "Ammunition": 1000142,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 2
+}

@@ -1,0 +1,75 @@
+{
+  "ItemType": 25,
+  "Id": 1000115,
+  "Body": {
+    "Size": 1.5,
+    "ParentVelocityEffect": 0.0,
+    "Range": 999.0,
+    "Lifetime": 60.0,
+    "HitPoints": 15,
+    "Color": "#FF8080",
+    "BulletPrefab": 9,
+    "EnergyCost": 10.0,
+    "CanBeDisarmed": true,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "t*45"
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "explosion_04",
+      "Ammunition": 111,
+      "Color": "#FF8080",
+      "ColorMode": 1,
+      "Size": 7.5,
+      "PowerMultiplier": 30.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "se_ch01",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "AudioClip": "shot_03",
+      "Ammunition": 1000116,
+      "Color": "#FF8080",
+      "ColorMode": 1,
+      "Cooldown": 0.2
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000116,
+      "Color": "#FF8080",
+      "ColorMode": 1,
+      "Cooldown": 0.2,
+      "Rotation": "90"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000116,
+      "Color": "#FF8080",
+      "ColorMode": 1,
+      "Cooldown": 0.2,
+      "Rotation": "180"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000116,
+      "Color": "#FF8080",
+      "ColorMode": 1,
+      "Cooldown": 0.2,
+      "Rotation": "270"
+    }
+  ]
+}

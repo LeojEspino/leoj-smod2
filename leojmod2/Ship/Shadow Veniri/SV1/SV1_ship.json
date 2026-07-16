@@ -1,0 +1,40 @@
+{
+  "ItemType": 6,
+  "Id": 100063,
+  "VisualEffects": {
+    "LeaveWreck": 2,
+    "CustomExplosionEffect": 21,
+    "CustomExplosionSound": "explosion_10"
+  },
+  "ShipType": 1,
+  "SizeClass": -1,
+  "Name": "SV1",
+  "Faction": 10003,
+  "IconImage": "SV1.png",
+  "IconScale": 1.25,
+  "ModelImage": "SV1.png",
+  "ModelScale": 1.25,
+  "EngineColor": "#2000FF00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0040030403315133555300500",
+  "Barrels": [
+    {}
+  ],
+  "Features": {
+    "ShipWeightBonus": -0.5,
+    "EquipmentWeightBonus": -0.5,
+    "VelocityBonus": -0.5,
+    "TurnRateBonus": -0.5,
+    "ArmorBonus": -0.5,
+    "ShieldBonus": -0.5
+  },
+  "ColliderTolerance": 1.0,
+  "BuiltinDevices": []
+}

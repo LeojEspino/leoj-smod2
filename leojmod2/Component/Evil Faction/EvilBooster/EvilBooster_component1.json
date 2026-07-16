@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1000160,
+  "Name": "kúúg",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 1000160,
+  "Faction": 10004,
+  "Level": 325,
+  "Icon": "evilbooster2.png",
+  "Layout": "0110011001100110",
+  "CellType": "2",
+  "PossibleModifications": [
+    2,
+    1
+  ]
+}

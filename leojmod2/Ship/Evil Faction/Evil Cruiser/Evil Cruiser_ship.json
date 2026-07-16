@@ -1,0 +1,56 @@
+{
+  "ItemType": 6,
+  "Id": 100079,
+  "SizeClass": 2,
+  "Name": "Evil Cruiser",
+  "IconImage": "evilcruiser.png",
+  "IconScale": 1.0,
+  "ModelImage": "evilcruiser.png",
+  "ModelScale": 1.75,
+  "EngineColor": "#FF0000",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.3
+    }
+  ],
+  "Layout": "0000000440000000000000444400000000000044440000000000022442200000000002222220000000400222222004000444022222204440004000333300040000400033330004000010003333000100001100555500110000113355553311000011335555331100001133555533110000013355553310000000005555000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.01
+      },
+      "AutoAimingArc": 30.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": 0.7333333
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.7
+      },
+      "AutoAimingArc": 15.0,
+      "RotationSpeed": 360.0,
+      "WeaponClass": "L"
+    }
+  ],
+  "Features": {
+    "EnergyResistance": 1.0,
+    "KineticResistance": 1.0,
+    "HeatResistance": 1.0,
+    "ArmorBonus": -0.5
+  },
+  "BuiltinDevices": []
+}

@@ -1,0 +1,28 @@
+{
+  "ItemType": 1,
+  "Id": 100095,
+  "Name": "Dagger Shooter",
+  "Description": "Shoots daggers that constantly slashes at what it hits",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 100,
+  "Icon": "gun4",
+  "Color": "#00FF00",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 100095,
+  "AmmunitionId": 100095,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ItemType": 25,
+  "Id": 1000101,
+  "Body": {
+    "Size": 0.1,
+    "ParentVelocityEffect": 0.0,
+    "Range": 999.0,
+    "Lifetime": 0.4,
+    "BulletPrefab": 4
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "AudioClip": "cinqsinc_2_1-1",
+      "Ammunition": 100099,
+      "Color": "#00000000",
+      "Cooldown": 0.1,
+      "PowerMultiplier": 0.5,
+      "Rotation": "RANDOM(0, 360)",
+      "OffsetX": "-5"
+    }
+  ],
+  "ImpactType": 2
+}

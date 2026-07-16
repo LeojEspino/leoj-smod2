@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 1000169,
+  "Name": "îPg",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10004,
+  "Level": 325,
+  "Icon": "reactor3",
+  "Color": "#00FFFF",
+  "Layout": "010111010",
+  "CellType": "4",
+  "WeaponId": 1000169,
+  "AmmunitionId": 1000169,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    5,
+    2,
+    7,
+    1
+  ]
+}

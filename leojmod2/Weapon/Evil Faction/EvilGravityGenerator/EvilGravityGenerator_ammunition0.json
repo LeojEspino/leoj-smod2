@@ -1,0 +1,61 @@
+{
+  "ItemType": 25,
+  "Id": 1000180,
+  "Body": {
+    "Size": 40.0,
+    "Velocity": 1E-05,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 999.0,
+    "Lifetime": 10.0,
+    "Color": "#7F0000",
+    "EnergyCost": 5.0,
+    "AiBulletBehavior": 3
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000181,
+      "Color": "#00000000",
+      "Quantity": 10,
+      "Cooldown": 0.05,
+      "Rotation": "RANDOM(0,360)",
+      "OffsetX": "-20"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10004,
+      "AudioClip": "se_boon01",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000181,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Cooldown": 0.05,
+      "Rotation": "RANDOM(0,360)"
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 4,
+      "DamageType": 3,
+      "Power": 0.1,
+      "Factor": 1.0
+    },
+    {
+      "Type": 18,
+      "Power": 4.0
+    },
+    {
+      "Type": 13
+    }
+  ]
+}

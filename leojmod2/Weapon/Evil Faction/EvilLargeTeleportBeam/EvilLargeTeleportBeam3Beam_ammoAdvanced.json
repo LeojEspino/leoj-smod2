@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 1000199,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 30.0,
+    "Lifetime": 0.3,
+    "BulletPrefab": 5
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "AudioClip": "se_kira01",
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Type": 10,
+      "Power": 5.0
+    }
+  ]
+}

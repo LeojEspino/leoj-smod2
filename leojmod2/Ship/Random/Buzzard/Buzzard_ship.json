@@ -1,0 +1,39 @@
+{
+  "ItemType": 6,
+  "Id": 100093,
+  "SizeClass": 1,
+  "Name": "Buzzard",
+  "IconImage": "Buzzard1icyc.png",
+  "IconScale": 1.0,
+  "ModelImage": "Buzzard1mcyc.png",
+  "ModelScale": 2.0,
+  "EngineColor": "#40FFFF00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.4
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000000000000000000000000000000000000000000000003300000000000433400000000334224330000032242242230003225455452230322055555502230000505505000000000000000000000000000000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.225,
+        "y": 0.27
+      },
+      "Rotation": -5.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.225,
+        "y": -0.27
+      },
+      "Rotation": 5.0,
+      "WeaponClass": "CL"
+    }
+  ],
+  "BuiltinDevices": []
+}

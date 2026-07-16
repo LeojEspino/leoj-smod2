@@ -1,0 +1,19 @@
+{
+  "ItemType": 25,
+  "Id": 1000181,
+  "Body": {
+    "Size": 0.25,
+    "Length": 0.5,
+    "Velocity": 20.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 25.0,
+    "BulletPrefab": 19
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "15*t^2"
+  },
+  "ImpactType": 1
+}

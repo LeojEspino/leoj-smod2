@@ -1,0 +1,60 @@
+{
+  "ItemType": 25,
+  "Id": 1000142,
+  "Body": {
+    "Size": 40.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Lifetime": 999.0,
+    "HitPoints": 1000
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Size": "IF(t<3, t*0.33, 1)"
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 10004,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0,
+      "Cooldown": 0.1
+    },
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 10004,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0,
+      "Cooldown": 0.1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 2,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 3.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "AudioClip": "se_nep00",
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 3.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 1000143,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

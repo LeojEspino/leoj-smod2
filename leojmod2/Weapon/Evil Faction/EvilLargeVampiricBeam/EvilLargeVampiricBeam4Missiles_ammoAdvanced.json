@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 1000203,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 20.0,
+    "Range": 40.0,
+    "BulletPrefab": 10001
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "AudioClip": "hit_01",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 3,
+      "Power": 10.0
+    }
+  ]
+}
