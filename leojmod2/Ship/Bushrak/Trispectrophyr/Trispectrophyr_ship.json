@@ -1,0 +1,44 @@
+{
+  "ItemType": 6,
+  "Id": 1000101,
+  "SizeClass": 1,
+  "Name": "Trispectrophyr",
+  "IconImage": "Trispectrophyri.png",
+  "IconScale": 1.0,
+  "ModelImage": "Trispectrophyrm.png",
+  "ModelScale": 1.5,
+  "EngineColor": "#40FFBABA",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000440000000044000000002200000042222400004222240000112211000011221100005555550005555555500550550550",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": 0.5
+      },
+      "WeaponClass": "M"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.5
+      },
+      "WeaponClass": "M"
+    }
+  ],
+  "ColliderTolerance": 1.0,
+  "BuiltinDevices": []
+}

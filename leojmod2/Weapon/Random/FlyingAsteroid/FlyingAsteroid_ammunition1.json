@@ -1,0 +1,16 @@
+{
+  "ItemType": 25,
+  "Id": 1000209,
+  "Body": {
+    "Size": 1.0,
+    "Range": 1.0,
+    "Lifetime": 999.0,
+    "FriendlyFire": true
+  },
+  "Effects": [
+    {
+      "DamageType": 3,
+      "Power": 999.0
+    }
+  ]
+}

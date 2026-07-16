@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 1000208,
+  "Name": "FlyingAsteroid",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "block",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 1000208,
+  "AmmunitionId": 1000208
+}

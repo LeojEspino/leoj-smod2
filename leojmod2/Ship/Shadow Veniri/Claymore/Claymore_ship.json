@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 100067,
+  "ShipType": 4,
   "SizeClass": 4,
   "Name": "Claymore",
   "Description": "The sword of heavens! Feels lighter than what it seems (-50% weight and +100% velocity bonus)",

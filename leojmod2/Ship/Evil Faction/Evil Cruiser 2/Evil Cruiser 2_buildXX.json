@@ -3,7 +3,7 @@
   "Id": 100084,
   "Disabled": false,
   "ShipId": 100082,
-  "AvailableForPlayer": true,
+  "AvailableForPlayer": false,
   "AvailableForEnemy": true,
   "DifficultyClass": 2,
   "BuildFaction": 0,

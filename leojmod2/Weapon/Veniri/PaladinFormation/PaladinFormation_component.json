@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 100063,
   "Name": "Paladin Formation",
+  "Description": "Summon a formation of Paladins to shred enemies in front of you",
   "DisplayCategory": 1,
   "ComponentStatsId": 1,
   "Icon": "star_icon.png",

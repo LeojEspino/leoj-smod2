@@ -3,6 +3,7 @@
   "Id": 100079,
   "SizeClass": 2,
   "Name": "Evil Cruiser",
+  "Faction": 10004,
   "IconImage": "evilcruiser.png",
   "IconScale": 1.0,
   "ModelImage": "evilcruiser.png",

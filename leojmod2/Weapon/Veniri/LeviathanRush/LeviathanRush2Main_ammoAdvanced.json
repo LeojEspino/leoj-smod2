@@ -9,11 +9,6 @@
     "HitPoints": 300,
     "BulletPrefab": 10007
   },
-  "Controller": {
-    "Type": 3,
-    "StartingVelocityModifier": 0.1,
-    "X": "IF(t<1, (10*t)+10*t^2, t*20)"
-  },
   "Triggers": [
     {
       "Condition": 1,

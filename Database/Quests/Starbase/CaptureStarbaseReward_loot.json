@@ -1,0 +1,44 @@
+{
+  "ItemType": 16,
+  "Id": 201,
+  "Loot": {
+    "Type": 21,
+    "Items": [
+      {
+        "Loot": {
+          "Type": 3,
+          "MinAmount": 60000,
+          "MaxAmount": 60000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 4,
+          "MinAmount": 30,
+          "MaxAmount": 30
+        }
+      },
+      {
+        "Loot": {
+          "Type": 41,
+          "MinAmount": 8,
+          "MaxAmount": 8,
+          "Factions": {
+            "Type": 2
+          }
+        }
+      },
+      {
+        "Loot": {
+          "Type": 10,
+          "MinAmount": 30,
+          "MaxAmount": 30,
+          "ValueRatio": 1.0,
+          "Factions": {
+            "Type": 2
+          }
+        }
+      }
+    ]
+  }
+}

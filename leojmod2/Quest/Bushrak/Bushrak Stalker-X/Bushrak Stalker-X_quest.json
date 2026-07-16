@@ -1,0 +1,183 @@
+{
+  "ItemType": 15,
+  "Id": 100064,
+  "Name": "Stop the Stalker-X",
+  "StartCondition": 3,
+  "Weight": 1.0,
+  "Requirement": {
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 20,
+        "Faction": 2
+      },
+      {
+        "Type": 25,
+        "ItemId": 10002,
+        "MinValue": 800
+      }
+    ]
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "They want you to stop a rogue Stalker-X from mining in a nearby field. They'll let you keep the ship if you stop it.",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        },
+        {
+          "TargetNode": 999,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 10002,
+            "MinValue": 900
+          },
+          "ButtonText": "Give me a different mission."
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 3,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 2,
+            "MaxValue": 5
+          }
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "The Stalker-X is here! Stop it! Though be mindful of the dangerous asteroids nearby~",
+      "Enemy": 100064,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "ATTACK!!!"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 20,
+      "DefaultTransition": 6,
+      "FailureTransition": 5,
+      "Enemy": 100064
+    },
+    {
+      "Id": 5,
+      "Type": 10,
+      "Message": "Dang you lost.",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 999,
+          "ButtonText": "Bruh."
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "Nice you defeated it! Though you still have to bring it back to let them repair it.",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 7,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 8,
+          "Requirement": {
+            "Type": 30
+          }
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 15,
+      "Transitions": [
+        {
+          "TargetNode": 9,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 25,
+                "ItemId": 10002,
+                "MinValue": 900
+              }
+            ]
+          }
+        },
+        {
+          "TargetNode": 11,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 10002,
+            "MinValue": 900
+          }
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 10,
+      "Message": "They rewarded you and repaired the Stalker-X for free!",
+      "Loot": 100064,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 10,
+          "ButtonText": "Nice"
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100064
+    },
+    {
+      "Id": 11,
+      "Type": 10,
+      "Message": "They rewarded you and repaired the Stalker-X for free!",
+      "Loot": 100065,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 12,
+          "ButtonText": "Nice"
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100065
+    }
+  ]
+}

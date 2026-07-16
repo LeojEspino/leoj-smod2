@@ -10,6 +10,7 @@
   "Icon": "dronebay1",
   "Color": "#FFC0C0",
   "Layout": "110110110",
+  "CellType": "\u0000",
   "DroneBayId": 1,
   "DroneId": 183,
   "PossibleModifications": [

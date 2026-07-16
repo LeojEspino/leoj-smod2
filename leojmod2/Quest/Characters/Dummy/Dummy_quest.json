@@ -1,0 +1,348 @@
+{
+  "ItemType": 15,
+  "Id": 5365,
+  "Name": "Dummy",
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Requirement": {
+    "Type": 3,
+    "Requirements": [
+      {
+        "Type": 25,
+        "ItemId": 5365,
+        "MinValue": 1
+      }
+    ]
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "Hey its me! You wanna ask a question?",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": "How does Global Faction Reputation work?"
+        },
+        {
+          "TargetNode": 5,
+          "ButtonText": "Is there a unique ship that i don't have you can possibly hint at?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "Nah, bye!"
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 5365
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "Global Faction Reputation changes what quests you get from a faction and their attitude towards you. Faction missions give reputation, but every quest has a cap on how much they can increase your reputation, if you reach the gap, you can ask for a different mission!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "At 700 reputation, factions will set their relations to 30 if your below it, at 850 they will set it to 60. There's planned to be more interaction with this but this is it for now.",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Thanks for answering, bye!"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 16,
+      "DefaultTransition": 6,
+      "Transitions": [
+        {
+          "TargetNode": 7,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 100045
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 8,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 10001
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 9,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 10004
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 10,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 100093
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 11,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 100091
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 12,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 100097
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 13,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 100095
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 14,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 100099
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "There isn't any more unique ships for you to get!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Aw"
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 10,
+      "Message": "There is a Veniri Cruiser from a quest that appears in atleast 800 reputation. It is quite fast while having the same weaponry of Excalibur!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 10,
+      "Message": "There is a Cruiser you can randomly encounter in beacons! It's got an odd CL slot and 2 M slots.",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 10,
+      "Message": "There is a Battleship you can randomly encounter in beacons beyond 50 LY! It's quite armed, being able to fit C, L, and M weapons!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Type": 10,
+      "Message": "There is a Destroyer you can randomly encounter in beacons! It's pretty fast, but it's weapons are angled inwards!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 10,
+      "Message": "There is a Battleship you can randomly encounter in beacons beyond 50 LY! It's got a Built-in Spinal cannon!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 10,
+      "Message": "There is a Capital Ship you can randomly encounter in beacons beyond 150 LY! It's got quite alot of weapon slots and all of them are pretty large!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+    {
+      "Id": 13,
+      "Type": 10,
+      "Message": "There is a Frigate you can randomly encounter in beacons! It's got a L weapon slot that can aim at enemies in front of it!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 10,
+      "Message": "There is a Bushrak Capital Ship from a quest that appears in atleast 800 reputation. It's a bit weak for a capital but it has 4 unique destroyer hangar bays!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    }
+  ]
+}

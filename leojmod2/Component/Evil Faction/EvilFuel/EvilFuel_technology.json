@@ -2,5 +2,6 @@
   "ItemType": 10,
   "Id": 1000164,
   "ItemId": 1000164,
-  "Dependencies": []
+  "Faction": 10004,
+  "Price": 1
 }

@@ -25,6 +25,11 @@
       "Letter": "S",
       "Name": "$GroupWeaponS",
       "Icon": "icon_weapon_s"
+    },
+    {
+      "Letter": "B",
+      "Name": "Bomb Attacks",
+      "Icon": "icon_weapon_B.png"
     }
   ]
 }

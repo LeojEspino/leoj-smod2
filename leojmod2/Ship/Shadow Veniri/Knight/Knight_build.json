@@ -6,7 +6,7 @@
   "AvailableForPlayer": true,
   "AvailableForEnemy": true,
   "DifficultyClass": 0,
-  "BuildFaction": 0,
+  "BuildFaction": 10003,
   "CustomAI": 0,
   "Components": [
     {

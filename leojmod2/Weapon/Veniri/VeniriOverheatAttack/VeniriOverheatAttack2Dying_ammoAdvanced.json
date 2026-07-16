@@ -13,7 +13,7 @@
   "Effects": [
     {
       "DamageType": 3,
-      "Power": 1000.0
+      "Power": 100.0
     }
   ]
 }

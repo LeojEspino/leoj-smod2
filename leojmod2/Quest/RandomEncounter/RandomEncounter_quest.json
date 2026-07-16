@@ -13,6 +13,37 @@
         },
         {
           "TargetNode": 7,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 50,
+            "MaxValue": 10000
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 11,
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 15,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 50,
+            "MaxValue": 10000
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 19,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 150,
+            "MaxValue": 10000
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 23,
           "Weight": 1.0
         }
       ]
@@ -118,6 +149,179 @@
       "Type": 35,
       "DefaultTransition": 999,
       "Loot": 100012
+    },
+    {
+      "Id": 11,
+      "Type": 10,
+      "Message": "A special ship appeared!",
+      "Enemy": 100060,
+      "Loot": 100060,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 12,
+          "ButtonText": "ATTACK!"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "HECK NAW!"
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 20,
+      "DefaultTransition": 13,
+      "FailureTransition": 2,
+      "Enemy": 100060
+    },
+    {
+      "Id": 13,
+      "Type": 10,
+      "Message": "Nice you beaten them!",
+      "Loot": 100060,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 14,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100060
+    },
+    {
+      "Id": 15,
+      "Type": 10,
+      "Message": "A special ship appeared!",
+      "Enemy": 100061,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 16,
+          "ButtonText": "ATTACK!"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "HECK NAW!"
+        }
+      ]
+    },
+    {
+      "Id": 16,
+      "Type": 20,
+      "DefaultTransition": 17,
+      "FailureTransition": 2,
+      "Enemy": 100061
+    },
+    {
+      "Id": 17,
+      "Type": 10,
+      "Message": "Nice you beaten them!",
+      "Loot": 100061,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 18,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 18,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100061
+    },
+    {
+      "Id": 19,
+      "Type": 10,
+      "Message": "A special ship appeared!",
+      "Enemy": 100063,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 20,
+          "ButtonText": "ATTACK!"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "HECK NAW!"
+        }
+      ]
+    },
+    {
+      "Id": 20,
+      "Type": 20,
+      "DefaultTransition": 21,
+      "FailureTransition": 2,
+      "Enemy": 100063
+    },
+    {
+      "Id": 21,
+      "Type": 10,
+      "Message": "Nice you beaten them!",
+      "Loot": 100063,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 22,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 22,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100063
+    },
+    {
+      "Id": 23,
+      "Type": 10,
+      "Message": "A special ship appeared!",
+      "Enemy": 100062,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 24,
+          "ButtonText": "ATTACK!"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "HECK NAW!"
+        }
+      ]
+    },
+    {
+      "Id": 24,
+      "Type": 20,
+      "DefaultTransition": 25,
+      "FailureTransition": 2,
+      "Enemy": 100062
+    },
+    {
+      "Id": 25,
+      "Type": 10,
+      "Message": "Nice you beaten them!",
+      "Loot": 100062,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 26,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 26,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100062
     }
   ]
 }

@@ -3,5 +3,9 @@
   "Id": 100085,
   "Type": 1,
   "ItemId": 100085,
-  "Dependencies": []
+  "Price": 5,
+  "Dependencies": [
+    100079,
+    100082
+  ]
 }

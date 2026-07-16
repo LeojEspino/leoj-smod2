@@ -80,12 +80,74 @@
     {
       "Id": 5,
       "Type": 60,
-      "DefaultTransition": 6
+      "DefaultTransition": 7
     },
     {
       "Id": 6,
       "Type": 15,
-      "DefaultTransition": 7,
+      "DefaultTransition": 12,
+      "Transitions": [
+        {
+          "TargetNode": 12,
+          "Requirement": {
+            "Type": 6,
+            "MaxValue": 99
+          }
+        },
+        {
+          "TargetNode": 14,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 100,
+            "MaxValue": 199
+          }
+        },
+        {
+          "TargetNode": 16,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 200,
+            "MaxValue": 299
+          }
+        },
+        {
+          "TargetNode": 18,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 300,
+            "MaxValue": 399
+          }
+        },
+        {
+          "TargetNode": 20,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 400,
+            "MaxValue": 499
+          }
+        },
+        {
+          "TargetNode": 22,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 500,
+            "MaxValue": 599
+          }
+        },
+        {
+          "TargetNode": 24,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 600,
+            "MaxValue": 10000
+          }
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 15,
+      "DefaultTransition": 6,
       "Transitions": [
         {
           "TargetNode": 9,
@@ -124,18 +186,6 @@
       ]
     },
     {
-      "Id": 7,
-      "Type": 10,
-      "Message": "You successfully captured the Starbase!",
-      "Character": 5365,
-      "Actions": [
-        {
-          "TargetNode": 999,
-          "ButtonText": ">>>"
-        }
-      ]
-    },
-    {
       "Id": 8,
       "Type": 36,
       "DefaultTransition": 4,
@@ -144,7 +194,7 @@
     {
       "Id": 9,
       "Type": 36,
-      "DefaultTransition": 7,
+      "DefaultTransition": 6,
       "Loot": 102
     },
     {
@@ -156,8 +206,141 @@
     {
       "Id": 11,
       "Type": 36,
-      "DefaultTransition": 7,
+      "DefaultTransition": 6,
       "Loot": 104
+    },
+    {
+      "Id": 12,
+      "Type": 10,
+      "Message": "You successfully captured the starbase!",
+      "Loot": 201,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 13,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 13,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 201
+    },
+    {
+      "Id": 14,
+      "Type": 10,
+      "Message": "You successfully captured the starbase!",
+      "Loot": 202,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 15,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 202
+    },
+    {
+      "Id": 16,
+      "Type": 10,
+      "Message": "You successfully captured the starbase!",
+      "Loot": 203,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 17,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 17,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 203
+    },
+    {
+      "Id": 18,
+      "Type": 10,
+      "Message": "You successfully captured the starbase!",
+      "Loot": 204,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 19,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 19,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 204
+    },
+    {
+      "Id": 20,
+      "Type": 10,
+      "Message": "You successfully captured the starbase!",
+      "Loot": 205,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 21,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 21,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 205
+    },
+    {
+      "Id": 22,
+      "Type": 10,
+      "Message": "You successfully captured the starbase!",
+      "Loot": 206,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 23,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 23,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 206
+    },
+    {
+      "Id": 24,
+      "Type": 10,
+      "Message": "You successfully captured the starbase!",
+      "Loot": 207,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 25,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 25,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 207
     }
   ]
 }

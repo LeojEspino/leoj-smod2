@@ -78,14 +78,20 @@
     {
       "Id": 7,
       "Type": 10,
-      "Message": "Well then, go now! I'll be narrating over the quests you might get! Oh and there's a faction reputation system in-place, try doing their missions!",
+      "Message": "Well then, go now! I'll be narrating over the quests you might get! Oh and there's a faction reputation system in-place, try doing their missions! Also make sure to look at your inventory if you wanna contact me!",
       "Character": 5365,
       "Actions": [
         {
-          "TargetNode": 999,
+          "TargetNode": 8,
           "ButtonText": "Bye bro"
         }
       ]
+    },
+    {
+      "Id": 8,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 5365
     }
   ]
 }

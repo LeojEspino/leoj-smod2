@@ -1,0 +1,17 @@
+{
+  "ItemType": 5,
+  "Id": 1000206,
+  "EnergyConsumption": 5.0,
+  "PassiveEnergyConsumption": 2.0,
+  "Range": 40.0,
+  "DamageMultiplier": 1.0,
+  "DefenseMultiplier": 1.0,
+  "SpeedMultiplier": 1.0,
+  "BuildExtraCycles": 2,
+  "ImprovedAi": true,
+  "Capacity": 1,
+  "ActivationType": 2,
+  "LaunchSound": "launch_08",
+  "LaunchEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "controls_drone"
+}
