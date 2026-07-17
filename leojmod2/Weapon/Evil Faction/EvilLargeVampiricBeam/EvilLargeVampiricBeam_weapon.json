@@ -5,5 +5,7 @@
   "FireRate": 2.0,
   "ActivationType": 1,
   "ShotEffectPrefab": "FlashAdditive",
+  "VisualEffect": 18,
+  "EffectSize": 2.0,
   "ControlButtonIcon": "controls_shot"
 }

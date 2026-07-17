@@ -35,8 +35,11 @@
     {
       "Condition": 1,
       "EffectType": 1,
+      "VisualEffect": 2,
       "AudioClip": "*flux_04",
-      "Color": "#00000000"
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 0.5
     },
     {
       "Condition": 5,

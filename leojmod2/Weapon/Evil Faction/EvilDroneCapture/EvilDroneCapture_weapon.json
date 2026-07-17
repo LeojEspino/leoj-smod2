@@ -6,6 +6,7 @@
   "ActivationType": 1,
   "ChargeSound": "se_noise",
   "ShotEffectPrefab": "FlashAdditive",
-  "EffectSize": 0.1,
+  "VisualEffect": 16,
+  "EffectSize": 0.2,
   "ControlButtonIcon": "controls_shot"
 }

@@ -2,24 +2,42 @@
   "ItemType": 25,
   "Id": 1000203,
   "Body": {
-    "Size": 1.0,
-    "Velocity": 20.0,
-    "Range": 40.0,
+    "Size": 0.6,
+    "Velocity": 30.0,
+    "Range": 50.0,
+    "Weight": 0.25,
+    "HitPoints": 30,
     "BulletPrefab": 10001
   },
   "Controller": {
-    "Type": 1,
-    "StartingVelocityModifier": 1.0
+    "Type": 1
   },
   "Triggers": [
     {
-      "Condition": 3,
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 2,
+      "AudioClip": "explosion_02",
+      "Color": "#00000000",
+      "Size": 4.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 1,
       "EffectType": 1,
       "VisualEffect": 1,
-      "AudioClip": "hit_01",
+      "ColorMode": 1,
+      "Size": 1.5,
+      "UseBulletPosition": true
+    },
+    {
+      "Condition": 8,
+      "EffectType": 4,
+      "VisualEffect": 2,
       "Color": "#00000000",
       "Size": 1.0,
-      "Lifetime": 0.5
+      "Lifetime": 0.2,
+      "Cooldown": 0.001
     }
   ],
   "Effects": [

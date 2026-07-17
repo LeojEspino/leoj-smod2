@@ -6,6 +6,7 @@
     "ParentVelocityEffect": 0.0,
     "Range": 20.0,
     "Lifetime": 0.25,
+    "Color": "#D8A3FE",
     "EnergyCost": 20.0,
     "AiBulletBehavior": 3
   },
@@ -17,13 +18,37 @@
       "AudioClip": "se_tan03",
       "Color": "#00000000",
       "Size": 1.0,
+      "Lifetime": 0.5,
+      "UseBulletPosition": true
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 12,
+      "Color": "#88FFFFFF",
+      "ColorMode": 3,
+      "Size": 1.0,
       "Lifetime": 0.5
+    },
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 23,
+      "Color": "#00000000",
+      "Size": 0.5,
+      "Lifetime": 0.5,
+      "Cooldown": 0.1
     }
   ],
   "ImpactType": 1,
   "Effects": [
     {
       "Type": 6
+    },
+    {
+      "Type": 3,
+      "DamageType": 1,
+      "Power": 60.0
     }
   ]
 }

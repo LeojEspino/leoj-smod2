@@ -7,7 +7,7 @@
     "AttachedToParent": true,
     "Range": 20.0,
     "Lifetime": 0.05,
-    "Color": "#FF0000",
+    "Color": "#FD3455",
     "BulletPrefab": 100012,
     "EnergyCost": 7.5,
     "AiBulletBehavior": 2

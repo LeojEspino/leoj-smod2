@@ -2,7 +2,7 @@
   "ItemType": 25,
   "Id": 1000202,
   "Body": {
-    "Size": 1.5,
+    "Size": 2.0,
     "ParentVelocityEffect": 0.0,
     "AttachedToParent": true,
     "Range": 30.0,

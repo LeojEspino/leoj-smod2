@@ -2,7 +2,7 @@
   "ItemType": 25,
   "Id": 1000201,
   "Body": {
-    "Size": 1.5,
+    "Size": 2.0,
     "ParentVelocityEffect": 0.0,
     "AttachedToParent": true,
     "Range": 30.0,
@@ -15,6 +15,16 @@
     "Type": 2,
     "StartingVelocityModifier": 0.1
   },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 19,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 5.0
+    }
+  ],
   "ImpactType": 2,
   "Effects": [
     {

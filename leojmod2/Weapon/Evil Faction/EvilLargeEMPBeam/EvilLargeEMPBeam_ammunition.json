@@ -5,9 +5,9 @@
     "Size": 1.5,
     "ParentVelocityEffect": 0.0,
     "AttachedToParent": true,
-    "Range": 30.0,
+    "Range": 25.0,
     "Lifetime": 0.05,
-    "Color": "#FF0000",
+    "Color": "#FE2D62",
     "BulletPrefab": 100012,
     "EnergyCost": 20.0,
     "AiBulletBehavior": 2
@@ -41,6 +41,15 @@
       "Cooldown": 0.25,
       "Rotation": "RANDOM(0,360)",
       "OffsetX": "RANDOM(-4,-2)"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 19,
+      "Color": "#CFE59C00",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 0.2
     }
   ],
   "ImpactType": 2,

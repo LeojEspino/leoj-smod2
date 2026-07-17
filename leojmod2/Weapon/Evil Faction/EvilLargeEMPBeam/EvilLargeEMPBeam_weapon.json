@@ -4,5 +4,7 @@
   "WeaponClass": 2,
   "ActivationType": 1,
   "ShotEffectPrefab": "FlashAdditive",
+  "VisualEffect": 10002,
+  "EffectSize": 2.0,
   "ControlButtonIcon": "controls_shot"
 }
