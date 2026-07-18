@@ -4,7 +4,6 @@
   "Name": "TutorialGun",
   "DisplayCategory": 1,
   "ComponentStatsId": 1,
-  "Faction": -1,
   "Icon": "gun3",
   "Layout": "1",
   "CellType": "4",

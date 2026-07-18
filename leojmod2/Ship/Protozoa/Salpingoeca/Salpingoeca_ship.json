@@ -1,0 +1,34 @@
+{
+  "ItemType": 6,
+  "Id": 20001,
+  "Name": "Salpingoeca",
+  "Faction": 20001,
+  "IconImage": "salpingoeca_frig_icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "salpingoeca_frig.png",
+  "ModelScale": 1.3,
+  "EngineColor": "#1828FF9E",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7
+      },
+      "Size": 0.4
+    }
+  ],
+  "Layout": "0000010100000000011011000000001101100000001100011000001114441110000113444311000013222223100001322222310000132222231000055255525500005525552550000000050000000000005000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.4
+      },
+      "WeaponClass": "LS"
+    }
+  ],
+  "Features": {
+    "EnergyResistance": 100.0,
+    "DroneBuildSpeedBonus": 1.0,
+    "Regeneration": true
+  },
+  "BuiltinDevices": []
+}

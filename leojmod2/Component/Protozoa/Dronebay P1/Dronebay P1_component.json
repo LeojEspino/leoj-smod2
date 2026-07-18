@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 20004,
+  "Name": "Dronebay P1",
+  "Description": "Produces ferocious drones.",
+  "DisplayCategory": 5,
+  "Availability": 1,
+  "ComponentStatsId": 2,
+  "Faction": 10004,
+  "Level": 200,
+  "Icon": "dronebay1",
+  "Color": "#0FFFB3",
+  "Layout": "110110110",
+  "CellType": "1",
+  "DroneBayId": 1,
+  "DroneId": 20005
+}

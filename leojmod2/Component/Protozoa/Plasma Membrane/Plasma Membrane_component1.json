@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 200011,
+  "Name": "Plasma Membrane M",
+  "DisplayCategory": 2,
+  "ComponentStatsId": 200011,
+  "Faction": 20001,
+  "Level": 200,
+  "Icon": "membrane_m.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    1
+  ]
+}

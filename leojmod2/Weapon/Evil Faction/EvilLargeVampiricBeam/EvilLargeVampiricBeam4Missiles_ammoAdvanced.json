@@ -10,7 +10,8 @@
     "BulletPrefab": 10001
   },
   "Controller": {
-    "Type": 1
+    "Type": 1,
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {

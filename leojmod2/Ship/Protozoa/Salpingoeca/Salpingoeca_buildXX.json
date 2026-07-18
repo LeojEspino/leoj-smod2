@@ -1,0 +1,17 @@
+{
+  "ItemType": 8,
+  "Id": 20003,
+  "Disabled": false,
+  "ShipId": 20001,
+  "AvailableForPlayer": true,
+  "AvailableForEnemy": true,
+  "DifficultyClass": 2,
+  "BuildFaction": 0,
+  "CustomAI": 0,
+  "Components": [],
+  "NotAvailableInGame": false,
+  "ExtendedLayout": false,
+  "RandomColor": false,
+  "LeftSatelliteBuild": 0,
+  "RightSatelliteBuild": 0
+}

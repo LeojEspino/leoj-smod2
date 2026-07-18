@@ -1,0 +1,18 @@
+{
+  "ItemType": 15,
+  "Id": 20001,
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 20001
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    }
+  ]
+}

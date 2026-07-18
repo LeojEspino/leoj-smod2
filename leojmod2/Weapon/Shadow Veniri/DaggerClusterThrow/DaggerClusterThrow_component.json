@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1000112,
   "Name": "Dagger Cluster Shooter",
-  "Description": "Shoots larger daggers that also launches more daggers at whatever it hits",
+  "Description": "Shoots larger daggers that also launches more daggers at whatever it hits.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,
