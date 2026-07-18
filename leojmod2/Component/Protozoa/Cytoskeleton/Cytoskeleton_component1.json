@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 20008,
+  "Name": "Cytoskeleton M2",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 20008,
+  "Faction": 20001,
+  "Level": 200,
+  "Icon": "cytoskeleton2.png",
+  "Color": "#C8FFFFFF",
+  "Layout": "1111",
+  "CellType": "2",
+  "Restrictions": {
+    "NotForMechanicShips": true
+  },
+  "PossibleModifications": [
+    2
+  ]
+}

@@ -9,7 +9,7 @@
   "Faction": 10004,
   "Level": 200,
   "Icon": "dronebay1",
-  "Color": "#0FFFB3",
+  "Color": "#C80FFFB3",
   "Layout": "110110110",
   "CellType": "1",
   "DroneBayId": 1,

@@ -3,7 +3,7 @@
   "Id": 200012,
   "Type": 1,
   "ArmorPoints": 15.0,
-  "Weight": 130.0,
-  "KineticResistance": 47.0,
-  "ThermalResistance": 47.0
+  "Weight": 200.0,
+  "KineticResistance": 24.5,
+  "ThermalResistance": 24.5
 }
