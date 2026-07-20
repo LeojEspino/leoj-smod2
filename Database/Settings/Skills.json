@@ -3,7 +3,7 @@
   "FuelTankCapacity": "BaseFuelCapacity + 90*level",
   "ExperienceBonus": "0.25*level",
   "FlightSpeed": "BaseFlightSpeed + 2.0*level",
-  "FlightRange": "BaseFlightRange + 0.14*level",
+  "FlightRange": "BaseFlightRange + 0.3*level",
   "IncreasedLevelLimit": 120,
   "BaseFlightRange": 3.0,
   "BaseFlightSpeed": 4.0

@@ -3,6 +3,7 @@
   "Id": 4,
   "InitialEnemyShips": "99",
   "MaxEnemyShips": "99",
+  "BattleMapSize": 400,
   "DisablePlanet": true,
   "CustomSoundtrack": [
     {

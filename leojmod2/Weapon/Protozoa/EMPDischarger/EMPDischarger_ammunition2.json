@@ -1,0 +1,38 @@
+{
+  "ItemType": 25,
+  "Id": 200042,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Lifetime": 6.0
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "AudioClip": "se_kira00",
+      "Ammunition": 200043,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "Cooldown": 0.5,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5,
+      "Cooldown": 0.5,
+      "UseBulletPosition": true
+    }
+  ],
+  "ImpactType": 2
+}

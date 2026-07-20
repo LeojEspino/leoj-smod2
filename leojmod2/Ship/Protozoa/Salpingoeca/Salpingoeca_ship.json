@@ -28,7 +28,10 @@
   "Features": {
     "EnergyResistance": 100.0,
     "DroneBuildSpeedBonus": 1.0,
-    "Regeneration": true
+    "Regeneration": true,
+    "BuiltinDevices": [
+      18
+    ]
   },
   "BuiltinDevices": []
 }

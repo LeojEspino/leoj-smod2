@@ -3,6 +3,7 @@
   "Id": 20011,
   "Type": 1,
   "ArmorRepairRate": 0.3125,
-  "EnergyRechargeRate": 2.6,
+  "EnergyPoints": 0.625,
+  "EnergyRechargeRate": 3.0,
   "Weight": 10.0
 }

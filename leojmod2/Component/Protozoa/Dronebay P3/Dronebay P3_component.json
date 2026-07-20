@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 200080,
+  "Name": "Dronebay P3",
+  "DisplayCategory": 5,
+  "Availability": 1,
+  "ComponentStatsId": 2,
+  "Faction": 20001,
+  "Level": 310,
+  "Icon": "dronebay1",
+  "Color": "#C80FFFB3",
+  "Layout": "0111001110011100111001110",
+  "DroneBayId": 1,
+  "DroneId": 20020,
+  "PossibleModifications": [
+    17,
+    18,
+    20,
+    19,
+    2,
+    1
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ItemType": 6,
+  "Id": 200060,
+  "SizeClass": 2,
+  "Name": "Stylonchia",
+  "Faction": 20001,
+  "IconImage": "stylonchia_crui_icon.png",
+  "IconScale": 1.5,
+  "ModelImage": "stylonchia_crui.png",
+  "ModelScale": 2.2,
+  "EngineColor": "#18FF1E22",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6
+      },
+      "Size": 0.5
+    },
+    {
+      "Position": {
+        "x": -1.0
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.7
+      },
+      "Size": 0.15
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.75
+      },
+      "Size": 0.15
+    }
+  ],
+  "Layout": "0000110000110000000411100111400000041110011140000004111441114000000413344331400000011334433110000000122442210000000132222223100000113222222311000001322222231000001132222223110000113222222311000001135555311000005503555530550000550155551055000000000550000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.95,
+        "y": 0.4
+      },
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.95,
+        "y": -0.4
+      },
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.6
+      },
+      "WeaponClass": "LS"
+    }
+  ],
+  "Features": {
+    "EnergyResistance": 100.0,
+    "DroneBuildSpeedBonus": 1.0,
+    "Regeneration": true,
+    "BuiltinDevices": [
+      18
+    ]
+  },
+  "BuiltinDevices": []
+}

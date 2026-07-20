@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 20007,
   "Name": "Cytoskeleton",
+  "Description": "-0,02s repair cooldown",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 20007,

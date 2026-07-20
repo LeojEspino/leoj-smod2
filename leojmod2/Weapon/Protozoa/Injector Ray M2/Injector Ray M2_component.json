@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 200090,
+  "Name": "Injector Ray M2",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 20001,
+  "Level": 240,
+  "Icon": "laser1",
+  "Color": "#FE4D2D",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 200090,
+  "AmmunitionId": 200090,
+  "WeaponSlotType": "L"
+}

@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 200040,
+  "Name": "Orbital EMP Blast Discharger",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 20001,
+  "Level": 300,
+  "Icon": "doom1",
+  "Color": "#80FFFF",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 200040,
+  "AmmunitionId": 200040,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

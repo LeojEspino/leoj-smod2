@@ -3,8 +3,5 @@
   "Id": 20004,
   "ItemId": 20004,
   "Faction": 20001,
-  "Price": 5,
-  "Dependencies": [
-    20001
-  ]
+  "Price": 3
 }

@@ -1,0 +1,26 @@
+{
+  "ItemType": 25,
+  "Id": 200040,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Range": 10.0,
+    "Lifetime": 6.0,
+    "Color": "#80FFFF",
+    "EnergyCost": 12.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "loboutis_3_1-3",
+      "Ammunition": 200041,
+      "Color": "#00000000",
+      "Quantity": 6,
+      "Size": 1.0,
+      "Rotation": "i*(360/Quantity)+RANDOM(-1,1)*20",
+      "OffsetX": "0"
+    }
+  ],
+  "ImpactType": 2
+}

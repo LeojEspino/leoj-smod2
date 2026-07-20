@@ -2,7 +2,7 @@
   "ItemType": 25,
   "Id": 1000186,
   "Body": {
-    "Size": 0.1,
+    "Size": 0.5,
     "AttachedToParent": true,
     "Range": 999.0,
     "Lifetime": 999.0,

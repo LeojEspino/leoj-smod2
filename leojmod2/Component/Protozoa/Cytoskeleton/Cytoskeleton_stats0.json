@@ -3,7 +3,7 @@
   "Id": 20007,
   "Type": 1,
   "ArmorRepairRate": 0.5,
-  "ArmorRepairCooldownModifier": -0.05,
-  "EnergyRechargeRate": -1.0,
+  "ArmorRepairCooldownModifier": -0.02,
+  "EnergyRechargeRate": -0.5,
   "Weight": -100.0
 }

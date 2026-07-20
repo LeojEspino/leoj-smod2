@@ -2,6 +2,7 @@
   "ItemType": 11,
   "Id": 20010,
   "ArmorRepairRate": 0.25,
-  "EnergyRechargeRate": 2.1,
+  "EnergyPoints": 0.5,
+  "EnergyRechargeRate": 2.5,
   "Weight": 10.0
 }

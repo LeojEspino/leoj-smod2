@@ -1,0 +1,41 @@
+{
+  "ItemType": 25,
+  "Id": 20027,
+  "Body": {
+    "Size": 1.0,
+    "Length": 2.5,
+    "Velocity": 10.0,
+    "AttachedToParent": true,
+    "Range": 1.0,
+    "Lifetime": 0.25,
+    "Color": "#FEA880",
+    "BulletPrefab": 5,
+    "EnergyCost": 1.5
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "AudioClip": "reimu_graze",
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 0.5,
+      "Cooldown": 0.01,
+      "OncePerCollision": true
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "marisa_bombA",
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 50.0
+    }
+  ]
+}

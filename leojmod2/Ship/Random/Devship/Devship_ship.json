@@ -29,12 +29,16 @@
     {
       "Position": {
         "x": 0.9
-      }
+      },
+      "AutoAimingArc": 360.0,
+      "RotationSpeed": 999.0
     }
   ],
   "Features": {
-    "ShipWeightBonus": -0.5,
-    "EquipmentWeightBonus": -0.5
+    "ShipWeightBonus": -1.0,
+    "EquipmentWeightBonus": -1.0,
+    "VelocityBonus": 10.0,
+    "TurnRateBonus": 10.0
   },
   "BuiltinDevices": []
 }

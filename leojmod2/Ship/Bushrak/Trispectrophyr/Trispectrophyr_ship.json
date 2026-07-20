@@ -39,6 +39,6 @@
       "WeaponClass": "M"
     }
   ],
-  "ColliderTolerance": 1.0,
+  "ColliderTolerance": 0.03,
   "BuiltinDevices": []
 }

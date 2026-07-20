@@ -7,6 +7,7 @@
     "Velocity": 40.0,
     "Range": 999.0,
     "Lifetime": 5.0,
+    "HitPoints": 10,
     "BulletPrefab": 10
   },
   "Controller": {

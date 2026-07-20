@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 20009,
+  "Name": "Abduction Ray",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 20001,
+  "Level": 220,
+  "Icon": "laser2",
+  "Color": "#07F79B",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 20009,
+  "AmmunitionId": 20009,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    7,
+    1
+  ]
+}

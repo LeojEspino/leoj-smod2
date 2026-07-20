@@ -1,0 +1,87 @@
+{
+  "ItemType": 6,
+  "Id": 20020,
+  "SizeClass": 1,
+  "Name": "Vorticella",
+  "Faction": 20001,
+  "IconImage": "vorticella_dest_icon.png",
+  "IconScale": 1.25,
+  "ModelImage": "vorticella_dest.png",
+  "ModelScale": 1.8,
+  "EngineColor": "#1828FF9E",
+  "Engines": [
+    {
+      "Position": {
+        "x": -1.0
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.7
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.7
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.15,
+        "y": 0.8
+      },
+      "Size": 0.15
+    },
+    {
+      "Position": {
+        "x": -0.15,
+        "y": -0.8
+      },
+      "Size": 0.15
+    },
+    {
+      "Position": {
+        "x": -0.3
+      },
+      "Size": 0.5
+    }
+  ],
+  "Layout": "0000010010000000441100114400004411001144000011114411110000111144111100000113223110000001332233100005522222222550000022222200000003222222300000553022035500005500550055000000005500000000000055000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9692308,
+        "y": 0.45
+      },
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.969,
+        "y": -0.45
+      },
+      "WeaponClass": "LS"
+    },
+    {
+      "Position": {
+        "x": 0.5
+      },
+      "WeaponClass": "LS"
+    }
+  ],
+  "Features": {
+    "EnergyResistance": 100.0,
+    "DroneBuildSpeedBonus": 1.0,
+    "Regeneration": true,
+    "BuiltinDevices": [
+      18
+    ]
+  },
+  "ColliderTolerance": 0.04,
+  "BuiltinDevices": []
+}
