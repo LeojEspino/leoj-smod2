@@ -1,0 +1,13 @@
+{
+  "ItemType": 2,
+  "Id": 2000130,
+  "EnergyConsumption": 8.0,
+  "ScaleEnergyWithShipSize": false,
+  "Power": 100.0,
+  "Size": 2.0,
+  "Cooldown": 1.0,
+  "ActivationType": 1,
+  "Color": "#EFEC99FF",
+  "EffectPrefab": "Flicker",
+  "ControlButtonIcon": "controls_boost"
+}

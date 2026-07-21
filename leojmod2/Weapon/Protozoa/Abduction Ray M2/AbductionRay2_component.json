@@ -1,25 +1,24 @@
 {
   "ItemType": 1,
-  "Id": 20027,
-  "Name": "Injector Ray M1",
+  "Id": 200009,
+  "Name": "Abduction Ray M2",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,
   "Faction": 20001,
-  "Level": 220,
+  "Level": 360,
   "Icon": "laser1",
-  "Color": "#FF8200",
-  "Layout": "1010",
+  "Color": "#61F207",
+  "Layout": "1110111011101110",
   "CellType": "4",
-  "WeaponId": 20027,
-  "AmmunitionId": 20027,
+  "WeaponId": 200009,
+  "AmmunitionId": 200009,
   "WeaponSlotType": "L",
   "PossibleModifications": [
     16,
     5,
+    2,
     7,
-    1,
-    66,
-    2
+    1
   ]
 }

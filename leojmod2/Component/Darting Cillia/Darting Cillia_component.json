@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 2000130,
+  "Name": "Darting Cillia",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 20001,
+  "Level": 250,
+  "Icon": "afterburner1",
+  "Color": "#FCD6FE",
+  "Layout": "0100010001000100",
+  "CellType": "5",
+  "DeviceId": 2000130
+}

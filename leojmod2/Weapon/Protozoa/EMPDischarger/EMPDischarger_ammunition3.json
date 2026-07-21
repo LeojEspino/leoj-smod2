@@ -4,7 +4,7 @@
   "Body": {
     "Size": 4.0,
     "Velocity": 60.0,
-    "Lifetime": 2.0,
+    "Lifetime": 0.5,
     "BulletPrefab": 20001
   },
   "Controller": {
