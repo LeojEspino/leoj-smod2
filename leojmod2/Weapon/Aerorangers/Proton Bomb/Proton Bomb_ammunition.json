@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 2000240,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.25,
+    "Range": 30.0,
+    "Lifetime": 1.0,
+    "Color": "#94E09B",
+    "BulletPrefab": 20002,
+    "EnergyCost": 2.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "hit_01",
+      "Ammunition": 2000230,
+      "Color": "#00000000",
+      "Quantity": 4,
+      "Size": 4.0,
+      "PowerMultiplier": 2.5,
+      "Rotation": "0",
+      "OffsetX": "RANDOM(-1,1) * 1",
+      "OffsetY": "RANDOM(-1,1) * 1"
+    }
+  ]
+}

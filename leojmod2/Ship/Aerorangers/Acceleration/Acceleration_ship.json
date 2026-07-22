@@ -1,0 +1,66 @@
+{
+  "ItemType": 6,
+  "Id": 200230,
+  "SizeClass": 2,
+  "Name": "Acceleration",
+  "Faction": 20002,
+  "IconImage": "acceleration_crui_icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "acceleration_crui.png",
+  "ModelScale": 2.6,
+  "EngineColor": "#8C3DE5FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.75
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.45,
+        "y": 0.25
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.45,
+        "y": -0.25
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "000004000400000000004000400000000004000400000000004000400000000041101140000000041101140000000043323340000001142222241100001112222211100001112222211100000112222211000000115555511000000105555501000000001000100000000001000100000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0,
+        "y": 0.23
+      },
+      "WeaponClass": "CT"
+    },
+    {
+      "Position": {
+        "x": 1.0,
+        "y": -0.23
+      },
+      "WeaponClass": "CT"
+    },
+    {
+      "Position": {
+        "x": 0.4142857,
+        "y": -0.35
+      },
+      "WeaponClass": "CT"
+    },
+    {
+      "Position": {
+        "x": 0.4142857,
+        "y": 0.35
+      },
+      "WeaponClass": "CT"
+    }
+  ],
+  "BuiltinDevices": []
+}

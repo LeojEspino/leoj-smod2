@@ -2,7 +2,6 @@
   "ItemType": 1,
   "Id": 94,
   "Name": "$BlackHole_M_1",
-  "Description": "Fires a small gravity well that sucks in enemies and detonates on contact\n\nA mysterious weapon of the Daazen, often referred to as \"Black Hole Generator\". In reality, it is not an actual black hole, but an unstable gravity well that detonates on contact. The exact mechanism is only known to the top scientists of Daazen.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

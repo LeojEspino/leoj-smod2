@@ -1,0 +1,39 @@
+{
+  "ItemType": 6,
+  "Id": 200110,
+  "Name": "Dynamo",
+  "Faction": 20002,
+  "IconImage": "dynamo_frig_icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "dynamo_frig.png",
+  "ModelScale": 1.0,
+  "EngineColor": "#8C3DE5FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0001000001310000242000324230132423111555110055500",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.1
+      },
+      "AutoAimingArc": 45.0,
+      "RotationSpeed": 40.0,
+      "WeaponClass": "CT"
+    }
+  ],
+  "BuiltinDevices": []
+}

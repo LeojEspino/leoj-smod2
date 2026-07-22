@@ -2,7 +2,6 @@
   "ItemType": 1,
   "Id": 64,
   "Name": "$ArmoredFuelCell_S",
-  "Description": "Provides the same energy capacity as a conventional Small Fuel Cell, with extra armor plating. Relatively heavy.\n\nThe heavy construct of this armor is mostly to protect against damage. Not favored by the conventional captain, for armors on fuel cell is less efficient than having actual layers of armor to protect their ship. It's also heavier.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 64,

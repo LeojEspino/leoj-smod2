@@ -1,6 +1,7 @@
 {
   "ItemType": 27,
   "Id": 20002,
+  "Shape": 6,
   "Image": "spike_bullet.png",
   "Size": 1.0
 }

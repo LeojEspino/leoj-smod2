@@ -2,7 +2,6 @@
   "ItemType": 1,
   "Id": 261,
   "Name": "$BionicArmor_M",
-  "Description": "A weaker armor that provides hull regeneration.\n\nIt's regeneration is interrupted by enemy fire, but doesn't consume energy and input, hence it is used a lot in exploration and expedition fleets to save on repair expenses.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 261,

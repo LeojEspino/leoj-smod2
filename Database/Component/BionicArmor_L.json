@@ -2,7 +2,6 @@
   "ItemType": 1,
   "Id": 262,
   "Name": "$BionicArmor_L",
-  "Description": "A weaker armor that provides hull regeneration.\n\nDespite its recent production, it has gained high popularity due to potent, synergistic usage with various types of resistance-providing armors, quickly repairing them.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 262,

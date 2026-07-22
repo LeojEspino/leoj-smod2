@@ -1,0 +1,27 @@
+{
+  "ItemType": 1,
+  "Id": 2000240,
+  "Name": "Proton Bomb M1",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 20001,
+  "Level": 30,
+  "Icon": "gun3",
+  "Color": "#94E09B",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 2000240,
+  "AmmunitionId": 2000240,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

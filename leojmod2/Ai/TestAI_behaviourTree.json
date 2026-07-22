@@ -1,0 +1,31 @@
+{
+  "ItemType": 28,
+  "Id": 20001,
+  "RootNode": {
+    "Type": 4,
+    "Nodes": [
+      {
+        "Type": 3,
+        "Nodes": [
+          {
+            "Type": 100,
+            "MinValue": 0.5,
+            "MaxValue": 0.0
+          },
+          {
+            "Type": 108,
+            "MinValue": 1.0,
+            "MaxValue": 1.0
+          },
+          {
+            "Type": 102
+          },
+          {
+            "Type": 115,
+            "MaxValue": 1.0
+          }
+        ]
+      }
+    ]
+  }
+}

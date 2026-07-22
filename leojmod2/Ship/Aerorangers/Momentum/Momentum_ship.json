@@ -1,0 +1,64 @@
+{
+  "ItemType": 6,
+  "Id": 200121,
+  "SizeClass": 1,
+  "Name": "Momentum",
+  "Faction": 20002,
+  "IconImage": "momentum_dest_icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "momentum_dest.png",
+  "ModelScale": 1.7,
+  "EngineColor": "#8C3DE5FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.25
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.35,
+        "y": 0.275
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.35,
+        "y": -0.275
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000000000000000000000000000000000000000000000000000000000000000014141410000002424242000003242424230001325555523101100000000011100000000000100000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.28,
+        "y": 0.27
+      },
+      "AutoAimingArc": 45.0,
+      "RotationSpeed": 40.0,
+      "WeaponClass": "CT"
+    },
+    {
+      "Position": {
+        "x": 0.28
+      },
+      "AutoAimingArc": 45.0,
+      "RotationSpeed": 40.0,
+      "WeaponClass": "CT"
+    },
+    {
+      "Position": {
+        "x": 0.28,
+        "y": -0.27
+      },
+      "AutoAimingArc": 45.0,
+      "RotationSpeed": 40.0,
+      "WeaponClass": "CT"
+    }
+  ],
+  "BuiltinDevices": []
+}

@@ -2,7 +2,6 @@
   "ItemType": 1,
   "Id": 157,
   "Name": "$AutomatedReloader_S",
-  "Description": "Speeds up a ship's rate of fire.\n\nThe Zumbalari's Automated Reloader is a major component in many ships, greatly decreasing weapon reload speed via energy flow manipulation and extremely high performance heat dissipators to offset the heat from firing quickly. A favourite of many captains fielding larger ships.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 157,
