@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 54,
   "Name": "$EcmJammer",
+  "Description": "Deploys decoys on activation, which distract enemy targeting and missiles.\n\nA renowned device, part of the Zumbalari's tactical arsenal, this device deploys multiple ECM jammers with extreme signatures on many frequencies, scrambling enemy targeting. This allows ships to distract enemy fire, and mix incredibly well with the Zumbalari's tendency to engage in combat within asteroid fields.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 3,

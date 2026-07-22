@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 98,
   "Name": "$EnergyBeam_M",
+  "Description": "Fires a moderate-long range energy beam with great efficiency and locks on targets it hit.\n\nA standard weapon in Daazen arsenal, capable of letting them go on the offense at a reasonable distance away from the target. The energy beam can destabilize shield, strip away armor and hull without reliance on heat, unlike conventional laser weapons. ",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

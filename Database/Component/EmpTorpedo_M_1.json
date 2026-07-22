@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 149,
   "Name": "$EmpTorpedo_M_1",
+  "Description": "Fires a torpedo that releases a moderate blast with a strong EMP effect.\n\nThough EMP shielding is nowaday a staple among ships, these will not be able to fully stop the sudden, potent burst of EMP torpedoes, leading to these fearsome weapons still finding uses in modern space combat.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

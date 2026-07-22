@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 46,
   "Name": "$DroneBay_S_51",
+  "Description": "Holds a M51 drone.",
   "DisplayCategory": 5,
   "Availability": 1,
   "ComponentStatsId": 2,
@@ -10,6 +11,7 @@
   "Icon": "dronebay1",
   "Color": "#C0FFC0",
   "Layout": "110110110",
+  "CellType": "\u0000",
   "DroneBayId": 1,
   "DroneId": 187,
   "PossibleModifications": [

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2,
   "Name": "$EnergyAbsorber_M",
+  "Description": "A medium armor plate tuned to resist Energy damage - and partially absorbs Energy damage to power ship systems.\n\nThese plates are lined with extremely conductive capacitors, quickly absorbing energy damage taken and storing them. These powerful capacitors then directly supply the ship's power grid with absorbed energy.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 5,

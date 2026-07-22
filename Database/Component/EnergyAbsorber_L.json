@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1,
   "Name": "$EnergyAbsorber_L",
+  "Description": "A large armor plate tuned to resist Energy damage - and partially absorbs Energy damage to power ship systems.\n\nWith enough of these plates, ships could even resists EMP blasts or deal with the most extreme of energy weaponries. They won't do anything toward damage of other types, though.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 4,

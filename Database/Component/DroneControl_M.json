@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 97,
   "Name": "$DroneControl_M",
+  "Description": "Captures drone or clone on hit.\n\nThe Drone Capture System deals no damage, but hacks into a drone's relatively simple control system and hijacks its control. A nasty surprise against carriers. Recent versions also made it capable of hijacking cloned ship's control systems.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

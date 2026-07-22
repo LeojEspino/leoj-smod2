@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 191,
   "Name": "$DroneDefense_M",
+  "Description": "Moderately enhances drone defensive capabilities.\n\nInterferes with drone reconstruction, increasing reconstruction time in the event of drone losses.",
   "DisplayCategory": 5,
   "Availability": 1,
   "ComponentStatsId": 191,

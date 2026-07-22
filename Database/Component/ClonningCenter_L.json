@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 257,
   "Name": "$ClonningCenter_L",
+  "Description": "Clones your ship. For battleships.\n\nAcquiring these devices requires encounters with the extremely dangerous, newly emergent \"Contagion\" threat, which is a task for the hardiest of pilots.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,

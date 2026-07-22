@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 161,
   "Name": "$ChargedLaser_M_1",
+  "Description": "Fires a tachyon beam after charging up.\n\nThis weapon is commonly seen in the Unknown forces, with an energy output strong enough to drill a hole into armor and causing damage to internal ship components.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 255,
   "Name": "$ClonningCenter_S",
+  "Description": "Clones your ship. For frigates.\n\nThis device seemingly makes a \"copy\" of a ship that functions alongside it. An extremely exotic device with seemingly impossible function, it is sought after by many pilots in the galaxy. However, it only works for living ships.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,

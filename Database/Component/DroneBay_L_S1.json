@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 227,
   "Name": "$DroneBay_L_S1",
+  "Description": "Holds three S1 drones.",
   "DisplayCategory": 5,
   "Availability": 1,
   "ComponentStatsId": 2,

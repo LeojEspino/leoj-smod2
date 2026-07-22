@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 221,
   "Name": "$ClusterMissile_M_1",
+  "Description": "Fires a missile that splits.\n\nThis ancient weapon is a menace to point defense gunners. It has many attached, smaller missiles alongside, that fires off when it hits a ship. This confuses targeting, and the smaller missiles are no less potent than the main missile.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

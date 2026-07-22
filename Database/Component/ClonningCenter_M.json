@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 256,
   "Name": "$ClonningCenter_M",
+  "Description": "Clones your ship. For destroyer and cruisers.\n\nThis device seems to \"borrow\" matter from elsewhere, then \"returns\" it after deactivation. If the cloned ship is destroyed, there seems to be no consequences, but this is still a subject of heated debate.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 148,
   "Name": "$ChargedTorpedo_L_1",
+  "Description": "Fires a potent torpedo that causes massive damage on a wide area of effect.\n\nThe red flare that emanates from this torpedo is the sight that many pilots who have fought the Unknowns, if not traumatized, sees as their last vision before death. A weapon that cares little about where it hits, as long as a ship is caught in it's explosion, the damage caused is the same.\n\nThe blast have been reported to cause an impact powerful enough that G-stabilization could not keep up, and turns pilots into red splatter inside a ship's cockpit.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

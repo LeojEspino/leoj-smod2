@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 33,
   "Name": "$DroneBay_M_21",
+  "Description": "Holds two M21 drones.",
   "DisplayCategory": 5,
   "Availability": 1,
   "ComponentStatsId": 2,
