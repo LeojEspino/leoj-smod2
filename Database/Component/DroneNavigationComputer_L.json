@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 188,
   "Name": "$DroneNavigationComputer_L",
+  "Description": "Greatly enhances drone engagement range.\n\nInterferes with drone reconstruction, increasing reconstruction time in the event of drone losses.",
   "DisplayCategory": 5,
   "Availability": 1,
   "ComponentStatsId": 188,

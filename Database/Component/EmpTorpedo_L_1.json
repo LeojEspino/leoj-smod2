@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 164,
   "Name": "$EmpTorpedo_L_1",
+  "Description": "Fires a torpedo that leaves a big blast with a crippling EMP effect.\n\nOne of the most feared weapons of the Empire, this torpedo deals little damage, but the extremely potent EMP effect fries electronics and disable reactors. Combined with plasma web assistance from Corvettes, a Galleon with these can make quick work of enemy systems, disabling their ship for capture - something many Empire captains favors over destruction.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

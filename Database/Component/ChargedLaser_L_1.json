@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 117,
   "Name": "$ChargedLaser_L_1",
+  "Description": "Fires a powerful tachyon beam after charging up.\n\nThe tachyon series of Unknown is a great, unsolved mystery. What should not exist and would violate the known laws of physic seems to be utilized as a common weapon among the Unknowns forces. Even with the rare salvaged samples, researchers still failed to determine the mechanism of these exotic weapons.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 187,
   "Name": "$DroneFactory_M",
+  "Description": "Moderately enhances drone reconstruction speed if losses occurs.",
   "DisplayCategory": 5,
   "Availability": 1,
   "ComponentStatsId": 187,

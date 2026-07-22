@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 119,
   "Name": "$ChargedLaser_L_3",
+  "Description": "Fires an extremely powerful beam after charging up for a long duration. \n\nThe \"Death Ray\" is known to most civilians merely as a legend, a story with little backings but rambles from spacers.\n\nHowever, those who have had an encounter with the Unknowns sees the blue flash of their capital as an indication of none but death itself.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

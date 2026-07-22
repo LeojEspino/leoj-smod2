@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 28,
   "Name": "$CloakingSystem",
+  "Description": "Renders a ship impervious to damage when activated, but still targetable.\n\nThis device partially sends a ship into another dimension, rendering it completely impervious to damage. However, it leaves a signal easily detectable by most known radars, so said ship would still be detectable without a stealth field.\n\nThis relic of a device whose blueprint the Veniri acquired in an expedition in their early days would come to stay until the present days, helping the Veniri immensely in countless expeditions and grueling batles. It has so much impact on the Venerian that their identity is built upon this component; Their present focus on exploration has it's foundation on the hope of finding something that would come to match the Cloaking System in significance.\n\nThese days, most Veniri bases holds only the chassis blueprint of this device, and requires a consistent link with Veniri Central Command for instruction to produce the actual device hosted inside the chassis. The security involved in this process is only just, as many have attempted to steal the core blueprint, and if such a thing ever succeeds, it would mean downfall to the Veniri.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 3,

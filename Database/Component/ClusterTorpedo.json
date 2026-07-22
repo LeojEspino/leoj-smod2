@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 251,
   "Name": "$ClusterTorpedo",
+  "Description": "Fires a torpedo that splits into explosive fragments upon hit.\n\nA fearsome, fast-firing torpedo that fragments into many smaller energy bombs, this weapon can cause chaos whereever it strikes.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

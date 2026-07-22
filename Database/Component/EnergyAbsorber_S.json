@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3,
   "Name": "$EnergyAbsorber_S",
+  "Description": "A small armor plate tuned to resist Energy damage - and partially absorbs Energy damage to power ship systems.\n\nA creation of the Daazens, these armor platings provide extreme protections against Energy damage, while partially absorbing energy caused from weapon blasts to power ship systems.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 6,

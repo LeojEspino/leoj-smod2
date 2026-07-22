@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 38,
   "Name": "$DroneBay_M_54",
+  "Description": "Holds two M54 drones.",
   "DisplayCategory": 5,
   "Availability": 1,
   "ComponentStatsId": 2,

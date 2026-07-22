@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 40,
   "Name": "$DroneBay_M_A1",
+  "Description": "Holds two A1 drones.",
   "DisplayCategory": 5,
   "Availability": 1,
   "ComponentStatsId": 2,
@@ -10,6 +11,7 @@
   "Icon": "dronebay2",
   "Color": "#C0C0C0",
   "Layout": "1110111011101100",
+  "CellType": "\u0000",
   "DroneBayId": 2,
   "DroneId": 191,
   "PossibleModifications": [

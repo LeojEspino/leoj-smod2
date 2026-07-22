@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 273,
   "Name": "$EmpBomb",
+  "Description": "Fires a nuclear missile that leaves a cloud of extremely potent EMP effects.\n\nA nuclear weapon will have drastically reduced radiation impacts in space warfare, as strong radiation shielding is a must for all spaceships. However, the electromagnetic blast caused by one can still easily disrupt electronic systems and disable reactors. This weapon is a nuclear warhead tuned for maximum, lasting EMP output.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

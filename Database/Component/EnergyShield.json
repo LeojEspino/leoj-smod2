@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 83,
   "Name": "$EnergyShield",
+  "Description": "Projects an energy shield around the ship, which protects it from damage at the expense of energy.\n\nA relatively recent creation of the Sayjix, and one often confused with the standard Shield batteries, this device takes energy directly from a ship's grid to power a shield barrier. Potent, but not favored by pilots as touching a ship's energy grid can easily be a double-edged knife.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 3,

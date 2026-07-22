@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 99,
   "Name": "$EnergySiphon_M",
+  "Description": "Drains energy away from target hit.\n\nA relatively uncommon sight in Daazen fleets, this weapon drain away energy from the target ship's systems, quickly rendering them helpless. Due to it's short range, it's often underestimated.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,
