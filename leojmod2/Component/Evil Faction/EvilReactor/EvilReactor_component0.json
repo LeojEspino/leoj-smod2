@@ -1,7 +1,8 @@
 {
   "ItemType": 1,
   "Id": 1000156,
-  "Name": "ÑÍÉ",
+  "Name": "‹Ïÿ\u0015\u0014¿",
+  "Description": "Unknown component. No database matches.\\n\\nPartial analysis: Generates energy. Scanners unable to penetrate. When disassembled, the contents inside seems to vanish.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1000156,
