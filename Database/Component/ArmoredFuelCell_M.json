@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 63,
   "Name": "$ArmoredFuelCell_M",
+  "Description": "Provides the same energy capacity as a conventional Fuel Cell, with extra armor plating. Relatively heavy.\n\nOften seen on heavier ship, these fuel cells adds extra bulk to a ship against enemy fire. \n\nAlso used by heavier merchant convoys to survive pirate raids better, but the weight also makes such equipments a potential risk to captains - speed can mean a difference between life and death.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 63,

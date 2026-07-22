@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 156,
   "Name": "$AutomatedReloader_M",
+  "Description": "Greatly speeds up a ship's rate of fire./n/nThe Zumbalari's control over the production of weapon enhancement components plays a major part in their strength, one formed from their tactical expertise and dominance of a major section of combat equipment markets. This reloader is one such example, a component with such intricate construct that only the Zumbalari could produce one to satisfying quality and with reasonable prices.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 156,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 260,
   "Name": "$BionicArmor_S",
+  "Description": "A weaker armor that provides hull regeneration.\n\nA recent development in armor technology that is rather fragile, but has powerful regenerative capabilities. ",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 260,
