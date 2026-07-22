@@ -35,10 +35,17 @@
     }
   ],
   "Features": {
-    "ShipWeightBonus": -1.0,
-    "EquipmentWeightBonus": -1.0,
+    "EnergyResistance": 100.0,
+    "KineticResistance": 100.0,
+    "HeatResistance": 100.0,
     "VelocityBonus": 10.0,
-    "TurnRateBonus": 10.0
+    "TurnRateBonus": 10.0,
+    "ArmorBonus": 10.0,
+    "EnergyBonus": 10.0,
+    "Regeneration": true,
+    "BuiltinDevices": [
+      6
+    ]
   },
   "BuiltinDevices": []
 }

@@ -8,7 +8,7 @@
     "AttachedToParent": true,
     "Range": 40.0,
     "Lifetime": 2.0,
-    "BulletPrefab": 5,
+    "BulletPrefab": 2,
     "AiBulletBehavior": 2
   },
   "Controller": {

@@ -1,7 +1,7 @@
 {
   "ItemType": 3,
   "Id": 200009,
-  "FireRate": 0.1,
+  "FireRate": 0.04,
   "ActivationType": 1,
   "ChargeSound": "launch_03",
   "ShotEffectPrefab": "FlashAdditive",

@@ -24,7 +24,8 @@
         "x": 0.81,
         "y": 0.34
       },
-      "Rotation": -10.0
+      "Rotation": -10.0,
+      "WeaponClass": "M"
     },
     {
       "Position": {
@@ -34,11 +35,5 @@
       "Rotation": 10.0,
       "WeaponClass": "M"
     }
-  ],
-  "Features": {
-    "ShipWeightBonus": -0.3,
-    "VelocityBonus": 0.5,
-    "TurnRateBonus": 0.5,
-    "ShieldBonus": 2.0
-  }
+  ]
 }

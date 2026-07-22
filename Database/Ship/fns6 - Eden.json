@@ -20,7 +20,8 @@
   "Barrels": [
     {
       "Offset": 0.2,
-      "AutoAimingArc": 360.0
+      "AutoAimingArc": 360.0,
+      "WeaponClass": "CLMTS"
     }
   ]
 }
