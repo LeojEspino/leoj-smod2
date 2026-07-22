@@ -21,7 +21,8 @@
     {
       "Position": {
         "x": 0.3
-      }
+      },
+      "WeaponClass": "CLMTS"
     }
   ]
 }

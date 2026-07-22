@@ -9,7 +9,8 @@
     "Lifetime": 0.29,
     "Color": "#FFFF5E",
     "BulletPrefab": 4,
-    "EnergyCost": 6.0
+    "EnergyCost": 6.0,
+    "AiBulletBehavior": 2
   },
   "Controller": {
     "Type": 3,

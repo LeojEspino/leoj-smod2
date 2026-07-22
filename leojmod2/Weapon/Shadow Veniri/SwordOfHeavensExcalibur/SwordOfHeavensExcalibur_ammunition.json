@@ -5,7 +5,8 @@
     "Size": 1.0,
     "AttachedToParent": true,
     "Lifetime": 30.0,
-    "Color": "#00FF00"
+    "Color": "#00FF00",
+    "EnergyCost": 100.0
   },
   "Triggers": [
     {

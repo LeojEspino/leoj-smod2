@@ -1,0 +1,162 @@
+{
+  "ItemType": 28,
+  "Id": 53651,
+  "RootNode": {
+    "Type": 4,
+    "Nodes": [
+      {
+        "Type": 7,
+        "Node": {
+          "Type": 5,
+          "Nodes": [
+            {
+              "Type": 300,
+              "Text": "Time to destroy!!!",
+              "Color": "#00FF00"
+            },
+            {
+              "Type": 300,
+              "Text": "Let's go beat them up!!!",
+              "Color": "#00FF00"
+            },
+            {
+              "Type": 300,
+              "Text": "Kill! Kill! Kill them all!",
+              "Color": "#00FF00"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        "Result": true,
+        "Cooldown": 999.0
+      },
+      {
+        "Type": 3,
+        "Nodes": [
+          {
+            "Type": 50,
+            "MinValue": 0.2
+          },
+          {
+            "Type": 103
+          },
+          {
+            "Type": 4,
+            "Nodes": [
+              {
+                "Type": 100,
+                "MinValue": 0.5,
+                "MaxValue": 1.0
+              },
+              {}
+            ]
+          },
+          {
+            "Type": 12,
+            "Nodes": [
+              {
+                "Type": 3,
+                "Nodes": [
+                  {
+                    "Type": 55,
+                    "MinValue": 1.2
+                  },
+                  {
+                    "Type": 63,
+                    "MinValue": 1.2
+                  }
+                ]
+              },
+              {
+                "Type": 4,
+                "Nodes": [
+                  {
+                    "Type": 126
+                  },
+                  {
+                    "Type": 10,
+                    "Nodes": [
+                      {
+                        "Type": 108,
+                        "MinValue": 1.0,
+                        "MaxValue": 0.5
+                      },
+                      {
+                        "Type": 1,
+                        "ItemId": 137
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Type": 1,
+                "ItemId": 104
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Type": 3,
+        "Nodes": [
+          {
+            "Type": 6,
+            "Node": {
+              "Type": 50,
+              "MinValue": 0.2
+            }
+          },
+          {
+            "Type": 126
+          }
+        ]
+      },
+      {
+        "Type": 4,
+        "Nodes": [
+          {
+            "Type": 3,
+            "Nodes": [
+              {
+                "Type": 200
+              },
+              {
+                "Type": 300,
+                "Text": "Aw, leaving now?",
+                "Color": "#00FF00"
+              },
+              {
+                "Type": 107
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Type": 3,
+        "Requirement": {
+          "Type": 10,
+          "DeviceClass": 8
+        },
+        "Nodes": [
+          {
+            "Type": 51,
+            "MinValue": 0.2
+          },
+          {
+            "Type": 300,
+            "Text": "Kahahaha! Kaboom!",
+            "Color": "#00FF00"
+          },
+          {
+            "Type": 114,
+            "DeviceClass": 8
+          }
+        ]
+      }
+    ]
+  }
+}
