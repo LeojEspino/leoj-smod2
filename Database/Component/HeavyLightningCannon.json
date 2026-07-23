@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 250,
   "Name": "$HeavyLightningCannon",
+  "Description": "Strikes target with rapid, high damaging lightning bolts.\n\nA replica of an ancient, half-destroyed blueprint, this weapon strikes target with debilitating EMP lightning bolts. Another impressive aspect of this weapon is that it cools off extremely quickly compared to conventional lightning weapons.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 95,
   "Name": "$FragBomb_M_1",
+  "Description": "Fires a bomb that can be manually detonated, exploding into many plasma shrapnels.\n\nThis weapon is another example of the Zumbalarian tactical doctrine. It is slow, predictable, but can be activated at will, and its explosion spreads violent plasma shrapnels that can cause serious damage to ships. However, Zumbalarian pilots prefers to \"miss\" with it, intentionally attacking asteroids when engaged in combat, which can lodge off asteroid pieces and cause chaos for their enemies. This tactic is extremely effective in asteroid fields, and represents a considerable factor in battles against the Zumbalari.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

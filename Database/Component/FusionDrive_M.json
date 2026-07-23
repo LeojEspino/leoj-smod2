@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 56,
   "Name": "$FusionDrive_M",
+  "Description": "Provides decent forward thrust with low turn rate.\n\nLarger fusion drives provides a very potent forward thrust capability, but the design compromises that comes with strong forward thrust limits these engines from turning.\n\nBecause of their low turn rate, these engines are often used in tandem with Nuclear Drives.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 56,

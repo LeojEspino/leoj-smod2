@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 67,
   "Name": "$FuelCell_S",
+  "Description": "Stores a bit of energy.\n\nFuel Cells are some of the oldest, yet most common component found in ships. Despite the development of newer, more advanced energy storage methods, these cells are still the go-to choice for most ship captains.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 67,

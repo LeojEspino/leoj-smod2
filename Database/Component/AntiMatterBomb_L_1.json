@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 138,
   "Name": "$AntiMatterBomb_L_1",
+  "Description": "Charges and detonate a powerful, short range explosion. \n\nThis Taraniak weapon involves detonating a small, but highly potent, antimatter payload, while shielding the ship from the damage caused by said payload. Very strong, but difficult to use.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

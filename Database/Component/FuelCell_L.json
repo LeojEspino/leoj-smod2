@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 65,
   "Name": "$FuelCell_L",
+  "Description": "Stores a lot of energy.\n\nThe blueprint of Fuel Cells is commonly known, with many variations available on component markets.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 65,

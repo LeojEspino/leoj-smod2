@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 174,
   "Name": "$AcidMissile_L_1",
+  "Description": "Quickly fires corrosive missiles that can inflict high damage to slow targets.\n\nIn the early Jurgan hivemind outbreaks, the Bushrak was entirely unprepared for the bulk of Jurgan weapons being highly effective against their slow ships, and were overwhelmed easily. As a result, many ships and worlds were lost to Jurgans.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

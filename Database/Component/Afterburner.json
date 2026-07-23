@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 195,
   "Name": "$Afterburner",
+  "Description": "Provides a high speed boost when activated.\n\nA staple in battles and a major part in many tales of space combat, the Afterburner's reputation is unmatched. Toggle it, and the pilot throws themselves ahead, either with reckless abandon, or with elegant grace, threatening to turn the tides of any space battle in the hand of an experienced captain.\n\nDespite this, it is a nightmare for new and inexperienced pilots. The massive increase in velocity is extremely difficult to control, especially for ships that already moves at a fast speed.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 3,

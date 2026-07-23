@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 158,
   "Name": "$HighEnergyFocus_M",
+  "Description": "Greatly amplifies weapon damage.\n\nThe Zumbalari mastered weapon modifications for their tactical demand, and this component is a prime example. Zumbalarian weapons are often highly efficient and customizable, and these amplifier units are a core component of many of their ships, modifying their weapons to every individual pilot or captain's demands.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 158,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 57,
   "Name": "$FusionDrive_S",
+  "Description": "Basic engine.\n\nThe Small Fusion Drive is the most common engine. From tiny planetary cargo shuttles to support engines on extremely large capital ships, it provides a weak, but even balance of thrust and turning capabilities.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 57,

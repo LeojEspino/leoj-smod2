@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 90,
   "Name": "$FortificationSystem",
+  "Description": "Effectively doubles a ship's tankiness via increasing effective resistance, when activated.\n\nThis exotic device by the Unknowns is a personal favourite of the rare frontline captains that manages to get their hand on one. Upon activation, it greatly increases a ship's resilience toward conventional damage types, enhancing survivability in combat.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 3,

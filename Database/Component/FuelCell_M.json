@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 66,
   "Name": "$FuelCell_M",
+  "Description": "Stores energy.\n\nFuel cells stores energy in their unique structure, hence doesn't rely on chemicals to store energy, does not pose a danger when destroyed in combat, and can be repaired with relative ease.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 66,

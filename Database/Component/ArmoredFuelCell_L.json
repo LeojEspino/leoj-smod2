@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 62,
   "Name": "$ArmoredFuelCell_L",
+  "Description": "Provides the same energy capacity as a conventional Large Fuel Cell, with extra armor plating. Relatively heavy.\n\nThe construct of this fuel cell is commonly known, but the Koreran mass production lines makes them the primary supplier of such items.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 62,

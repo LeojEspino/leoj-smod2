@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 89,
   "Name": "$BrakingSystem",
+  "Description": "Actively removes momentum when not in thrust, slowing down a ship to a halt.\n\nThis exact technology is commonly known, but it is often found on Unknown ships to stabilize their momentum so they can aim their potent weapons accurately.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 3,

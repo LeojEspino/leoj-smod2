@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 258,
   "Name": "$GreenLightning",
+  "Description": "Fires a weak lightning that spawns corrosive gases on its target.\n\nThis fearsome weapon destabilizes the hull of it's foes, turning what it hits into corrosive gases which further eats away at its target. One of the factors that made the Contagion rises to be the threat it is known as today, and a weapon sought after by many pilots.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

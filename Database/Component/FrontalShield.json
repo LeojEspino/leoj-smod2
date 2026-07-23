@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 84,
   "Name": "$FrontalShield",
+  "Description": "Deploys an extremely resilient shield that covers a ship's front.\n\nThis shield device focuses a ship's reactor toward frontal defense, creating an extremely resilient barrier against damage. It is useless against penetrating or explosive weapons, but against what it is designed to counter, it will never fail it's job.\n\nRumors has it that this shield have protected a planet from a planet-destroying weapon of mass destruction, but many dismisses this as Bushrak advertisement tactics.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 3,

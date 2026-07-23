@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 159,
   "Name": "$HighEnergyFocus_S",
+  "Description": "Amplifies weapon damage.\n\nHigh Energy Focusers supercharges weapon. That may sounds like a simple process, but many complications are involved - energy flow, cooling, and safety concerns. The intricacies of such a component makes its production and sales controlled by the Zumbalari.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 159,

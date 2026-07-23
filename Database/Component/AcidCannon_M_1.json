@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 93,
   "Name": "$AcidCannon_M_1",
+  "Description": "Fires highly damaging, corrosive gases. Highly efficient against slow targets.\n\nJurgan's Acid Cannon is a terror against Bushrak captains, in the early days of the Jurgan outbreak. Corrosion against their vulnerable ship construction led to easy infections from Jurgans, and thus countless ships were lost to the Jurgan hivemind.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

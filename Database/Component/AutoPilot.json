@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 216,
   "Name": "$Autopilot",
+  "Description": "Allows a ship to be piloted automatically when no control is inputted for a while.\n\nAutomated ship control is a new technology, and these are far inferior from actual, trained crews when it comes to controlling a ship. Though, if they weren't, this universe would have been a place much more dangerous.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 199,
