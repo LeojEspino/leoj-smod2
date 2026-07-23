@@ -1,0 +1,27 @@
+{
+  "ItemType": 1,
+  "Id": 20004000,
+  "Name": "Artillery Cannon M2",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 20002,
+  "Level": 90,
+  "Icon": "gun7",
+  "Color": "#F16E69",
+  "Layout": "0110001100011000110001100",
+  "CellType": "4",
+  "WeaponId": 20004000,
+  "AmmunitionId": 20004000,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    5,
+    14,
+    13,
+    8,
+    16,
+    2,
+    1,
+    66
+  ]
+}

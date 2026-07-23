@@ -1,13 +1,19 @@
 {
   "ItemType": 25,
-  "Id": 2000400,
+  "Id": 20004000,
   "Body": {
-    "Size": 1.0,
-    "Velocity": 8.0,
+    "Size": 1.5,
+    "Velocity": 14.0,
     "Range": 40.0,
-    "Color": "#E1464B",
-    "BulletPrefab": 10001,
-    "EnergyCost": 10.0
+    "Weight": 1.5,
+    "Color": "#FF1E1E",
+    "BulletPrefab": 20004,
+    "EnergyCost": 15.0
+  },
+  "Controller": {
+    "Type": 1,
+    "IgnoreRotation": true,
+    "SmartAim": true
   },
   "Triggers": [
     {
@@ -15,8 +21,8 @@
       "EffectType": 4,
       "VisualEffect": 11,
       "Color": "#FF7B00",
-      "Size": 1.0,
-      "Lifetime": 0.5,
+      "Size": 1.5,
+      "Lifetime": 2.0,
       "Cooldown": 0.001
     },
     {
@@ -24,34 +30,34 @@
       "EffectType": 2,
       "AudioClip": "heavy_explosion_1",
       "Ammunition": 2000234,
-      "Color": "#DB2327",
+      "Color": "#FE2D34",
       "ColorMode": 1,
       "Quantity": 6,
-      "Size": 6.0,
-      "PowerMultiplier": 3.5,
+      "Size": 8.0,
+      "PowerMultiplier": 8.0,
       "Rotation": "0",
-      "OffsetX": "RANDOM(-1,1) * 2",
-      "OffsetY": "RANDOM(-1,1) * 2"
+      "OffsetX": "RANDOM(-1,1) * 3",
+      "OffsetY": "RANDOM(-1,1) * 3"
     },
     {
       "Condition": 2,
       "EffectType": 2,
       "Ammunition": 2000234,
-      "Color": "#DF3E7B",
+      "Color": "#FE704D",
       "ColorMode": 1,
       "Quantity": 6,
-      "Size": 6.0,
-      "PowerMultiplier": 3.5,
-      "OffsetX": "RANDOM(-1,1) * 2",
-      "OffsetY": "RANDOM(-1,1) * 2"
+      "Size": 8.0,
+      "PowerMultiplier": 8.0,
+      "OffsetX": "RANDOM(-1,1) * 3",
+      "OffsetY": "RANDOM(-1,1) * 3"
     },
     {
       "Condition": 8,
       "EffectType": 1,
       "VisualEffect": 1,
       "Color": "#ADFFFFFF",
-      "ColorMode": 1,
-      "Size": 0.5,
+      "ColorMode": 3,
+      "Size": 2.0,
       "Lifetime": 0.2,
       "Cooldown": 0.1
     },
@@ -61,7 +67,7 @@
       "VisualEffect": 6,
       "Color": "#724E515E",
       "ColorMode": 1,
-      "Size": 3.0,
+      "Size": 4.0,
       "Lifetime": 3.0
     }
   ]

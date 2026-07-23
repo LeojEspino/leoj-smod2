@@ -1,0 +1,60 @@
+{
+  "ItemType": 6,
+  "Id": 200222,
+  "SizeClass": 3,
+  "Name": "Jerk",
+  "Faction": 20002,
+  "IconImage": "jerk_batt_icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "jerk_batt.png",
+  "ModelScale": 3.2,
+  "EngineColor": "#8C3DE5FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.5
+      },
+      "Size": 0.3
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": 0.5
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.5
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000440000440000000044011044000000004411114400000000441111440000000044222244000000014422224410000001222222221000001122222222110001112222222211101111222222221111111552222225511100055155551550000010115555110100000001555510000000000100001000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.421052635,
+        "y": 0.315789461
+      },
+      "Offset": 0.25,
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CT",
+      "Image": "jerk_gun.png",
+      "Size": 0.5
+    },
+    {
+      "Position": {
+        "x": 0.421052635,
+        "y": -0.315789461
+      },
+      "Offset": 0.25,
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CT",
+      "Image": "jerk_gun.png",
+      "Size": 0.5
+    }
+  ],
+  "BuiltinDevices": []
+}
