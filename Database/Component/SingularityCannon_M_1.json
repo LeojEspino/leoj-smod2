@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 144,
   "Name": "$SingularityCannon_M_1",
+  "Description": "This cannon's projectile can apply a rotational force to it's target, turning it off course or even spin the target.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

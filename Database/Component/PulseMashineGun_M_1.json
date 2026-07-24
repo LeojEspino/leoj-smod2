@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 129,
   "Name": "$PulseMashineGun_M_1",
+  "Description": "Rapid-firing machine gun that deals very high damage while firing, but needs to reload after a firing cycle.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

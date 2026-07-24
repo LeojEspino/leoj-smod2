@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 269,
   "Name": "$Parasite",
+  "Description": "Fires a parasite that tries to latch itself on target, dealing high damage.",
   "DisplayCategory": 1,
   "Availability": 5,
   "ComponentStatsId": 1,

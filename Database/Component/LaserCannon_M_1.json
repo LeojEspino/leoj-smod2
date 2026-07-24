@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 124,
   "Name": "$LaserCannon_M_1",
+  "Description": "Unconventional beam that fires in a burst. Great damage and good reach.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

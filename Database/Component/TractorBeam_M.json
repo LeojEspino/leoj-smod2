@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 101,
   "Name": "$TractorBeam_M",
+  "Description": "A beam that can lock onto a target, preventing them from escaping it's range.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

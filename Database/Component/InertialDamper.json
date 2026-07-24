@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 69,
   "Name": "$InertialDamper",
+  "Description": "Slightly reduces ship weight.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 69,

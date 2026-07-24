@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 153,
   "Name": "$ProtoonTorpedo_M_2",
+  "Description": "Upgraded version of the basic Proton Torpedo. Improved in many aspects.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

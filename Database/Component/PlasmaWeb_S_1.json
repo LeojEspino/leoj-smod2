@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 163,
   "Name": "$PlasmaWeb_S_1",
+  "Description": "Fires a small web that slows down enemies caught within.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

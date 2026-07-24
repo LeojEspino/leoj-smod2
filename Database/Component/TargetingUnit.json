@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 91,
   "Name": "$TargetingUnit",
+  "Description": "Assists with targeting, allowing auto targeting within a small arc.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 91,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 222,
   "Name": "$ReactiveArmor_S",
+  "Description": "A small armor plate that consumes power to function. Significantly stronger than other armors of it's size.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 200,

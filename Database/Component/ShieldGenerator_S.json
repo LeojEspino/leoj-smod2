@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 178,
   "Name": "$ShieldGenerator_S",
+  "Description": "A generator that slowly recharges shield capacitors.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 178,

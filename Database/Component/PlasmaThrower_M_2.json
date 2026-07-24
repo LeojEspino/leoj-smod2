@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 137,
   "Name": "$PlasmaThrower_M_2",
+  "Description": "Drops heated plasma that deals high damage and lingers for a long time.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

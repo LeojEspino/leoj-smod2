@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 29,
   "Name": "$StealthField",
+  "Description": "Sends a ship into stealth, rendering it invisible to enemy radars. Broken upon using weapons, devices, or taking fire.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 3,

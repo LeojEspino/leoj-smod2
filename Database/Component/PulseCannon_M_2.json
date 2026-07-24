@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 113,
   "Name": "$PulseCannon_M_2",
+  "Description": "Cannon with a slow rate of fire, but great damage and range.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

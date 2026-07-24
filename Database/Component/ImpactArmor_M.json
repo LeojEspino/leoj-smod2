@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 5,
   "Name": "$ImpactArmor_M",
+  "Description": "An armor plate tuned to resist Kinetic damage and increases ramming damage.\n\nImpact armors are not merely capable of resisting kinetic weaponries, their bumpy shape also enhance a ship against asteroid and ship collisions.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 8,

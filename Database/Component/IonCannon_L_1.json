@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 168,
   "Name": "$IonCannon_L_1",
+  "Description": "Fires very fast, explosive blasts that ignores point defense.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

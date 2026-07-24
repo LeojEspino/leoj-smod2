@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 136,
   "Name": "$PlasmaThrower_M_1",
+  "Description": "Spews heated plasma dealing extreme damage. Very short range.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

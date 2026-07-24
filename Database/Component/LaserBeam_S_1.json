@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 122,
   "Name": "$LaserBeam_S_1",
+  "Description": "Tiny beam. Low range, but efficient.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

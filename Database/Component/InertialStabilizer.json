@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 71,
   "Name": "$InertialStabilizer",
+  "Description": "Reduces ship weight.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 71,

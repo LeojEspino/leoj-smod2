@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 10,
   "Name": "$TitaniumArmor_L",
+  "Description": "A large armor plate providing great defense.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 10,

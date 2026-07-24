@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 135,
   "Name": "$MissileLauncher_S_1",
+  "Description": "Small launcher for miniature, short range missiles.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

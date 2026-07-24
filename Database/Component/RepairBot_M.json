@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 79,
   "Name": "$RepairBot_M",
+  "Description": "Repairs your ship at a fast rate when activated. Can be destroyed by enemy fire, but respawns after a while.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 3,

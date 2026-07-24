@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 123,
   "Name": "$LaserBeam_S_2",
+  "Description": "Small beam. Good damage for it's size.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

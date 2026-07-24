@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 154,
   "Name": "$ProtoonTorpedo_S_1",
+  "Description": "Launches tiny, slow torpedoes that hits hard.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

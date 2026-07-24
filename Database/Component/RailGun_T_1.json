@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 81,
   "Name": "$RailGun_T_1",
+  "Description": "An upgrade to the Railgun in all regards, this weapon features superior range, damage and impulse.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

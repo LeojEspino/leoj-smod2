@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 7,
   "Name": "$ThermalArmor_L",
+  "Description": "A large armor plate tuned to resist Heat damage and slightly increases energy regeneration.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 13,

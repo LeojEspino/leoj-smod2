@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 106,
   "Name": "$MassDriver_M_2",
+  "Description": "A larger mass driver with even higher recoil and impulse forces.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

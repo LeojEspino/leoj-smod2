@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 109,
   "Name": "$NeutronBlaster_M_2",
+  "Description": "Enhanced version of the Neutron Blaster, harder to mount, but even more powerful.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 4,
   "Name": "$ImpactArmor_L",
+  "Description": "A large armor plate tuned to resist Kinetic damage and increases ramming damage.\n\nWhen layered with enough of these armors, a ship can be rendered almost impervious to kinetic weaponries. However, these armors are virtually worthless against other damage types.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 7,

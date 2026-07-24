@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 166,
   "Name": "$RocketLauncher_M_2",
+  "Description": "Fires high yield, but inaccurate rockets at long range.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

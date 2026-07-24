@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 141,
   "Name": "$Pulsar_M_2",
+  "Description": "Creates an aura that quickly damages everything around a ship.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

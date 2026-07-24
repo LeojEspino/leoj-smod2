@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 133,
   "Name": "$MissileLauncher_M_1",
+  "Description": "Multi-linked missile launcher designed to overwhelm point defenses.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

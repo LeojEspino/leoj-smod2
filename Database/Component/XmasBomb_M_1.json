@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 96,
   "Name": "$FireworkCannon_M_1",
+  "Description": "Fires firework shots that explodes into many smaller explosive fragments.",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

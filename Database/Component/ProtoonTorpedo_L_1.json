@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 151,
   "Name": "$ProtoonTorpedo_L_1",
+  "Description": "Fires large, high-yield torpedoes.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

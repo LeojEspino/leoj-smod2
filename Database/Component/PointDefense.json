@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 73,
   "Name": "$PointDefense",
+  "Description": "Automatically fires toward hostiles, damaging drones and destroying projectiles within it's range.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 3,

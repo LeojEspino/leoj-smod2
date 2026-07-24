@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 150,
   "Name": "$PlasmaTorpedo_L_1",
+  "Description": "Fires slow, high damaging plasma torpedoes.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

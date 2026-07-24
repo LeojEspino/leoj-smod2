@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 155,
   "Name": "$QuantumTorpedo_L_1",
+  "Description": "Homing torpedo with slow projectile, but great damage.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

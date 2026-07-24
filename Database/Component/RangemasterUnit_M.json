@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 160,
   "Name": "$RangemasterUnit_M",
+  "Description": "Slightly increases the range of all weapons.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 160,

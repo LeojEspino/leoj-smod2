@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 58,
   "Name": "$NuclearDrive_L",
+  "Description": "Provides high turn rate with weak forward thrust.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 58,

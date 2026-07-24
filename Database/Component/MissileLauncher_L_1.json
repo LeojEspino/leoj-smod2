@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 130,
   "Name": "$MissileLauncher_L_1",
+  "Description": "Heavy launcher for long range, fast interception missiles.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 59,
   "Name": "$NuclearDrive_M",
+  "Description": "Provides a good turn rate increase, with bad forward thrust.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 59,

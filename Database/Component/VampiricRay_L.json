@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 27,
   "Name": "$VampiricRay_L",
+  "Description": "Exclusive to the Tartarus, an extremely powerful beam weapon with a strong health drain effect.",
   "DisplayCategory": 1,
   "ComponentStatsId": 1,
   "Icon": "reactor3",

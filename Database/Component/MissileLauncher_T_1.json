@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 82,
   "Name": "$MissileLauncher_T_1",
+  "Description": "Advanced, heavy launcher for cruise missiles that can traverse extreme distances.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

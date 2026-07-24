@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 80,
   "Name": "$RepairBot_S",
+  "Description": "Repairs your ship when activated. Can be destroyed by enemy fire, but respawns after a while.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 3,

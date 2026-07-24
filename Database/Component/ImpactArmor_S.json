@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 6,
   "Name": "$ImpactArmor_S",
+  "Description": "A small armor plate tuned to resist Kinetic damage and increases ramming damage.\n\nThese bumpy, rough platings are specifically designed and layered to resist various types of kinetic weapons, being extremely resilient against Kinetic damage.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 9,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 108,
   "Name": "$NeutronBlaster_M_1",
+  "Description": "Fires highly damaging blasts at a medium range. Notable for it's low energy consumption.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

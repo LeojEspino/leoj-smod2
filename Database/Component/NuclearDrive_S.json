@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 60,
   "Name": "$NuclearDrive_S",
+  "Description": "Provides a decent increase in ship turn rate, with terrible forward thrust.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 60,

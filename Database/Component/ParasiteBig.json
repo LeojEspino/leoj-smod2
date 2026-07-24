@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 270,
   "Name": "$ParasiteL",
+  "Description": "Fires a big parasite that tries to latch itself on target, dealing massive damage.",
   "DisplayCategory": 1,
   "Availability": 5,
   "ComponentStatsId": 1,

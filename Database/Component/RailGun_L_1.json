@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 116,
   "Name": "$RailGun_L_1",
+  "Description": "A railgun that fires fast, powerful projectile, but at a high energy cost and slow rate of fire.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

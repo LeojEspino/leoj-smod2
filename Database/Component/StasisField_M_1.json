@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 146,
   "Name": "$StasisField_M_1",
+  "Description": "Quickly fires stasis blasts that stops enemy ship at a good range.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 3,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 252,
   "Name": "$MineThrower",
+  "Description": "Fires a large bomb that scatters into a minefield.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

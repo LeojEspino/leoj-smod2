@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 224,
   "Name": "$ReactiveArmor_L",
+  "Description": "A large armor plate that consumes a lot of power, but have unmatched resilience.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 202,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 107,
   "Name": "$NeutronBlaster_L_1",
+  "Description": "Big neutron blaster with extreme damage and great efficiency.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

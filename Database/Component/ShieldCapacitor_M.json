@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 180,
   "Name": "$ShieldCapacitor_M",
+  "Description": "A shield capacitor with decent defensive power. Vulnerable to EMP weaponries. Can be quickly regenerated in tandem with Shield Generators.",",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 180,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 120,
   "Name": "$LaserBeam_L_2",
+  "Description": "Big beam with high damage and great reach.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 128,
   "Name": "$LightningCannon_S_3",
+  "Description": "Rapid-firing lightning weapon with short range but high DPS.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

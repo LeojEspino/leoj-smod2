@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 77,
   "Name": "$NuclearReactor_M",
+  "Description": "Generates energy.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 77,

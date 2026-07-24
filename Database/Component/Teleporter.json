@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 92,
   "Name": "$Teleporter",
+  "Description": "Quickly sends a ship warping across space.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 3,

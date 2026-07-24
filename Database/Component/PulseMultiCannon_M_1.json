@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 143,
   "Name": "$PulseMultiCannon_M_1",
+  "Description": "Small shotgun-cannon with great damage for it's size, but spread hampers it's performance.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 165,
   "Name": "$RocketLauncher_M_1",
+  "Description": "Fires long range rockets. Inaccurate.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

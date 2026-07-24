@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 131,
   "Name": "$MissileLauncher_L_2",
+  "Description": "Slow, heavy launcher for slow, high-yield missiles.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

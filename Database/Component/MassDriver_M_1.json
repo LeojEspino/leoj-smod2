@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 105,
   "Name": "$MassDriver_M_1",
+  "Description": "A cannon that fires projectiles with high recoil and knocks target back on impact.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

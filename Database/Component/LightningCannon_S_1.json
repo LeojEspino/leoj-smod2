@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 126,
   "Name": "$LightningCannon_S_1",
+  "Description": "Tiny lightning weapon with short range but good damage.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

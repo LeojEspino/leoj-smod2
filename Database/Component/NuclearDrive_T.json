@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 61,
   "Name": "$NuclearDrive_T",
+  "Description": "Provides an even balance between thrust and turn rate. Hard to mount, but high performance.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 61,

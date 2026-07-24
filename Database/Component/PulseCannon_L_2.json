@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 111,
   "Name": "$PulseCannon_L_2",
+  "Description": "Big cannon with great damage and range. Difficult to mount.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,
