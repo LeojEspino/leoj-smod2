@@ -30,5 +30,6 @@
   "StarsColor": "#75FF7E",
   "MoneyColor": "#0071FF",
   "FuelColor": "#FE4C6D",
-  "TokensColor": "#FF6F00"
+  "TokensColor": "#FF6F00",
+  "MainMenuBackgroundImage": "bg.png"
 }
