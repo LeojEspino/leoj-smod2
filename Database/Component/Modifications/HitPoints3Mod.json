@@ -1,0 +1,16 @@
+{
+  "ItemType": 12,
+  "Id": 42,
+  "Description": "$HitPointsMod",
+  "Modifications": [
+    {
+      "Type": 62,
+      "Gray3": -30.5,
+      "Gray2": -27.0,
+      "Gray1": -13.5,
+      "Green": 13.5,
+      "Purple": 40.5,
+      "Gold": 67.5
+    }
+  ]
+}

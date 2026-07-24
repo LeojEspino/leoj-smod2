@@ -70,7 +70,7 @@
       "KeyBinding": 0
     },
     {
-      "ComponentId": 31,
+      "ComponentId": 1000303,
       "Modification": 0,
       "Quality": 0,
       "X": 4,
@@ -180,6 +180,16 @@
       "KeyBinding": 0
     },
     {
+      "ComponentId": 160,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 7,
+      "Y": 6,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 2
+    },
+    {
       "ComponentId": 71,
       "Modification": 0,
       "Quality": 0,
@@ -188,16 +198,6 @@
       "BarrelId": -1,
       "Behaviour": 0,
       "KeyBinding": 0
-    },
-    {
-      "ComponentId": 216,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 7,
-      "Y": 7,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 2
     },
     {
       "ComponentId": 66,

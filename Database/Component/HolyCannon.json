@@ -2,8 +2,6 @@
   "ItemType": 1,
   "Id": 213,
   "Name": "$HolyCannon",
-  "Description": "Fires devastating, high-explosive shots at a fast rate.\n\nThe rare standardize weapon that isn't developed by a faction nor dug up from an ancient site, this high-explosive cannon lobs massive, devastating explosive shots toward its target. A competent captain knows best to avoid it's fire.",
-  "Description": "",
   "DisplayCategory": 1,
   "Availability": 3,
   "ComponentStatsId": 1,

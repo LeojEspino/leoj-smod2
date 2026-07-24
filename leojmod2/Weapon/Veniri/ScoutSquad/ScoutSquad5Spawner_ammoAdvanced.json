@@ -20,7 +20,7 @@
       "Ammunition": 100060,
       "Color": "#00000000",
       "Size": 1.0,
-      "Cooldown": 0.33334,
+      "Cooldown": 0.15,
       "Rotation": "RANDOM( 0, 360)"
     }
   ],

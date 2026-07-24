@@ -4,9 +4,11 @@
   "Body": {
     "Size": 1.0,
     "AttachedToParent": true,
+    "Range": 100.0,
     "Lifetime": 30.0,
     "Color": "#00FF00",
-    "EnergyCost": 100.0
+    "EnergyCost": 100.0,
+    "AiBulletBehavior": 3
   },
   "Triggers": [
     {

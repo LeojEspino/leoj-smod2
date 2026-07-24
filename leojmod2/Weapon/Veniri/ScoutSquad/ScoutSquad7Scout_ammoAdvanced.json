@@ -36,5 +36,10 @@
       "Lifetime": 0.5
     }
   ],
-  "ImpactType": 1
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 16.0
+    }
+  ]
 }

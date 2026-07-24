@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 1000103,
+  "Name": "Nsyion (Tarantula)",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 5365,
+  "Icon": "Nsyion.png",
+  "Layout": "0",
+  "CellType": "\u0000",
+  "DroneBayId": 10003,
+  "DroneId": 1000103
+}

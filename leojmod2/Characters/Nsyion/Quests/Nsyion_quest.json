@@ -1,0 +1,240 @@
+{
+  "ItemType": 15,
+  "Id": 100067,
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Requirement": {
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 9,
+        "ItemId": 100065
+      },
+      {
+        "Type": 3,
+        "Requirements": [
+          {
+            "Type": 25,
+            "ItemId": 10003,
+            "MinValue": 1
+          }
+        ]
+      }
+    ]
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "Do you need ship build assistance? Oh, you wanted a reminder of the task list.",
+      "Character": 10003,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": "What did you need again?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "Nevermind, see you."
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100067
+    },
+    {
+      "Id": 3,
+      "Type": 15,
+      "DefaultTransition": 4,
+      "Transitions": [
+        {
+          "TargetNode": 5,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 35,
+                  "ItemId": 1000103,
+                  "MinAmount": 1,
+                  "MaxAmount": 1
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "I currently don't need anything.",
+      "Character": 10003,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Oh."
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 10,
+      "Message": "I need:\n1x Tarantula\n1x Complex Divergence\n2x Antimatter Reactors\n2x Inertial Stabilizers\n13x Inertial Dampers\n1x Targeting Unit\n2x Titanium Armors\n30x Light Titanium Armors\n2x Large Fusion Drives\n1x Fusion Drive\n4x Small Fusion Drives\n1x Fuel Cells\n5x Small Fuel Cells",
+      "Character": 10003,
+      "Actions": [
+        {
+          "TargetNode": 6,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 21,
+              "Items": [
+                {
+                  "Loot": {
+                    "Type": 30,
+                    "ItemId": 60
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 100030,
+                    "MinAmount": 1,
+                    "MaxAmount": 1
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 74,
+                    "MinAmount": 2,
+                    "MaxAmount": 2
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 71,
+                    "MinAmount": 2,
+                    "MaxAmount": 2
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 69,
+                    "MinAmount": 13,
+                    "MaxAmount": 13
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 91,
+                    "MinAmount": 1,
+                    "MaxAmount": 1
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 11,
+                    "MinAmount": 2,
+                    "MaxAmount": 2
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 12,
+                    "MinAmount": 30,
+                    "MaxAmount": 30
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 55,
+                    "MinAmount": 2,
+                    "MaxAmount": 2
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 56,
+                    "MinAmount": 1,
+                    "MaxAmount": 1
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 57,
+                    "MinAmount": 4,
+                    "MaxAmount": 4
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 66,
+                    "MinAmount": 1,
+                    "MaxAmount": 1
+                  }
+                },
+                {
+                  "Loot": {
+                    "Type": 35,
+                    "ItemId": 67,
+                    "MinAmount": 5,
+                    "MaxAmount": 5
+                  }
+                }
+              ]
+            }
+          },
+          "ButtonText": "I have them."
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "Don't have those yet."
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 36,
+      "DefaultTransition": 7,
+      "Loot": 100066
+    },
+    {
+      "Id": 7,
+      "Type": 10,
+      "Message": "Alright, here you go.",
+      "Loot": 100068,
+      "Character": 10003,
+      "Actions": [
+        {
+          "TargetNode": 8,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 35,
+      "DefaultTransition": 2,
+      "Loot": 100068
+    }
+  ]
+}

@@ -10,7 +10,6 @@
   "Level": 10,
   "Icon": "QuadModule1.png",
   "Layout": "1",
-  "CellType": "1",
   "PossibleModifications": [
     3,
     1,

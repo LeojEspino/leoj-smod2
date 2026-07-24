@@ -3,7 +3,7 @@
   "Id": 2000100,
   "Type": 1,
   "ItemId": 2000100,
-  "Price": 10,
+  "Price": 5,
   "Dependencies": [
     200060
   ]

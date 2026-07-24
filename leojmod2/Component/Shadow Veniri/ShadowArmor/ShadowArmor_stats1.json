@@ -2,8 +2,8 @@
   "ItemType": 11,
   "Id": 100093,
   "Type": 1,
-  "ArmorPoints": 5.0,
+  "ArmorPoints": 6.25,
   "EnergyRechargeRate": -0.25,
-  "ShieldPoints": 5.0,
+  "ShieldPoints": 6.25,
   "Weight": 40.0
 }

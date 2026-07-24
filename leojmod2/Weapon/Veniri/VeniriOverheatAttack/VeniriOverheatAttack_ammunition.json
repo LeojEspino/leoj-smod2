@@ -52,6 +52,13 @@
       "EffectType": 2,
       "Ammunition": 100075,
       "Color": "#00000000"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000300,
+      "Color": "#00000000",
+      "Cooldown": 30.0
     }
   ],
   "ImpactType": 2

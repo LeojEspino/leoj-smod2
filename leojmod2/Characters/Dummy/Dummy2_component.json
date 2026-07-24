@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 53652,
+  "Name": "Dummy (Excalibur)",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 5365,
+  "Icon": "Dummy.png",
+  "Layout": "0",
+  "CellType": "\u0000",
+  "DroneBayId": 5365,
+  "DroneId": 53652,
+  "Restrictions": {
+    "ComponentGroupTag": 5365
+  }
+}

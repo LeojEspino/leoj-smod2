@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1000301,
+  "Name": "Large Nanofiber Structures",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1000301,
+  "Icon": "lightweight3.png",
+  "Color": "#C0FFC0",
+  "Layout": "111111111",
+  "CellType": "\u0000",
+  "PossibleModifications": [
+    42
+  ]
+}

@@ -6,7 +6,7 @@
     "Velocity": 400.0,
     "AttachedToParent": true,
     "Range": 1000.0,
-    "Lifetime": 999.0
+    "Lifetime": 90.0
   },
   "Triggers": [
     {
@@ -26,6 +26,13 @@
       "EffectType": 2,
       "Ammunition": 100071,
       "Color": "#00000000"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000300,
+      "Color": "#00000000",
+      "Cooldown": 30.0
     }
   ],
   "ImpactType": 1

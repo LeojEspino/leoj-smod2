@@ -3,10 +3,10 @@
   "Id": 100051,
   "Body": {
     "Size": 10.0,
-    "Velocity": 20.0,
+    "Velocity": 40.0,
     "ParentVelocityEffect": 0.0,
     "Lifetime": 30.0,
-    "HitPoints": 300,
+    "HitPoints": 1000,
     "BulletPrefab": 10007
   },
   "Triggers": [
@@ -32,7 +32,7 @@
   "ImpactType": 1,
   "Effects": [
     {
-      "Power": 200.0
+      "Power": 1000.0
     }
   ]
 }

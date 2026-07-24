@@ -2,7 +2,7 @@
   "ItemType": 3,
   "Id": 100074,
   "FireRate": 0.00027,
-  "ActivationType": 1,
+  "ActivationType": 2,
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "controls_shot"
 }

@@ -1,0 +1,37 @@
+{
+  "ItemType": 15,
+  "Id": 53653,
+  "QuestType": 2,
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Requirement": {
+    "Type": 6,
+    "MinValue": 100,
+    "MaxValue": 1000
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "You progressed a fair bit now, I got myself this pretty cool ship to use!",
+      "Loot": 53653,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 53653
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    }
+  ]
+}

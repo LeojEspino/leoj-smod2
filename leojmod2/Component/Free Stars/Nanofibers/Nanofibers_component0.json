@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1000300,
+  "Name": "Medium Nanofiber Structures",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1000300,
+  "Icon": "lightweight2.png",
+  "Color": "#C0FFC0",
+  "Layout": "1111",
+  "CellType": "\u0000",
+  "PossibleModifications": [
+    41
+  ]
+}

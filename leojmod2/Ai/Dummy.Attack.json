@@ -40,6 +40,11 @@
             "MinValue": 0.2
           },
           {
+            "Type": 109,
+            "Cooldown": 0.5,
+            "InRange": true
+          },
+          {
             "Type": 103
           },
           {
@@ -154,6 +159,55 @@
           {
             "Type": 114,
             "DeviceClass": 8
+          }
+        ]
+      },
+      {
+        "Type": 3,
+        "Requirement": {
+          "Type": 10,
+          "DeviceClass": 7
+        },
+        "Nodes": [
+          {
+            "Type": 51,
+            "MinValue": 0.5
+          },
+          {
+            "Type": 126
+          },
+          {
+            "Type": 6,
+            "Node": {
+              "Type": 53,
+              "Cooldown": 5.0
+            }
+          },
+          {
+            "Type": 115
+          },
+          {
+            "Type": 114,
+            "DeviceClass": 7
+          }
+        ]
+      },
+      {
+        "Type": 3,
+        "Nodes": [
+          {
+            "Type": 6,
+            "Node": {
+              "Type": 56
+            }
+          },
+          {
+            "Type": 61
+          },
+          {
+            "Type": 202,
+            "MinValue": 5.0,
+            "MaxValue": 5.0
           }
         ]
       }

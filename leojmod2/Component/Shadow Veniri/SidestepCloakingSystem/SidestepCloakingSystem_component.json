@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1000303,
+  "Name": "Sidestep Cloaking System",
+  "Description": "Faster and uses less energy on use but uses more energy passively and cloak lasts much shorter.",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 3,
+  "Faction": 10003,
+  "Level": 350,
+  "Icon": "doom1",
+  "Color": "#00FF00",
+  "Layout": "1111",
+  "CellType": "2",
+  "DeviceId": 1000303
+}
