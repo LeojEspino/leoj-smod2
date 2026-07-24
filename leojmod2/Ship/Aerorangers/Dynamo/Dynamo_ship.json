@@ -35,5 +35,10 @@
       "WeaponClass": "CT"
     }
   ],
+  "Features": {
+    "BuiltinDevices": [
+      2000600
+    ]
+  },
   "BuiltinDevices": []
 }

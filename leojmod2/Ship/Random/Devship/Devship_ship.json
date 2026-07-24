@@ -41,7 +41,6 @@
     "VelocityBonus": 10.0,
     "TurnRateBonus": 10.0,
     "ArmorBonus": 10.0,
-    "EnergyBonus": 10.0,
     "Regeneration": true,
     "BuiltinDevices": [
       6
