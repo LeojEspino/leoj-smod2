@@ -1,12 +1,11 @@
 {
   "ItemType": 3,
-  "Id": 20004000,
-  "FireRate": 0.25,
-  "Spread": 5.0,
+  "Id": 200530,
+  "FireRate": 0.2,
   "ActivationType": 1,
-  "ShotSound": "type99_shot_1",
+  "ShotSound": "repair",
   "ShotEffectPrefab": "FlashAdditive",
-  "VisualEffect": 1,
+  "VisualEffect": 23,
   "EffectSize": 3.0,
   "ControlButtonIcon": "controls_shot"
 }

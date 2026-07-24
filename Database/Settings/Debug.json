@@ -1,19 +1,4 @@
 {
   "ItemType": 108,
-  "Codes": [
-    {
-      "Code": 1,
-      "Loot": {
-        "Type": 41,
-        "MinAmount": 10000,
-        "MaxAmount": 10000,
-        "Factions": {
-          "Type": 1,
-          "List": [
-            10003
-          ]
-        }
-      }
-    }
-  ]
+  "Codes": []
 }

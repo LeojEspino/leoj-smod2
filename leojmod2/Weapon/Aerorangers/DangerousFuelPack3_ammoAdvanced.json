@@ -1,0 +1,23 @@
+{
+  "ItemType": 25,
+  "Id": 200603,
+  "Body": {
+    "Lifetime": 0.1,
+    "Color": "#EE3838"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 2000699,
+      "Color": "#00000000",
+      "Quantity": 6,
+      "Size": 1.0,
+      "PowerMultiplier": 1.0,
+      "Rotation": "0",
+      "OffsetX": "RANDOM(-1,1) * 1.5",
+      "OffsetY": "RANDOM(-1,1) * 1.5"
+    }
+  ],
+  "ImpactType": 2
+}

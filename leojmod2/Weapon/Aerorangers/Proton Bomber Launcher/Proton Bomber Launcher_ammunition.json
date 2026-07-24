@@ -1,0 +1,43 @@
+{
+  "ItemType": 25,
+  "Id": 200530,
+  "Body": {
+    "Size": 0.5,
+    "Velocity": 15.0,
+    "Lifetime": 10.0,
+    "Weight": 0.25,
+    "HitPoints": 40,
+    "BulletPrefab": 20003,
+    "EnergyCost": 25.0
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.1,
+    "SmartAim": true
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 20,
+      "AudioClip": "explosion_01",
+      "Color": "#E69945",
+      "ColorMode": 1,
+      "Size": 1.5,
+      "Lifetime": 3.0
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 2000250,
+      "Color": "#ABA8E5",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Cooldown": 0.75,
+      "PowerMultiplier": 1.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    }
+  ],
+  "ImpactType": 2
+}

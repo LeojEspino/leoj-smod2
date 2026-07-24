@@ -26,7 +26,9 @@
       "Condition": 1,
       "EffectType": 1,
       "VisualEffect": 10001,
-      "Color": "#00000000"
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0
     }
   ],
   "ImpactType": 1,

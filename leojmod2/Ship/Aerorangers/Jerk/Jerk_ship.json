@@ -56,5 +56,10 @@
       "Size": 0.5
     }
   ],
+  "Features": {
+    "BuiltinDevices": [
+      2000603
+    ]
+  },
   "BuiltinDevices": []
 }

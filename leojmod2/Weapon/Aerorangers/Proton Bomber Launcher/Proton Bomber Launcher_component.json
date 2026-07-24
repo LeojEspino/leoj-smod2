@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 200530,
+  "Name": "Proton Bomber Launcher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 20002,
+  "Level": 70,
+  "Icon": "rocket1",
+  "Color": "#9590DE",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 200530,
+  "AmmunitionId": 200530,
+  "WeaponSlotType": "M"
+}
