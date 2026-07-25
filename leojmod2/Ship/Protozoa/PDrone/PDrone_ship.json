@@ -28,7 +28,7 @@
     }
   ],
   "Features": {
-    "EnergyResistance": 100.0,
+    "EnergyResistance": 4.0,
     "Regeneration": true
   },
   "BuiltinDevices": []

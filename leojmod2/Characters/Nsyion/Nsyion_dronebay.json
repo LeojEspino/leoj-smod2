@@ -11,6 +11,6 @@
   "ActivationType": 2,
   "LaunchSound": "se_powerup",
   "ControlButtonIcon": "Nsyion.png",
-  "DefensiveDroneAI": 1,
-  "OffensiveDroneAI": 1
+  "DefensiveDroneAI": 10001,
+  "OffensiveDroneAI": 10001
 }

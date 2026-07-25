@@ -15,7 +15,13 @@
       "Type": 10,
       "Message": "You progressed pretty far now, I grabbed myself a capital ship now, I shall help you out with it!",
       "Loot": 53654,
-      "Character": 5365
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        }
+      ]
     },
     {
       "Id": 2,

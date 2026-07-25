@@ -43,7 +43,8 @@
     {
       "Position": {
         "x": 0.65
-      }
+      },
+      "WeaponClass": "C"
     },
     {
       "Position": {
