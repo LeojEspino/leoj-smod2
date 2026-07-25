@@ -1,0 +1,9 @@
+{
+  "ItemType": 20,
+  "Id": 2001,
+  "Name": "Tournament Permaticket",
+  "Description": "Allows you access to the Tournament.",
+  "Icon": "star_circle.png",
+  "Color": "#FF886B",
+  "Price": 1
+}

@@ -1,0 +1,286 @@
+{
+  "ItemType": 15,
+  "Id": 2001,
+  "Name": "Tournament Entry",
+  "StartCondition": 6,
+  "Weight": 0.2,
+  "Level": 100,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 15,
+      "DefaultTransition": 2,
+      "Transitions": [
+        {
+          "TargetNode": 999,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 2001,
+            "MinValue": 1
+          }
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 10,
+      "Message": "Pshhh... Over here...",
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": "Huh?"
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "Yes... Yes... Over here...",
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "Who are you?"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "Who I am does not matter. I have something else of great importance.",
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Just spill the beans, man."
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 10,
+      "Message": "I have an offer. You give me a stash o' cash, I give you this ticket. Deal?",
+      "Loot": 2001,
+      "Actions": [
+        {
+          "TargetNode": 6,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 3,
+              "MinAmount": 50000,
+              "MaxAmount": 50000
+            }
+          },
+          "ButtonText": "Interesting, here's the money."
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "I can't afford it..."
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "Here you go....",
+      "Loot": 2001,
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 7,
+          "ButtonText": "Mhm."
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 35,
+      "DefaultTransition": 8,
+      "Loot": 2001
+    },
+    {
+      "Id": 8,
+      "Type": 36,
+      "DefaultTransition": 9,
+      "Loot": 2002
+    },
+    {
+      "Id": 9,
+      "Type": 10,
+      "Message": "Upon obtaining the ticket, you recieve coordinates to where a tournament is being hosted.",
+      "Actions": [
+        {
+          "TargetNode": 10,
+          "ButtonText": "Hm..."
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 11,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 5,
+            "MaxValue": 10
+          }
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 10,
+      "Message": "As you stop at the sector you notice from afar a huge space stadium of sorts. A fleet of ships approach you, telling you to follow them inside the structure.",
+      "Enemy": 5,
+      "Actions": [
+        {
+          "TargetNode": 12,
+          "ButtonText": "Follow the fleet inside."
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 10,
+      "Message": "...",
+      "Actions": [
+        {
+          "TargetNode": 13,
+          "ButtonText": "..."
+        }
+      ]
+    },
+    {
+      "Id": 13,
+      "Type": 10,
+      "Message": "...",
+      "Actions": [
+        {
+          "TargetNode": 14,
+          "ButtonText": "..?"
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Type": 10,
+      "Message": "Suddenly, the stadium's lights flicker, then turn on.",
+      "Actions": [
+        {
+          "TargetNode": 15,
+          "ButtonText": "..!"
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Type": 10,
+      "Message": "OUCH! MY EYES, MY EYES! I THINK I SEE THE LIGHT..!",
+      "Character": 2003,
+      "Actions": [
+        {
+          "TargetNode": 16,
+          "ButtonText": "!?"
+        }
+      ]
+    },
+    {
+      "Id": 16,
+      "Type": 10,
+      "Message": "Welcome, welcome!",
+      "Character": 2001,
+      "Actions": [
+        {
+          "TargetNode": 17,
+          "ButtonText": "Hello."
+        }
+      ]
+    },
+    {
+      "Id": 17,
+      "Type": 10,
+      "Message": "I am...",
+      "Character": 2002,
+      "Actions": [
+        {
+          "TargetNode": 18,
+          "ButtonText": "..."
+        }
+      ]
+    },
+    {
+      "Id": 18,
+      "Type": 10,
+      "Message": "Announcer Johnson, the tournament's owner, your announcer, and your refree! People also call me Announcer \"Google Images\" Johnson, I wonder why. What's a Google anyway?",
+      "Character": 2001,
+      "Actions": [
+        {
+          "TargetNode": 19,
+          "ButtonText": "I see."
+        }
+      ]
+    },
+    {
+      "Id": 19,
+      "Type": 10,
+      "Message": "Lets get straight to the point, shall we?",
+      "Character": 2002,
+      "Actions": [
+        {
+          "TargetNode": 20,
+          "ButtonText": "Uh, uhuh."
+        }
+      ]
+    },
+    {
+      "Id": 20,
+      "Type": 10,
+      "Message": "Are you willing to face your first, powerful foe?",
+      "Character": 2001,
+      "Actions": [
+        {
+          "TargetNode": 21,
+          "ButtonText": "..."
+        }
+      ]
+    },
+    {
+      "Id": 21,
+      "Type": 10,
+      "Message": "To bash their face in, to desintegrate their craft to shreds!?",
+      "Character": 2003,
+      "Actions": [
+        {
+          "TargetNode": 22,
+          "ButtonText": "Hell yeah! Now you've got me hyped."
+        }
+      ]
+    },
+    {
+      "Id": 22,
+      "Type": 10,
+      "Message": "Ight! Get ready... And buckle up for some explosive combat!",
+      "Character": 2001,
+      "Actions": [
+        {
+          "TargetNode": 23,
+          "ButtonText": "Let's go!"
+        }
+      ]
+    },
+    {
+      "Id": 23,
+      "Type": 43,
+      "DefaultTransition": 999,
+      "Quest": 2002
+    }
+  ]
+}

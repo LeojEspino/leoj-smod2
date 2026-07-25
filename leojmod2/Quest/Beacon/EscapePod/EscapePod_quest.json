@@ -13,11 +13,11 @@
       "Actions": [
         {
           "TargetNode": 2,
-          "ButtonText": "Yeah sure"
+          "ButtonText": "Yeah, sure!"
         },
         {
           "TargetNode": 999,
-          "ButtonText": "Somebody else's problem"
+          "ButtonText": "Somebody else's problem."
         }
       ]
     },
