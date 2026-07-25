@@ -7,7 +7,7 @@
   "AvailableForEnemy": false,
   "DifficultyClass": 0,
   "BuildFaction": 0,
-  "CustomAI": 1,
+  "CustomAI": 10001,
   "Components": [
     {
       "ComponentId": 67,

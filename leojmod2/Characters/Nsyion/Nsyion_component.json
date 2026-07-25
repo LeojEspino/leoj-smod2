@@ -8,5 +8,8 @@
   "Layout": "0",
   "CellType": "\u0000",
   "DroneBayId": 10003,
-  "DroneId": 1000103
+  "DroneId": 1000103,
+  "Restrictions": {
+    "ComponentGroupTag": 10003
+  }
 }
