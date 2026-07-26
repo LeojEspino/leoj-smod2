@@ -1,0 +1,62 @@
+{
+  "ItemType": 9,
+  "Id": 2008,
+  "SatelliteId": 2007,
+  "DifficultyClass": 1,
+  "Components": [
+    {
+      "ComponentId": 67,
+      "X": 4
+    },
+    {
+      "ComponentId": 67,
+      "X": 3,
+      "Y": 1
+    },
+    {
+      "ComponentId": 67,
+      "X": 5,
+      "Y": 1
+    },
+    {
+      "ComponentId": 78,
+      "X": 3,
+      "Y": 3
+    },
+    {
+      "ComponentId": 78,
+      "X": 5,
+      "Y": 3
+    },
+    {
+      "ComponentId": 124,
+      "X": 3,
+      "Y": 4
+    },
+    {
+      "ComponentId": 78,
+      "X": 3,
+      "Y": 5
+    },
+    {
+      "ComponentId": 78,
+      "X": 5,
+      "Y": 5
+    },
+    {
+      "ComponentId": 72,
+      "X": 3,
+      "Y": 7
+    },
+    {
+      "ComponentId": 72,
+      "X": 5,
+      "Y": 7
+    },
+    {
+      "ComponentId": 72,
+      "X": 4,
+      "Y": 8
+    }
+  ]
+}

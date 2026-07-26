@@ -1,0 +1,47 @@
+{
+  "ItemType": 6,
+  "Id": 200806,
+  "SizeClass": 2,
+  "Name": "Remains",
+  "Faction": 20003,
+  "IconImage": "remains_crui_icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "remains_crui.png",
+  "ModelScale": 2.2,
+  "EngineColor": "#29FF6565",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7
+      },
+      "Size": 0.4
+    }
+  ],
+  "Layout": "000000000000000110011000001320023100001200002100001204402100141324423141140122221041112022220211011222222110100155551001000055550000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.3
+      },
+      "Offset": 0.32,
+      "AutoAimingArc": 100.0,
+      "RotationSpeed": 80.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.15,
+        "y": 0.8181818
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.15,
+        "y": -0.8181818
+      },
+      "WeaponClass": "CL"
+    }
+  ],
+  "BuiltinDevices": []
+}

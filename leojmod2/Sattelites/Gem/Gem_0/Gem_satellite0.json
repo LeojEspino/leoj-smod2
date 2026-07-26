@@ -1,0 +1,16 @@
+{
+  "ItemType": 7,
+  "Id": 2001,
+  "Name": "Gem M1",
+  "ModelImage": "gem_sat.png",
+  "ModelScale": 0.6,
+  "Layout": "0010000400004000040000200",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "WeaponClass": "L"
+    }
+  ]
+}

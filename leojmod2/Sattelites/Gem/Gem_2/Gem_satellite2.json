@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 2007,
+  "Name": "Gem M3",
+  "ModelImage": "gem_sat.png",
+  "ModelScale": 0.8,
+  "SizeClass": 2,
+  "Layout": "000010000000111000000242000000242000000242000000242000000242000000111000000010000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "WeaponClass": "L"
+    }
+  ]
+}

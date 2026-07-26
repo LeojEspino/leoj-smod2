@@ -1,0 +1,29 @@
+{
+  "ItemType": 6,
+  "Id": 200800,
+  "Name": "Orphan",
+  "Faction": 20003,
+  "IconImage": "orphan_frig_icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "orphan_frig.png",
+  "ModelScale": 1.2,
+  "EngineColor": "#29FF6565",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.5
+      },
+      "Size": 0.4
+    }
+  ],
+  "Layout": "0000000100000110040011334331032223050505050000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.3
+      },
+      "WeaponClass": "L"
+    }
+  ],
+  "BuiltinDevices": []
+}

@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 2000900,
+  "Name": "Pinpoint Ray",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 20003,
+  "Icon": "laser3",
+  "Color": "#B2EBFF",
+  "Layout": "1010",
+  "CellType": "4",
+  "WeaponId": 2000900,
+  "AmmunitionId": 2000900,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

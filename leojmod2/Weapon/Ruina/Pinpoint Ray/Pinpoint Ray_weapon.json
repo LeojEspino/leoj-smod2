@@ -1,0 +1,11 @@
+{
+  "ItemType": 3,
+  "Id": 2000900,
+  "FireRate": 1.5,
+  "ActivationType": 1,
+  "ShotSound": "launch_03",
+  "ShotEffectPrefab": "FlashAdditive",
+  "VisualEffect": 17,
+  "EffectSize": 0.75,
+  "ControlButtonIcon": "controls_shot"
+}

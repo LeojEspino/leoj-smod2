@@ -1,0 +1,27 @@
+{
+  "ItemType": 9,
+  "Id": 2006,
+  "SatelliteId": 2004,
+  "DifficultyClass": 1,
+  "Components": [
+    {
+      "ComponentId": 12,
+      "X": 3
+    },
+    {
+      "ComponentId": 161,
+      "X": 2,
+      "Y": 1
+    },
+    {
+      "ComponentId": 78,
+      "X": 3,
+      "Y": 5
+    },
+    {
+      "ComponentId": 78,
+      "X": 3,
+      "Y": 6
+    }
+  ]
+}

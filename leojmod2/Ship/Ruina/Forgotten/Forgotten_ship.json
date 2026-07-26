@@ -1,0 +1,33 @@
+{
+  "ItemType": 6,
+  "Id": 200803,
+  "SizeClass": 1,
+  "Name": "Forgotten",
+  "Faction": 20003,
+  "IconImage": "forgotten_dest_icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "forgotten_dest.png",
+  "ModelScale": 1.6,
+  "EngineColor": "#29FF6565",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6
+      },
+      "Size": 0.45
+    }
+  ],
+  "Layout": "000000000001101100012202210012000210112000211013242310013242310005252500005050500",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.1
+      },
+      "Offset": 0.63,
+      "AutoAimingArc": 180.0,
+      "RotationSpeed": 100.0,
+      "WeaponClass": "L"
+    }
+  ],
+  "BuiltinDevices": []
+}
