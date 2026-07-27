@@ -6,21 +6,22 @@
       "Type": 2,
       "Image": "wave",
       "ColorMode": 1,
-      "Color": "#FFA797",
-      "Size": 6.0
+      "Color": "#8ED9FF",
+      "Size": 6.0,
+      "GrowthRate": -0.25
     },
     {
       "Type": 1,
       "Image": "star",
       "ColorMode": 1,
-      "Color": "#FFA797",
+      "Color": "#8ED9FF",
       "Size": 4.0
     },
     {
       "Type": 4,
       "Image": "CloudWhite",
       "ColorMode": 1,
-      "Color": "#FFA797",
+      "Color": "#8ED9FF",
       "Quantity": 3,
       "Size": 1.5
     },
@@ -36,6 +37,16 @@
     {
       "Type": 5,
       "Size": 10.0
+    },
+    {
+      "Type": 6,
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#8ED9FF",
+      "Quantity": 6,
+      "Size": 6.0,
+      "Lifetime": 4.0,
+      "ParticleSize": 0.001
     }
   ]
 }

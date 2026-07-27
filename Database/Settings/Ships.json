@@ -1,7 +1,7 @@
 {
   "ItemType": 100,
   "ShipExplosionEffect": 20,
-  "ShipExplosionSound": "explosion_01",
+  "ShipExplosionSound": "ship_death_explosion",
   "DroneExplosionEffect": 21,
   "DroneExplosionSound": "explosion_10",
   "DefaultWeightPerCell": 20.0,

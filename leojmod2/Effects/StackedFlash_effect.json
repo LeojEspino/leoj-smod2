@@ -1,0 +1,13 @@
+{
+  "ItemType": 26,
+  "Id": 2000,
+  "Elements": [
+    {
+      "Type": 1,
+      "Image": "star",
+      "Quantity": 3,
+      "GrowthRate": 1.0,
+      "Lifetime": 0.2
+    }
+  ]
+}

@@ -29,22 +29,12 @@
     {
       "Position": {
         "x": 0.9
-      },
-      "AutoAimingArc": 360.0,
-      "RotationSpeed": 999.0
+      }
     }
   ],
   "Features": {
-    "EnergyResistance": 100.0,
-    "KineticResistance": 100.0,
-    "HeatResistance": 100.0,
     "VelocityBonus": 10.0,
-    "TurnRateBonus": 10.0,
-    "ArmorBonus": 10.0,
-    "Regeneration": true,
-    "BuiltinDevices": [
-      6
-    ]
+    "TurnRateBonus": 10.0
   },
   "BuiltinDevices": []
 }
