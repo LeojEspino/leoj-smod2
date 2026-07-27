@@ -1,0 +1,27 @@
+{
+  "ItemType": 1,
+  "Id": 200510,
+  "Name": "Solar Flare Shotgun",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10001,
+  "Level": 275,
+  "Icon": "shotgun2",
+  "Color": "#FEA342",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 200510,
+  "AmmunitionId": 200510,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

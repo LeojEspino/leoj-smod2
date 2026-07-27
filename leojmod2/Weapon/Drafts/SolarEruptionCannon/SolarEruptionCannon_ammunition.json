@@ -8,7 +8,7 @@
     "Weight": 0.2,
     "Color": "#FE7423",
     "BulletPrefab": 4,
-    "EnergyCost": 20.0,
+    "EnergyCost": 30.0,
     "AiBulletBehavior": 1
   },
   "Controller": {
@@ -18,7 +18,7 @@
   "Triggers": [
     {
       "Condition": 3,
-      "EffectType": 1,
+      "EffectType": 4,
       "VisualEffect": 2000,
       "AudioClip": "explosion_04",
       "Color": "#00000000",

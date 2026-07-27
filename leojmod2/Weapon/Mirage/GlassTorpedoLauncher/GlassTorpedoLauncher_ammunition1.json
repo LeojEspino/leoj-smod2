@@ -1,0 +1,36 @@
+{
+  "ItemType": 25,
+  "Id": 20204,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 15.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 10.0,
+    "BulletPrefab": 2010
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "AudioClip": "reimu_graze",
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 1.0
+    }
+  ]
+}

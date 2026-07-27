@@ -1,0 +1,53 @@
+{
+  "ItemType": 25,
+  "Id": 20205,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 15.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 10.0,
+    "BulletPrefab": 2010
+  },
+  "Controller": {
+    "Lifetime": 2.0,
+    "Type": 6,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.1,
+      "Cooldown": 0.1
+    },
+    {
+      "Condition": 6,
+      "EffectType": 1,
+      "VisualEffect": 2000,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Power": 1.0
+    },
+    {
+      "Type": 5,
+      "Power": 1.0
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "ItemType": 25,
+  "Id": 20203,
+  "Body": {
+    "DetonateWhenDestroyed": false,
+    "Size": 0.5,
+    "Velocity": 30.0,
+    "Range": 20.0,
+    "HitPoints": 1,
+    "BulletPrefab": 9,
+    "EnergyCost": 4.0
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 20204,
+      "ColorMode": 1,
+      "Quantity": 3,
+      "Size": 0.75,
+      "RandomFactor": 1.0,
+      "PowerMultiplier": 3.0,
+      "Rotation": "i*(360/Quantity)",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 20205,
+      "Color": "#FF3D40",
+      "ColorMode": 1,
+      "Quantity": 3,
+      "Size": 0.75,
+      "RandomFactor": 1.0,
+      "PowerMultiplier": 1.0,
+      "Rotation": "i*(360/Quantity)+(180/Quantity)",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "AudioClip": "glass_shatter",
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#FF99ED",
+      "ColorMode": 1,
+      "Size": 4.0,
+      "Lifetime": 0.4,
+      "Cooldown": 0.2
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 20.0
+    },
+    {
+      "Type": 1,
+      "Power": 0.6
+    }
+  ]
+}

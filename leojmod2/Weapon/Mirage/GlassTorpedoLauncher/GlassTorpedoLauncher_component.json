@@ -1,0 +1,27 @@
+{
+  "ItemType": 1,
+  "Id": 20203,
+  "Name": "Glass Torpedo Launcher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 20004,
+  "Level": 30,
+  "Icon": "torpedo3",
+  "Color": "#FDBEF3",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 20203,
+  "AmmunitionId": 20203,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}
