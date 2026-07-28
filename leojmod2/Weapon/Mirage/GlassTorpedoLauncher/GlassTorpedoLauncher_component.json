@@ -8,7 +8,7 @@
   "Faction": 20004,
   "Level": 30,
   "Icon": "torpedo3",
-  "Color": "#FDBEF3",
+  "Color": "#B0FFFFFF",
   "Layout": "1111",
   "CellType": "4",
   "WeaponId": 20203,

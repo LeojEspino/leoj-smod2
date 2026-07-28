@@ -83,15 +83,33 @@
       "Actions": [
         {
           "TargetNode": 8,
-          "ButtonText": "Bye bro"
+          "ButtonText": "Bye bro!"
         }
       ]
     },
     {
       "Id": 8,
       "Type": 35,
-      "DefaultTransition": 999,
+      "DefaultTransition": 9,
       "Loot": 5365
+    },
+    {
+      "Id": 9,
+      "Type": 10,
+      "Message": "hi , uh , same as the last guy",
+      "Character": 2004,
+      "Actions": [
+        {
+          "TargetNode": 10,
+          "ButtonText": "Uh, ok."
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 20002
     }
   ]
 }

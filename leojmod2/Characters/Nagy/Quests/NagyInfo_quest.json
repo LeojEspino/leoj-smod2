@@ -1,0 +1,66 @@
+{
+  "ItemType": 15,
+  "Id": 20011,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "huh , what would you like to ask ?",
+      "Character": 2004,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "What have you worked on for the mod?"
+        },
+        {
+          "TargetNode": 3,
+          "ButtonText": "Is there something I should know?"
+        },
+        {
+          "TargetNode": 4,
+          "ButtonText": "It's nothing..."
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 10,
+      "Message": "huuum , what i worked on... well , i made some factions (Aerorangers & Protoroarath) and a buncha quests",
+      "Character": 2004,
+      "Actions": [
+        {
+          "TargetNode": 1,
+          "ButtonText": "Cool."
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "hm, at 100+ ly you might meet a certain someone willing to sell you something ; beware , though",
+      "Character": 2004,
+      "Actions": [
+        {
+          "TargetNode": 1,
+          "ButtonText": "Interesting."
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "ight , cya soon and good luck , bud",
+      "Character": 2004,
+      "Actions": [
+        {
+          "TargetNode": 999,
+          "ButtonText": "Thanks!"
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ItemType": 15,
+  "Id": 20013,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "tier one , i see , do you have what it takes ?\n\n...\n\nSolar Flare Shotgun - 2x Plasma Thrower M1 + 2x Plasma Multicannon + 10K Credits",
+      "Character": 2004,
+      "Actions": [
+        {
+          "TargetNode": 101,
+          "Requirement": {
+            "Type": 27,
+            "ItemId": 20100
+          },
+          "ButtonText": "Solar Flare Shotgun."
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "Later."
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 101,
+      "Type": 35,
+      "DefaultTransition": 102,
+      "Loot": 20014
+    },
+    {
+      "Id": 102,
+      "Type": 36,
+      "DefaultTransition": 1,
+      "Loot": 20100
+    }
+  ]
+}
