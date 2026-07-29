@@ -3,5 +3,7 @@
   "Id": 200500,
   "ItemId": 200500,
   "Faction": 10001,
-  "Price": 10
+  "Price": 10,
+  "Hidden": true,
+  "Special": true
 }

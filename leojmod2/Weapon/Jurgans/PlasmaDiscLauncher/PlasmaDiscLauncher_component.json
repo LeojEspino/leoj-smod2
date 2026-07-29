@@ -1,0 +1,28 @@
+{
+  "ItemType": 1,
+  "Id": 200450,
+  "Name": "Homing Plasma Disc Launcher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 6,
+  "Level": 90,
+  "Icon": "cannon1.png",
+  "Color": "#FFFFB4",
+  "Layout": "0110011001100110",
+  "CellType": "4",
+  "WeaponId": 200450,
+  "AmmunitionId": 200450,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

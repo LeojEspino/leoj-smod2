@@ -7,8 +7,41 @@
     {
       "Id": 1,
       "Type": 35,
-      "DefaultTransition": 999,
+      "DefaultTransition": 2,
       "Loot": 20001
+    },
+    {
+      "Id": 2,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 3,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 20010,
+            "MinValue": 1
+          }
+        },
+        {
+          "TargetNode": 999,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 25,
+                "ItemId": 20010,
+                "MinValue": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 11
     },
     {
       "Id": 999,

@@ -1,0 +1,115 @@
+{
+  "ItemType": 15,
+  "Id": 20020,
+  "Name": "Cerberus awaits...",
+  "QuestType": 2,
+  "StartCondition": 6,
+  "Weight": 0.1,
+  "Requirement": {
+    "Type": 20,
+    "Faction": 4
+  },
+  "Level": 60,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "Upon arriving at this sector, you feel uneasy.",
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 10,
+      "Message": "It's as if your very soul shook tremendously.",
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "...",
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "The creature is waiting for its next victim. You shall be next.",
+      "Enemy": 20020,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 20,
+      "DefaultTransition": 10,
+      "FailureTransition": 20,
+      "Enemy": 20020
+    },
+    {
+      "Id": 10,
+      "Type": 10,
+      "Message": "Crooked as a dog's hind leg.",
+      "Loot": 20020,
+      "Actions": [
+        {
+          "TargetNode": 11,
+          "ButtonText": "Phew."
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 20020
+    },
+    {
+      "Id": 20,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 21,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 1,
+            "MaxValue": 2
+          }
+        }
+      ]
+    },
+    {
+      "Id": 21,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 4,
+          "Requirement": {
+            "Type": 30
+          }
+        }
+      ]
+    }
+  ]
+}

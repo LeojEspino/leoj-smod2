@@ -1,0 +1,79 @@
+{
+  "ItemType": 25,
+  "Id": 20653,
+  "Body": {
+    "Size": 2.0,
+    "ParentVelocityEffect": 0.1,
+    "Lifetime": 0.5,
+    "BulletPrefab": 20001,
+    "EnergyCost": 5.0,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 20654,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 1.0,
+      "MaxNestingLevel": 10,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 4,
+      "VisualEffect": 2000,
+      "AudioClip": "hit_01",
+      "Color": "#A105DF",
+      "ColorMode": 1,
+      "Size": 2.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#A105DF",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 0.4,
+      "Cooldown": 0.2,
+      "UseBulletPosition": true
+    },
+    {
+      "Condition": 8,
+      "EffectType": 4,
+      "VisualEffect": 10005,
+      "Color": "#2760637A",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "Lifetime": 0.4,
+      "Cooldown": 0.1
+    },
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 10004,
+      "Color": "#A105DF",
+      "ColorMode": 1,
+      "Size": 2.0,
+      "Lifetime": 0.25,
+      "Cooldown": 0.25,
+      "UseBulletPosition": true
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 6.0
+    }
+  ]
+}

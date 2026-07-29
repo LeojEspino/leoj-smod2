@@ -1,0 +1,62 @@
+{
+  "ItemType": 6,
+  "Id": 200570,
+  "VisualEffects": {
+    "LeaveWreck": 1,
+    "CustomExplosionSound": "cerberus_death"
+  },
+  "ShipType": 3,
+  "SizeClass": 4,
+  "Name": "Cerberus",
+  "Description": "It's as if hell itself gave you a present.",
+  "Faction": 10001,
+  "IconImage": "cerberus.png",
+  "IconScale": 1.0,
+  "ModelImage": "cerberus.png",
+  "ModelScale": 7.0,
+  "EngineColor": "#8F930000",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.7
+    }
+  ],
+  "Layout": "000000000100001000000000000000001000000100000000000000001000000100000000001001011100001110100100001001001100001100100100001000101110011101000100001330244244442442033100100332244244442442233001010002244244442442200010001332244244442442233100000332244244442442233000000000022222222220000000001003322222222223300100000113300222222003311000000000002222222200000000000011332222222233110000000000330222222033000000000000000555555000000000000000000555555000000000000000005055550500000000000000005005500500000000000000005055550500000000000000005050050500000000000000000050050000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.45,
+        "y": 0.3478261
+      },
+      "Rotation": 30.0,
+      "WeaponClass": "TLS"
+    },
+    {
+      "Position": {
+        "x": 0.25
+      },
+      "Offset": 0.2,
+      "AutoAimingArc": 45.0,
+      "WeaponClass": "TLS"
+    },
+    {
+      "Position": {
+        "x": 0.45,
+        "y": -0.3478261
+      },
+      "Rotation": -30.0,
+      "WeaponClass": "TLS"
+    }
+  ],
+  "Features": {
+    "VelocityBonus": 1.0,
+    "ArmorBonus": 1.0,
+    "Regeneration": true,
+    "BuiltinDevices": [
+      18
+    ]
+  },
+  "BuiltinDevices": []
+}

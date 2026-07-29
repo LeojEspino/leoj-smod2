@@ -1,0 +1,28 @@
+{
+  "ItemType": 1,
+  "Id": 200350,
+  "Name": "Cluster Plasma Web",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 11,
+  "Level": 170,
+  "Icon": "cannon1.png",
+  "Color": "#FEB5A3",
+  "Layout": "1100110011001100",
+  "CellType": "4",
+  "WeaponId": 200350,
+  "AmmunitionId": 200350,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

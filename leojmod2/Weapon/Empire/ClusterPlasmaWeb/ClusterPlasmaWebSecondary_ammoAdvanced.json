@@ -1,0 +1,32 @@
+{
+  "ItemType": 25,
+  "Id": 200351,
+  "Body": {
+    "Size": 0.5,
+    "Velocity": 6.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 0.3,
+    "Weight": 0.01,
+    "BulletPrefab": 4,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 1.0,
+    "IgnoreRotation": true
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "launch_03",
+      "Ammunition": 200340,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 6.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 20653,
+  "Name": "Warp Drive Cannon",
+  "Description": "\"Whaat!? Seventy-two energy damage out of the blue? Jokes on you, I can only count up to six!\"",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10001,
+  "Level": 80,
+  "Icon": "cannon2.png",
+  "Color": "#EDA8FF",
+  "Layout": "0100010001000100",
+  "CellType": "4",
+  "WeaponId": 20653,
+  "AmmunitionId": 20653,
+  "WeaponSlotType": "C"
+}

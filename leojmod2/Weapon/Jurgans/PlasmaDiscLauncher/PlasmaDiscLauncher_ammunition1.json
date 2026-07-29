@@ -1,0 +1,44 @@
+{
+  "ItemType": 25,
+  "Id": 200451,
+  "Body": {
+    "Size": 3.0,
+    "Velocity": 8.0,
+    "Lifetime": 6.0,
+    "Weight": 0.1,
+    "BulletPrefab": 20014,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 2000,
+      "AudioClip": "explosion_04",
+      "Color": "#00000000",
+      "Size": 0.5,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 10,
+      "Color": "#E8FFFFFF",
+      "ColorMode": 1,
+      "Size": 0.1,
+      "Lifetime": 0.6,
+      "Cooldown": 0.2
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 1.0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ItemType": 25,
+  "Id": 200450,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 10.0,
+    "Range": 20.0,
+    "Color": "#FFFF80",
+    "BulletPrefab": 4,
+    "EnergyCost": 20.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 200451,
+      "Color": "#00000000",
+      "Quantity": 5,
+      "Size": 1.0,
+      "PowerMultiplier": 30.0,
+      "Rotation": "i*(360/Quantity)",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 2000,
+      "AudioClip": "explosion_04",
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 0.5
+    }
+  ]
+}
