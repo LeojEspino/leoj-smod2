@@ -1,0 +1,61 @@
+{
+  "ItemType": 6,
+  "Id": 200809,
+  "SizeClass": 3,
+  "Name": "Memory",
+  "Faction": 20003,
+  "IconImage": "memory_batt_icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "memory_batt.png",
+  "ModelScale": 3.0,
+  "EngineColor": "#29FF6565",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.35
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.275
+      },
+      "Size": 0.15
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.275
+      },
+      "Size": 0.15
+    }
+  ],
+  "Layout": "0000000000000000000000000000000000000000000000000004100000014000000410000001400000040011110040000102013333102010130213344331203113222224422222311322222442222231130120555502103101001055550100100000005005000000000000000000000000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.6,
+        "y": 0.5
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.6,
+        "y": -0.5
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.2
+      },
+      "Offset": 0.4,
+      "AutoAimingArc": 65.0,
+      "RotationSpeed": 60.0,
+      "WeaponClass": "CL"
+    }
+  ],
+  "BuiltinDevices": []
+}

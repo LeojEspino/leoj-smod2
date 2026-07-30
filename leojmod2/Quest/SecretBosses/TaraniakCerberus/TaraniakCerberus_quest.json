@@ -1,0 +1,182 @@
+{
+  "ItemType": 15,
+  "Id": 20020,
+  "Name": "The blob must be fed.",
+  "QuestType": 1,
+  "StartCondition": 6,
+  "Weight": 0.1,
+  "Requirement": {
+    "Type": 20,
+    "Faction": 4
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "Upon arriving at this sector, you feel a powerful presence.",
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 10,
+      "Message": "As you gaze far into the vastness of the cosmic background you notice a wierd red and black coated blob stuck between asteroids.",
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "Suddenly, your ship's communication systems recieve transmissions.",
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "FEED ME THOUSAND FLESH.",
+      "Character": 20008,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Type": 15,
+      "DefaultTransition": 14,
+      "Transitions": [
+        {
+          "TargetNode": 9,
+          "Requirement": {
+            "Type": 25,
+            "ItemId": 20005,
+            "MinValue": 1000
+          }
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 10,
+      "Message": "YOU HAVE ENOUGH.",
+      "Character": 20008,
+      "Actions": [
+        {
+          "TargetNode": 10,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Type": 10,
+      "Message": "...",
+      "Character": 20008,
+      "Actions": [
+        {
+          "TargetNode": 11,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 10,
+      "Message": "Suddenly, you notice the blob grow tendrils and develop a much more complex silhouette.",
+      "Actions": [
+        {
+          "TargetNode": 12,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 10,
+      "Message": "BUT, WE ARENT DONE. KILL, EAT, DIGEST.",
+      "Enemy": 20020,
+      "Character": 20008,
+      "Actions": [
+        {
+          "TargetNode": 13,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 13,
+      "Type": 43,
+      "DefaultTransition": 20,
+      "Quest": 20023
+    },
+    {
+      "Id": 14,
+      "Type": 10,
+      "Message": "OVER THERE, FLESH.",
+      "Character": 20008,
+      "Actions": [
+        {
+          "TargetNode": 15,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Type": 43,
+      "DefaultTransition": 5,
+      "Quest": 20022
+    },
+    {
+      "Id": 5,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 6,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 1,
+            "MaxValue": 1
+          }
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 8,
+          "Requirement": {
+            "Type": 30
+          }
+        }
+      ]
+    },
+    {
+      "Id": 20,
+      "Type": 36,
+      "DefaultTransition": 999,
+      "Loot": 200250
+    }
+  ]
+}
