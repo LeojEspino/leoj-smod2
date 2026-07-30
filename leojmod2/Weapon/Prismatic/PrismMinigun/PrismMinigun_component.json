@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1000210,
+  "Name": "Prism Minigun",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 10005,
+  "Icon": "gun12.png",
+  "Layout": "110110110",
+  "CellType": "4",
+  "DeviceId": 1000231,
+  "WeaponId": 1000210,
+  "AmmunitionId": 1000210,
+  "WeaponSlotType": "C"
+}

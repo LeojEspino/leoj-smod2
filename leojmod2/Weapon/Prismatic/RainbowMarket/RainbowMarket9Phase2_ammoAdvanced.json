@@ -1,0 +1,89 @@
+{
+  "ItemType": 25,
+  "Id": 1000286,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 999.0,
+    "Lifetime": 45.0
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "t*-((360/7)/7)"
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "AudioClip": "tan00",
+      "Ammunition": 1000287,
+      "Color": "#FF0000",
+      "ColorMode": 1,
+      "Cooldown": 1.0,
+      "Rotation": "-(360/7)*0",
+      "OffsetX": "50"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000287,
+      "Color": "#FF7B00",
+      "ColorMode": 1,
+      "Cooldown": 1.0,
+      "Rotation": "-(360/7)*1",
+      "OffsetX": "50"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000287,
+      "Color": "#FFFF00",
+      "ColorMode": 1,
+      "Cooldown": 1.0,
+      "Rotation": "-(360/7)*2",
+      "OffsetX": "50"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000287,
+      "Color": "#00FF00",
+      "ColorMode": 1,
+      "Cooldown": 1.0,
+      "Rotation": "-(360/7)*3",
+      "OffsetX": "50"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000287,
+      "Color": "#007BFF",
+      "ColorMode": 1,
+      "Cooldown": 1.0,
+      "Rotation": "-(360/7)*4",
+      "OffsetX": "50"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000287,
+      "Color": "#0000FF",
+      "ColorMode": 1,
+      "Cooldown": 1.0,
+      "Rotation": "-(360/7)*5",
+      "OffsetX": "50"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000287,
+      "Color": "#7B00FF",
+      "ColorMode": 1,
+      "Cooldown": 1.0,
+      "Rotation": "-(360/7)*6",
+      "OffsetX": "50"
+    }
+  ],
+  "ImpactType": 1
+}

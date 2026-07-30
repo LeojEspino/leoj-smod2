@@ -1,0 +1,12 @@
+{
+  "ItemType": 26,
+  "Id": 900220,
+  "Elements": [
+    {
+      "Type": 1,
+      "Image": "star",
+      "Color": "#00000000",
+      "Size": 1.5
+    }
+  ]
+}

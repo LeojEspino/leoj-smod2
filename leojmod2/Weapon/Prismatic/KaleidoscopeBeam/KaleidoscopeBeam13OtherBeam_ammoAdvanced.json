@@ -1,0 +1,27 @@
+{
+  "ItemType": 25,
+  "Id": 1000262,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Range": 50.0,
+    "Lifetime": 4.0,
+    "EnergyCost": 50.0,
+    "AiBulletBehavior": 2
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "-60+(t*30)"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "AudioClip": "deathray",
+      "Ammunition": 1000237,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

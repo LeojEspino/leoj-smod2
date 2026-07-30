@@ -1,0 +1,8 @@
+{
+  "ItemType": 14,
+  "Id": 10005,
+  "Name": "Prismatic",
+  "NoTerritories": true,
+  "NoWanderingShips": true,
+  "HideFromMerchants": true
+}

@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 1000280,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 2.75
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 10001,
+      "Color": "#00000000",
+      "Size": 100.0,
+      "Lifetime": 3.0,
+      "Cooldown": 0.5
+    },
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 10004,
+      "Color": "#00000000",
+      "Size": 50.0,
+      "Lifetime": 1.0,
+      "Cooldown": 1.0
+    }
+  ],
+  "ImpactType": 1
+}

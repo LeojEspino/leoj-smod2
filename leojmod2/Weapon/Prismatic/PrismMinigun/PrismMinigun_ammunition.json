@@ -1,0 +1,84 @@
+{
+  "ItemType": 25,
+  "Id": 1000210,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 40.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 40.0,
+    "Lifetime": 0.05,
+    "EnergyCost": 12.0,
+    "AiBulletBehavior": 2
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "t*360"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000211,
+      "Color": "#FF0000",
+      "ColorMode": 1,
+      "OffsetX": "1"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000213,
+      "Color": "#FF7B00",
+      "ColorMode": 1,
+      "Rotation": "-(360/7)",
+      "OffsetX": "1"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000215,
+      "Color": "#FFFF00",
+      "ColorMode": 1,
+      "Rotation": "-(360/7)*2",
+      "OffsetX": "1"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000217,
+      "Color": "#00FF00",
+      "ColorMode": 1,
+      "Rotation": "-(360/7)*3",
+      "OffsetX": "1"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000219,
+      "Color": "#007BFF",
+      "ColorMode": 1,
+      "Rotation": "-(360/7)*4",
+      "OffsetX": "1"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000221,
+      "Color": "#0000FF",
+      "ColorMode": 1,
+      "Rotation": "-(360/7)*5",
+      "OffsetX": "1"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000223,
+      "Color": "#7B00FF",
+      "ColorMode": 1,
+      "Rotation": "-(360/7)*6",
+      "OffsetX": "1"
+    }
+  ],
+  "ImpactType": 2
+}

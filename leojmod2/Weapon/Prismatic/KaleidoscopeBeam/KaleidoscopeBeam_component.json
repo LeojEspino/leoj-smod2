@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1000236,
+  "Name": "Harmonic Beam",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 10005,
+  "Icon": "harmonic_beam.png",
+  "Layout": "0111001110011100111001110",
+  "CellType": "4",
+  "DeviceId": 1000247,
+  "WeaponId": 1000236,
+  "AmmunitionId": 1000261,
+  "WeaponSlotType": "L"
+}

@@ -1,0 +1,20 @@
+{
+  "ItemType": 25,
+  "Id": 1000279,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 999.0,
+    "Lifetime": 2.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "CAUTION",
+      "Ammunition": 1000280,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

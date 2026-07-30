@@ -1,0 +1,15 @@
+{
+  "ItemType": 25,
+  "Id": 1000249,
+  "Body": {
+    "Size": 0.5,
+    "Range": 200.0,
+    "Lifetime": 2.0,
+    "BulletPrefab": 19
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "ImpactType": 1
+}

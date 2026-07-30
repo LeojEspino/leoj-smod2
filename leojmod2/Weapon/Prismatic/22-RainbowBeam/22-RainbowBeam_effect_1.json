@@ -1,0 +1,19 @@
+{
+  "ItemType": 26,
+  "Id": 900221,
+  "Elements": [
+    {
+      "Type": 1,
+      "Image": "star",
+      "Color": "#00000000"
+    },
+    {
+      "Type": 2,
+      "Image": "wave",
+      "Color": "#00000000",
+      "Quantity": 3,
+      "Size": 0.5,
+      "Inverse": true
+    }
+  ]
+}

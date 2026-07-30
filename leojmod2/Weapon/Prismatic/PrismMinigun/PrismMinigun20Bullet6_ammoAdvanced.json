@@ -1,0 +1,27 @@
+{
+  "ItemType": 25,
+  "Id": 1000229,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 60.0,
+    "Range": 40.0,
+    "BulletPrefab": 2010
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "AudioClip": "hit_01",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 10.0
+    }
+  ]
+}

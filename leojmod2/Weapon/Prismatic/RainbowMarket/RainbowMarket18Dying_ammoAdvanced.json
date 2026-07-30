@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 1000295,
+  "Body": {
+    "Size": 8.0,
+    "Range": 999.0,
+    "Lifetime": 1.0,
+    "BulletPrefab": 100018
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10004,
+      "AudioClip": "se_enep01",
+      "Color": "#00000000",
+      "Size": 100.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 2,
+      "Color": "#00000000",
+      "Size": 100.0,
+      "Lifetime": 5.0,
+      "Cooldown": 1.0
+    }
+  ],
+  "ImpactType": 1
+}

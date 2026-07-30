@@ -1,0 +1,26 @@
+{
+  "ItemType": 25,
+  "Id": 1000282,
+  "Body": {
+    "Size": 0.5,
+    "AttachedToParent": true,
+    "Range": 200.0,
+    "Lifetime": 3.0,
+    "BulletPrefab": 19
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "se_nep00",
+      "Ammunition": 1000283,
+      "ColorMode": 1,
+      "OffsetX": "-200"
+    }
+  ],
+  "ImpactType": 1
+}

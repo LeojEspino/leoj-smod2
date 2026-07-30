@@ -1,0 +1,23 @@
+{
+  "ItemType": 25,
+  "Id": 1000287,
+  "Body": {
+    "Size": 1.0,
+    "Range": 999.0,
+    "Lifetime": 20.0
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "t*9"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000288,
+      "Color": "#00000000",
+      "OffsetX": "-50"
+    }
+  ]
+}

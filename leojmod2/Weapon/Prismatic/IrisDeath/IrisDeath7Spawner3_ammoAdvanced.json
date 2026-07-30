@@ -1,0 +1,27 @@
+{
+  "ItemType": 25,
+  "Id": 1000273,
+  "Body": {
+    "Size": 3.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 999.0,
+    "Lifetime": 3.5,
+    "BulletPrefab": 100017
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "IF(t<1.5, IF(t>0.5, (t-0.5)*5, 0), 5)"
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000270,
+      "Color": "#00000000",
+      "Rotation": "90"
+    }
+  ],
+  "ImpactType": 1
+}

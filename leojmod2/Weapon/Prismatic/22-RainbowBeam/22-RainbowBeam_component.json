@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 900220,
+  "Name": "22-RainbowBeam",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "gun1",
+  "Layout": "1",
+  "CellType": "4",
+  "WeaponId": 900220,
+  "AmmunitionId": 900220,
+  "WeaponSlotType": "\u0000"
+}

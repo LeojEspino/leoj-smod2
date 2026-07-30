@@ -1,9 +1,9 @@
 {
   "ItemType": 30,
   "Id": 4,
-  "InitialEnemyShips": "99",
-  "MaxEnemyShips": "99",
-  "BattleMapSize": 400,
+  "InitialEnemyShips": "12",
+  "BattleMapSize": 300,
+  "TimeLimit": "1",
   "DisablePlanet": true,
   "CustomSoundtrack": [
     {

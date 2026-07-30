@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 1000281,
+  "Body": {
+    "Size": 8.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 999.0,
+    "Lifetime": 60.0,
+    "BulletPrefab": 100018
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "AudioClip": "se_cat00",
+      "Color": "#00000000",
+      "Size": 100.0,
+      "Lifetime": 1.0,
+      "Cooldown": 100.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000282,
+      "Color": "#FF0000",
+      "ColorMode": 1
+    }
+  ],
+  "ImpactType": 1
+}

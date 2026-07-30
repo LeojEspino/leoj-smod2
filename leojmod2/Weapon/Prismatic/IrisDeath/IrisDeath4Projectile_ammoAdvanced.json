@@ -1,0 +1,27 @@
+{
+  "ItemType": 25,
+  "Id": 1000270,
+  "Body": {
+    "Size": 3.0,
+    "Velocity": 40.0,
+    "Range": 999.0,
+    "Lifetime": 1.0,
+    "BulletPrefab": 100017
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "tan00",
+      "Ammunition": 101,
+      "Color": "#00000000",
+      "Size": 20.0,
+      "PowerMultiplier": 50.0
+    }
+  ],
+  "ImpactType": 1
+}

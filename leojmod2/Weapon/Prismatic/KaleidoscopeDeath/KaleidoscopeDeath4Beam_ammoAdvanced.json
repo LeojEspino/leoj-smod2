@@ -1,0 +1,117 @@
+{
+  "ItemType": 25,
+  "Id": 1000250,
+  "Body": {
+    "Size": 3.0,
+    "AttachedToParent": true,
+    "Range": 200.0,
+    "Lifetime": 15.0,
+    "EnergyCost": 0.1,
+    "AiBulletBehavior": 2
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000251,
+      "Color": "#FF3232",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 40.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000252,
+      "Color": "#FFBB32",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 40.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000253,
+      "Color": "#BAFF32",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 40.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000254,
+      "Color": "#32FF32",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 40.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000255,
+      "Color": "#32FFBB",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 40.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000256,
+      "Color": "#32BAFF",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 40.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000257,
+      "Color": "#3232FF",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 40.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000258,
+      "Color": "#BB32FF",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 40.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000259,
+      "Color": "#FF32BA",
+      "ColorMode": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 40.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {}
+  ]
+}

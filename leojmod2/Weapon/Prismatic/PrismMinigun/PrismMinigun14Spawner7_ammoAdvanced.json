@@ -1,0 +1,36 @@
+{
+  "ItemType": 25,
+  "Id": 1000223,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Range": 999.0,
+    "Lifetime": 999.0,
+    "BulletPrefab": 2010
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "0.5*SIN(4*t)"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 2,
+      "AudioClip": "se_graze",
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 0.25
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "AudioClip": "tan00",
+      "Ammunition": 1000224,
+      "Color": "#00000000",
+      "Cooldown": 1.0
+    }
+  ],
+  "ImpactType": 1
+}

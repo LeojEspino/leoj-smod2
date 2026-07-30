@@ -1,0 +1,23 @@
+{
+  "ItemType": 25,
+  "Id": 1000288,
+  "Body": {
+    "Size": 3.0,
+    "Velocity": 40.0,
+    "AttachedToParent": true,
+    "Range": 999.0,
+    "Lifetime": 20.0,
+    "BulletPrefab": 100017
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "AudioClip": "tan00",
+      "Ammunition": 101,
+      "Color": "#00000000",
+      "Size": 20.0,
+      "PowerMultiplier": 50.0
+    }
+  ]
+}

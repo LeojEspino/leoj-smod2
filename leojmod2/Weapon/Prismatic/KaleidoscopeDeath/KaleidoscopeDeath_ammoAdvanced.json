@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 1000247,
+  "Body": {
+    "Size": 6.0,
+    "Range": 999.0,
+    "Lifetime": 1.5,
+    "BulletPrefab": 100014
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10004,
+      "AudioClip": "se_focus",
+      "Color": "#00000000",
+      "Size": 5.0,
+      "Lifetime": 1.5
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000248,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}
