@@ -1,0 +1,52 @@
+{
+  "ItemType": 25,
+  "Id": 20138,
+  "Body": {
+    "Size": 4.0,
+    "Velocity": 100.0,
+    "Range": 60.0,
+    "Lifetime": 2.0,
+    "Weight": 0.1,
+    "HitPoints": 999999999,
+    "Color": "#FF3232",
+    "EnergyCost": 80.0,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.1,
+    "IgnoreRotation": true,
+    "SmartAim": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "AudioClip": "swing",
+      "Ammunition": 20139,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "Cooldown": 0.01,
+      "Rotation": "RANDOM(-1,1) * 180",
+      "OffsetX": "RANDOM(-1,1) * 2",
+      "OffsetY": "RANDOM(-1,1) * 2"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 4,
+      "VisualEffect": 2003,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "AudioClip": "samurai-slash",
+      "Color": "#00000000",
+      "OncePerCollision": true
+    }
+  ],
+  "ImpactType": 2
+}

@@ -1,0 +1,12 @@
+{
+  "ItemType": 26,
+  "Id": 2004,
+  "Elements": [
+    {
+      "Type": 1,
+      "Image": "long_bullet.png",
+      "Color": "#2D2D2D",
+      "ParticleSize": 0.001
+    }
+  ]
+}

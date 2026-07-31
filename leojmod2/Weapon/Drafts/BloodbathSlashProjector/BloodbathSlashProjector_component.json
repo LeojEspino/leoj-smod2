@@ -1,0 +1,27 @@
+{
+  "ItemType": 1,
+  "Id": 20138,
+  "Name": "\"Bloodbath\" Slash Projector",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Level": 500,
+  "Icon": "doom13.png",
+  "Color": "#FF0009",
+  "Layout": "1111111111111111111111111",
+  "CellType": "4",
+  "WeaponId": 20138,
+  "AmmunitionId": 20138,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ItemType": 26,
+  "Id": 2003,
+  "Elements": [
+    {
+      "Type": 1,
+      "Image": "hdspiral.png",
+      "Color": "#00000000",
+      "GrowthRate": 2.0,
+      "TurnRate": 360.0,
+      "ParticleSize": 0.001
+    }
+  ]
+}

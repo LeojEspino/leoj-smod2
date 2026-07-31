@@ -1,0 +1,45 @@
+{
+  "ItemType": 25,
+  "Id": 20139,
+  "Body": {
+    "Size": 1.0,
+    "Lifetime": 0.5,
+    "BulletPrefab": 20024
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "10*t-t^0.5",
+    "Rotation": "RANDOM(-1,1) * 6",
+    "Size": "24-t*48",
+    "Length": "0"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 4,
+      "VisualEffect": 2004,
+      "ColorMode": 1,
+      "Size": 24.0,
+      "Lifetime": 0.1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 20140,
+      "Color": "#24FF3232",
+      "ColorMode": 1,
+      "Quantity": 2,
+      "Size": 1.0,
+      "PowerMultiplier": 60.0,
+      "Rotation": "i*180",
+      "OffsetX": "0"
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 28.0
+    }
+  ]
+}

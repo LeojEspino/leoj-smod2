@@ -1,4 +1,68 @@
 {
   "ItemType": 108,
-  "Codes": []
+  "Codes": [
+    {
+      "Code": 2001,
+      "Loot": {
+        "Type": 30,
+        "ItemId": 99999
+      }
+    },
+    {
+      "Code": 2002,
+      "Loot": {
+        "Type": 21,
+        "Items": [
+          {
+            "Loot": {
+              "Type": 41,
+              "MinAmount": 100,
+              "MaxAmount": 100,
+              "Factions": {
+                "Type": 1,
+                "List": [
+                  11
+                ]
+              }
+            }
+          },
+          {
+            "Loot": {
+              "Type": 41,
+              "MinAmount": 100,
+              "MaxAmount": 100,
+              "Factions": {
+                "Type": 1,
+                "List": [
+                  6
+                ]
+              }
+            }
+          },
+          {
+            "Loot": {
+              "Type": 41,
+              "MinAmount": 100,
+              "MaxAmount": 100,
+              "Factions": {
+                "Type": 1,
+                "List": [
+                  7
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Code": 2003,
+      "Loot": {
+        "Type": 25,
+        "ItemId": 20010,
+        "MinAmount": 1,
+        "MaxAmount": 1
+      }
+    }
+  ]
 }
