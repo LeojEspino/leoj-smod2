@@ -1,0 +1,33 @@
+{
+  "ItemType": 28,
+  "Id": 2007,
+  "RootNode": {
+    "Type": 7,
+    "Node": {
+      "Type": 5,
+      "Nodes": [
+        {
+          "Type": 300,
+          "Text": "OW",
+          "Color": "#BC0003"
+        },
+        {
+          "Type": 300,
+          "Text": "LORD HAVE MERCY",
+          "Color": "#BC0003"
+        },
+        {
+          "Type": 300,
+          "Text": "MAKE IT STOP PLEASE",
+          "Color": "#BC0003"
+        },
+        {
+          "Type": 300,
+          "Text": "HELP",
+          "Color": "#BC0003"
+        }
+      ]
+    },
+    "Cooldown": 4.0
+  }
+}

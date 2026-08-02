@@ -6,10 +6,10 @@
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 72,
-  "Faction": -1,
   "Icon": "lightweight1",
   "Color": "#C0FFC0",
   "Layout": "1",
+  "CellType": "\u0000",
   "PossibleModifications": [
     4
   ]

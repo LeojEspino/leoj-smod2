@@ -1,0 +1,42 @@
+{
+  "ItemType": 25,
+  "Id": 2000907,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Range": 30.0,
+    "Lifetime": 0.6,
+    "Color": "#7AA6FF",
+    "EnergyCost": 8.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 2000908,
+      "Color": "#00000000",
+      "Quantity": 2,
+      "Size": 1.0,
+      "Rotation": "i*180+90",
+      "OffsetX": "-0.5"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 2000909,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 1.0
+    }
+  ]
+}

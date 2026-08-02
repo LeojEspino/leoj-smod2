@@ -1,0 +1,28 @@
+{
+  "ItemType": 26,
+  "Id": 2005,
+  "Elements": [
+    {
+      "Type": 4,
+      "Image": "CloudWhite",
+      "Quantity": 3
+    },
+    {
+      "Type": 3,
+      "Image": "CloudWhite",
+      "ColorMode": 1,
+      "Color": "#000000",
+      "Quantity": 3,
+      "Size": 1.5
+    },
+    {
+      "Type": 5
+    },
+    {
+      "Image": "star",
+      "Color": "#C8F9F9F9",
+      "Size": 2.0,
+      "ParticleSize": 0.001
+    }
+  ]
+}

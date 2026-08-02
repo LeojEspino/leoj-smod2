@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 2000916,
+  "Name": "Spider Web",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 4,
+  "Level": 60,
+  "Icon": "torpedo2",
+  "Color": "#D6FEDD",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 2000916,
+  "AmmunitionId": 2000916,
+  "WeaponSlotType": "S"
+}

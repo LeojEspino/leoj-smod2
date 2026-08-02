@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 200287,
+  "Name": "Nagy",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Icon": "nagy.png",
+  "Layout": "1",
+  "CellType": "\u0000",
+  "DroneBayId": 2001,
+  "DroneId": 2008892
+}

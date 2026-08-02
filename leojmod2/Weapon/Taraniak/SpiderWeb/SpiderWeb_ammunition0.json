@@ -1,0 +1,23 @@
+{
+  "ItemType": 25,
+  "Id": 2000916,
+  "Body": {
+    "Size": 0.5,
+    "Velocity": 30.0,
+    "Range": 20.0,
+    "Color": "#D6FEDD",
+    "BulletPrefab": 4,
+    "EnergyCost": 4.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "launch_03",
+      "Ammunition": 2000917,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 10.0
+    }
+  ]
+}

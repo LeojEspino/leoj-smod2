@@ -1,7 +1,7 @@
 {
   "ItemType": 14,
   "Id": 15,
-  "Name": "$Faction15",
+  "Name": "Wandering Scavengers",
   "Color": "#404040",
   "NoTerritories": true,
   "NoWanderingShips": true,

@@ -1,0 +1,38 @@
+{
+  "ItemType": 28,
+  "Id": 2005,
+  "RootNode": {
+    "Type": 7,
+    "Node": {
+      "Type": 5,
+      "Nodes": [
+        {
+          "Type": 300,
+          "Text": "kys",
+          "Color": "#FE4C4C"
+        },
+        {
+          "Type": 300,
+          "Text": "kabooom !!!",
+          "Color": "#FE4C4C"
+        },
+        {
+          "Type": 300,
+          "Text": "die",
+          "Color": "#FE4C4C"
+        },
+        {
+          "Type": 300,
+          "Text": "does he know ?",
+          "Color": "#FE4C4C"
+        },
+        {
+          "Type": 300,
+          "Text": "open up !!",
+          "Color": "#FE4C4C"
+        }
+      ]
+    },
+    "Cooldown": 6.0
+  }
+}

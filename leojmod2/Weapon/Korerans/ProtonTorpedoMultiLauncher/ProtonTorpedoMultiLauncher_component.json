@@ -1,0 +1,28 @@
+{
+  "ItemType": 1,
+  "Id": 2008915,
+  "Name": "Proton Torpedo Multi-Launcher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 3,
+  "Level": 60,
+  "Icon": "shotgun1",
+  "Color": "#CCC9FF",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 2008915,
+  "AmmunitionId": 2008915,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

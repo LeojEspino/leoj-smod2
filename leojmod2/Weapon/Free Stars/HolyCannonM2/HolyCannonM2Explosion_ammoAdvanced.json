@@ -1,0 +1,25 @@
+{
+  "ItemType": 25,
+  "Id": 200683,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 4,
+      "VisualEffect": 2005,
+      "Color": "#00000000",
+      "Size": 0.75,
+      "Lifetime": 0.5
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 1.0
+    }
+  ]
+}

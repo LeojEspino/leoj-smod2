@@ -1,0 +1,33 @@
+{
+  "ItemType": 28,
+  "Id": 2004,
+  "RootNode": {
+    "Type": 7,
+    "Node": {
+      "Type": 5,
+      "Nodes": [
+        {
+          "Type": 300,
+          "Text": "hello bro",
+          "Color": "#93FEFF"
+        },
+        {
+          "Type": 300,
+          "Text": "im saving the day bro trust",
+          "Color": "#93FEFF"
+        },
+        {
+          "Type": 300,
+          "Text": "look at me goo !!",
+          "Color": "#93FEFF"
+        },
+        {
+          "Type": 300,
+          "Text": "feels free",
+          "Color": "#93FEFF"
+        }
+      ]
+    },
+    "Cooldown": 6.0
+  }
+}

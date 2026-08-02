@@ -8,8 +8,7 @@
     "Range": 5.0,
     "Color": "#00C7FF",
     "BulletPrefab": 4,
-    "CanBeDisarmed": true,
-    "Type": 2
+    "CanBeDisarmed": true
   },
   "Controller": {
     "StartingVelocityModifier": 0.1

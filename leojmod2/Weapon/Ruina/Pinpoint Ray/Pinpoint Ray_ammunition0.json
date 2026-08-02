@@ -6,7 +6,7 @@
     "AttachedToParent": true,
     "Range": 30.0,
     "Lifetime": 0.3,
-    "Color": "#B2EBFF",
+    "Color": "#99E5FF",
     "EnergyCost": 5.0
   },
   "Triggers": [

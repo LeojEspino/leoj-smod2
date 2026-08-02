@@ -10,7 +10,7 @@
   "Capacity": 1,
   "ActivationType": 2,
   "LaunchSound": "se_powerup",
-  "ControlButtonIcon": "dummy.png",
+  "ControlButtonIcon": "Dummy.png",
   "DefensiveDroneAI": 53651,
   "OffensiveDroneAI": 53651
 }

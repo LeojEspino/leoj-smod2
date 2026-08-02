@@ -34,12 +34,24 @@
       "PowerMultiplier": 60.0,
       "Rotation": "i*180",
       "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "ColorMode": 1,
+      "Size": 4.0,
+      "Lifetime": 0.1
     }
   ],
   "ImpactType": 1,
   "Effects": [
     {
       "Power": 28.0
+    },
+    {
+      "Type": 17,
+      "Power": 20.0
     }
   ]
 }

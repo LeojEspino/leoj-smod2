@@ -1,0 +1,29 @@
+{
+  "ItemType": 6,
+  "Id": 2008892,
+  "ShipRarity": 2,
+  "Name": "NagyShip",
+  "Description": "if you somehow obtained this ship, you should be ashamed",
+  "IconImage": "small_hornet.png",
+  "IconScale": 1.0,
+  "ModelImage": "small_hornet.png",
+  "ModelScale": 1.0,
+  "EngineColor": "#61E065FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.3
+    }
+  ],
+  "Layout": "0010000000100001000000010010100444001011111444441111111144444111101132444231101122222222211012222222221000032222230000013555553100011055555011001101555101100010155510100",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7
+      }
+    }
+  ],
+  "BuiltinDevices": []
+}

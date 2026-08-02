@@ -10,8 +10,8 @@
   "Range": 24.0,
   "Velocity": 18.0,
   "LifeTime": 1.0,
-  "EnergyCost": 15.0,
-  "Color": "#C73F21",
+  "EnergyCost": 10.0,
+  "Color": "#B83019",
   "FireSound": "shot_07",
   "HitSound": "explosion_02",
   "BulletPrefab": "Rocket"

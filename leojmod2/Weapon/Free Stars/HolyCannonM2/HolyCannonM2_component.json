@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 200682,
+  "Name": "Holy Cannon M2",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Level": 300,
+  "Icon": "holycannon2.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 200682,
+  "AmmunitionId": 200682,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    14,
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

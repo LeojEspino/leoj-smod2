@@ -1,0 +1,56 @@
+{
+  "ItemType": 28,
+  "Id": 2003,
+  "RootNode": {
+    "Type": 4,
+    "Nodes": [
+      {
+        "Type": 1,
+        "ItemId": 2002
+      },
+      {
+        "Type": 12,
+        "Nodes": [
+          {
+            "Type": 56
+          },
+          {
+            "Type": 12,
+            "Nodes": [
+              {
+                "Type": 60,
+                "MinValue": 0.0
+              },
+              {
+                "Type": 1,
+                "ItemId": 2005
+              },
+              {
+                "Type": 1,
+                "ItemId": 2004
+              }
+            ]
+          },
+          {
+            "Type": 1,
+            "ItemId": 2006
+          }
+        ]
+      },
+      {
+        "Type": 12,
+        "Nodes": [
+          {
+            "Type": 51,
+            "MinValue": 0.2
+          },
+          {
+            "Type": 1,
+            "ItemId": 2007
+          },
+          {}
+        ]
+      }
+    ]
+  }
+}

@@ -21,7 +21,7 @@
 		"Aptos",
 		"Open Sans"
 	],
-	"ActiveTheme": 013,	// index starts with 0, then 1,2....
+	"ActiveTheme": 12,	// index starts with 0, then 1,2....
 	"Themes": [
 		// Default dark DBE theme
 		// Do not delete
@@ -137,6 +137,15 @@
 			"Accent": "#454545",
 			"Accent2": "#6D6D6D",
 			"Accent3": "#6D6D6D" 
-		}
+		},
+		{
+			"Name": "DBE", 	// Not used internally, an ID
+			"BorderColor": "#191919",		// rgb(25,25,25)
+			"BackgroundColor": "#000000",	// 45, 45, 45 rgb
+			"FontColor": "#00FF00",			// COLOR OF FONT AND THE GRADIENT AT THE TOP
+			"Accent": "#414141", 			// 65, 65, 65 rgb
+			"Accent2": "#5F5F5F",			// rgb(95,95,95)
+			"Accent3": "#5F5F5F"			// USED FOR CREATE MOD BUTTON ONLY
+		},
 	]
 }

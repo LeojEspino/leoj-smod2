@@ -1,0 +1,58 @@
+{
+  "ItemType": 6,
+  "Id": 2000796,
+  "SizeClass": 2,
+  "Name": "Twilight",
+  "Faction": 1,
+  "IconImage": "twilight.png",
+  "IconScale": 1.0,
+  "ModelImage": "twilight.png",
+  "ModelScale": 2.0,
+  "EngineColor": "#40FFF096",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.4
+      },
+      "Size": 0.15
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.4
+      },
+      "Size": 0.15
+    }
+  ],
+  "Layout": "0000000000000000100000000011100000004111400000042224000111422241111114222411101552225510005522255000000050000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.5,
+        "y": 0.45
+      },
+      "WeaponClass": "C"
+    },
+    {
+      "Position": {
+        "x": 0.5,
+        "y": -0.45
+      },
+      "WeaponClass": "C"
+    }
+  ],
+  "Features": {
+    "BuiltinDevices": [
+      3,
+      12
+    ]
+  },
+  "BuiltinDevices": []
+}

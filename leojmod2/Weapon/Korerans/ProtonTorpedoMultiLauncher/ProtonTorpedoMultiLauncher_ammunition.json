@@ -1,0 +1,27 @@
+{
+  "ItemType": 25,
+  "Id": 2008915,
+  "Body": {
+    "Size": 0.5,
+    "Velocity": 12.0,
+    "Range": 20.0,
+    "Lifetime": 2.0,
+    "Color": "#CCC9FF",
+    "BulletPrefab": 4,
+    "EnergyCost": 5.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "hit_01",
+      "Ammunition": 2000230,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 6.0,
+      "PowerMultiplier": 17.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    }
+  ]
+}

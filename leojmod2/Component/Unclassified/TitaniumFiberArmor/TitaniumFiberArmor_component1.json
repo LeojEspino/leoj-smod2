@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 200773,
+  "Name": "Titanium Fiber Armor",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 200773,
+  "Level": 325,
+  "Icon": "titaniumfiberarmor1.png",
+  "Color": "#D2EBFE",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    1
+  ]
+}

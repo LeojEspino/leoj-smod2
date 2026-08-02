@@ -51,6 +51,19 @@
                 ]
               }
             }
+          },
+          {
+            "Loot": {
+              "Type": 41,
+              "MinAmount": 100,
+              "MaxAmount": 100,
+              "Factions": {
+                "Type": 1,
+                "List": [
+                  10004
+                ]
+              }
+            }
           }
         ]
       }

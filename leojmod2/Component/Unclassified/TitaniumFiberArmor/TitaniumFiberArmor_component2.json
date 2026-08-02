@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 200774,
+  "Name": "Large Titanium Fiber Armor",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 200774,
+  "Level": 350,
+  "Icon": "titaniumfiberarmor2.png",
+  "Color": "#D2EBFE",
+  "Layout": "111111111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    1
+  ]
+}

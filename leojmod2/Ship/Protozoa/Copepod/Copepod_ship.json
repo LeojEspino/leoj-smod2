@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 2000120,
+  "ShipType": 4,
   "SizeClass": 4,
   "Name": "Copepod",
   "Faction": 20001,

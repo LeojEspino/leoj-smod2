@@ -9,7 +9,7 @@
     {
       "Condition": 1,
       "EffectType": 4,
-      "VisualEffect": 23,
+      "VisualEffect": 10003,
       "Color": "#00000000",
       "Size": 1.0,
       "Lifetime": 0.5
@@ -19,16 +19,8 @@
       "EffectType": 4,
       "VisualEffect": 1,
       "Color": "#00000000",
-      "Size": 1.0,
+      "Size": 0.5,
       "Lifetime": 0.5
-    },
-    {
-      "Condition": 1,
-      "EffectType": 1,
-      "VisualEffect": 10001,
-      "Color": "#00000000",
-      "Size": 1.0,
-      "Lifetime": 1.0
     }
   ],
   "ImpactType": 1,

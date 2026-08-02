@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 2000420,
+  "ShipType": 4,
   "SizeClass": 4,
   "Name": "Snap",
   "Faction": 20002,

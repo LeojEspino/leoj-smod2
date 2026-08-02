@@ -1,0 +1,33 @@
+{
+  "ItemType": 28,
+  "Id": 2006,
+  "RootNode": {
+    "Type": 7,
+    "Node": {
+      "Type": 5,
+      "Nodes": [
+        {
+          "Type": 300,
+          "Text": "imagine exploding",
+          "Color": "#FE854C"
+        },
+        {
+          "Type": 300,
+          "Text": "bro ate that bullet",
+          "Color": "#FE854C"
+        },
+        {
+          "Type": 300,
+          "Text": "how unfortunate",
+          "Color": "#FE854C"
+        },
+        {
+          "Type": 300,
+          "Text": "lmao",
+          "Color": "#FE854C"
+        }
+      ]
+    },
+    "Cooldown": 6.0
+  }
+}
