@@ -1,0 +1,99 @@
+{
+  "ItemType": 25,
+  "Id": 1000319,
+  "Body": {
+    "Size": 1.0,
+    "Length": 10.0,
+    "Range": 999.0,
+    "Lifetime": 1.0,
+    "BulletPrefab": 19
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "IF(t<1,t*10,10)",
+    "Rotation": "-(360/7)*3",
+    "Length": "10"
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "se_kira00",
+      "Ammunition": 1000323,
+      "Color": "#00000000",
+      "OffsetX": "-10"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000324,
+      "Color": "#00000000",
+      "OffsetX": "-9"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000325,
+      "Color": "#00000000",
+      "OffsetX": "-8"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000326,
+      "Color": "#00000000",
+      "OffsetX": "-7"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000327,
+      "Color": "#00000000",
+      "OffsetX": "-6"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000328,
+      "Color": "#00000000",
+      "OffsetX": "-5"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000329,
+      "Color": "#00000000",
+      "OffsetX": "-4"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000330,
+      "Color": "#00000000",
+      "Rotation": "0",
+      "OffsetX": "-3"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000331,
+      "Color": "#00000000",
+      "OffsetX": "-2"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000332,
+      "Color": "#00000000",
+      "OffsetX": "-1"
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "DamageType": 3,
+      "Power": 20.0
+    }
+  ]
+}

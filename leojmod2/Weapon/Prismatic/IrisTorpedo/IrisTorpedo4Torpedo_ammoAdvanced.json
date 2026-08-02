@@ -6,13 +6,14 @@
     "Velocity": 20.0,
     "ParentVelocityEffect": 0.0,
     "Range": 40.0,
-    "BulletPrefab": 4
+    "BulletPrefab": 4,
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {
       "Condition": 2,
       "EffectType": 2,
-      "AudioClip": "hit_01",
+      "AudioClip": "shot_10",
       "Ammunition": 101,
       "Color": "#2D2D2D",
       "Size": 5.0,

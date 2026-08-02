@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 1000313,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 50.0,
+    "Lifetime": 3.0,
+    "AiBulletBehavior": 3
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000314,
+      "Color": "#00000000",
+      "Quantity": 7,
+      "Rotation": "i*(360/7)",
+      "OffsetX": "-5"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "se_kira00",
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

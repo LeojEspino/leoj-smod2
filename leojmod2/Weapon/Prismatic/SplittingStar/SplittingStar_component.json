@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1000313,
+  "Name": "Splitting Star",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 10005,
+  "Level": 450,
+  "Icon": "iridescent.png",
+  "Layout": "1111111111111111111111111",
+  "CellType": "4",
+  "WeaponId": 1000313,
+  "AmmunitionId": 1000313,
+  "WeaponSlotType": "S"
+}

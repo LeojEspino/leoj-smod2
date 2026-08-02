@@ -1,0 +1,24 @@
+{
+  "ItemType": 25,
+  "Id": 1000332,
+  "Body": {
+    "Size": 1.0,
+    "Range": 999.0,
+    "Lifetime": 1.0,
+    "BulletPrefab": 100015
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "45"
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000333,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1
+}

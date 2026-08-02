@@ -1,0 +1,67 @@
+{
+  "ItemType": 28,
+  "Id": 10002,
+  "RootNode": {
+    "Type": 2,
+    "Nodes": [
+      {
+        "Type": 3,
+        "Nodes": [
+          {
+            "Type": 305,
+            "Text": "timer"
+          },
+          {
+            "Type": 306
+          },
+          {
+            "Type": 207
+          }
+        ]
+      },
+      {
+        "Type": 3,
+        "Nodes": [
+          {
+            "Type": 201
+          },
+          {
+            "Type": 4,
+            "Nodes": [
+              {
+                "Type": 120,
+                "MaxValue": 0.0
+              },
+              {
+                "Type": 109,
+                "Cooldown": 65.0,
+                "InRange": true
+              }
+            ]
+          },
+          {
+            "Type": 106
+          }
+        ]
+      },
+      {
+        "Type": 3,
+        "Nodes": [
+          {
+            "Type": 61
+          },
+          {
+            "Type": 204
+          },
+          {
+            "Type": 114,
+            "DeviceClass": 3
+          },
+          {
+            "Type": 118
+          }
+        ]
+      }
+    ]
+  }
+}

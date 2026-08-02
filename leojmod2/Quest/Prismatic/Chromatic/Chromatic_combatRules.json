@@ -1,0 +1,16 @@
+{
+  "ItemType": 30,
+  "Id": 100074,
+  "InitialEnemyShips": "2",
+  "MaxEnemyShips": "2",
+  "TimeLimit": "999",
+  "LootCondition": 2,
+  "DisableRandomLoot": true,
+  "DisableAsteroids": true,
+  "NextEnemyButton": false,
+  "CustomSoundtrack": [
+    {
+      "Audio": "Where Is That Bustling Marketplace Now"
+    }
+  ]
+}

@@ -6,6 +6,7 @@
   "Availability": 2,
   "ComponentStatsId": 1,
   "Faction": 10005,
+  "Level": 400,
   "Icon": "harmonic_beam.png",
   "Layout": "0111001110011100111001110",
   "CellType": "4",

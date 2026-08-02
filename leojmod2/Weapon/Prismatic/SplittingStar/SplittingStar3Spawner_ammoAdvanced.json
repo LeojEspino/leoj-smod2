@@ -1,0 +1,76 @@
+{
+  "ItemType": 25,
+  "Id": 1000317,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Range": 999.0,
+    "Lifetime": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "se_kira00",
+      "Ammunition": 1000315,
+      "Color": "#FF0000",
+      "ColorMode": 1,
+      "OffsetY": "-0.1"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000316,
+      "Color": "#FFFF00",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*1",
+      "OffsetY": "-0.1"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000318,
+      "Color": "#007BFF",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*2",
+      "OffsetY": "-0.1"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000319,
+      "Color": "#7B00FF",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*3",
+      "OffsetY": "-0.1"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000320,
+      "Color": "#FF7B00",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*4",
+      "OffsetY": "-0.1"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000321,
+      "Color": "#00FF00",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*5",
+      "OffsetY": "-0.1"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 1000322,
+      "Color": "#0000FF",
+      "ColorMode": 1,
+      "Rotation": "(360/7)*6",
+      "OffsetY": "-0.1"
+    }
+  ],
+  "ImpactType": 1
+}

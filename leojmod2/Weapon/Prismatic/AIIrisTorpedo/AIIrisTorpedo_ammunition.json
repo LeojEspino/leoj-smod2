@@ -1,0 +1,41 @@
+{
+  "ItemType": 25,
+  "Id": 1000296,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 10.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 100.0,
+    "EnergyCost": 100.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000297,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "AudioClip": "se_enep02",
+      "Color": "#00000000",
+      "Size": 10.0,
+      "Lifetime": 0.5,
+      "Cooldown": 2.0
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 1000266,
+      "Quantity": 49,
+      "Size": 0.5,
+      "Cooldown": 2.0,
+      "RandomFactor": 1.0,
+      "PowerMultiplier": 0.5,
+      "Rotation": "RANDOM(0,360)"
+    }
+  ],
+  "ImpactType": 1
+}

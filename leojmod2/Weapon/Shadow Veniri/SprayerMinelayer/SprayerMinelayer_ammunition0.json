@@ -42,7 +42,8 @@
       "Ammunition": 1000116,
       "Color": "#FF8080",
       "ColorMode": 1,
-      "Cooldown": 0.2
+      "Cooldown": 0.5,
+      "PowerMultiplier": 2.5
     },
     {
       "Condition": 8,
@@ -50,7 +51,8 @@
       "Ammunition": 1000116,
       "Color": "#FF8080",
       "ColorMode": 1,
-      "Cooldown": 0.2,
+      "Cooldown": 0.5,
+      "PowerMultiplier": 2.5,
       "Rotation": "90"
     },
     {
@@ -59,7 +61,8 @@
       "Ammunition": 1000116,
       "Color": "#FF8080",
       "ColorMode": 1,
-      "Cooldown": 0.2,
+      "Cooldown": 0.5,
+      "PowerMultiplier": 2.5,
       "Rotation": "180"
     },
     {
@@ -68,7 +71,8 @@
       "Ammunition": 1000116,
       "Color": "#FF8080",
       "ColorMode": 1,
-      "Cooldown": 0.2,
+      "Cooldown": 0.5,
+      "PowerMultiplier": 2.5,
       "Rotation": "270"
     }
   ]

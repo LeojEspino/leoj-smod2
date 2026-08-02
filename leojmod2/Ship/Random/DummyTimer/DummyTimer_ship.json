@@ -1,0 +1,22 @@
+{
+  "ItemType": 6,
+  "Id": 53650,
+  "VisualEffects": {
+    "LeaveWreck": 2,
+    "CustomExplosionEffect": 1,
+    "CustomExplosionSound": "se_fault"
+  },
+  "ShipRarity": 3,
+  "SizeClass": -1,
+  "Name": "Don't Mind Me!",
+  "IconImage": "Dummy.png",
+  "IconScale": 1.0,
+  "ModelImage": "Dummy.png",
+  "ModelScale": 1.0,
+  "Layout": "222242555",
+  "Barrels": [
+    {}
+  ],
+  "ColliderTolerance": 1.0,
+  "BuiltinDevices": []
+}

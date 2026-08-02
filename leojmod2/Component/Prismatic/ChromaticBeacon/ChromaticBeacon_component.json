@@ -1,0 +1,10 @@
+{
+  "ItemType": 1,
+  "Id": 1000342,
+  "Name": "Chromatic Beacon",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 1,
+  "Faction": 10005,
+  "Icon": "star_circle.png",
+  "Layout": "1"
+}

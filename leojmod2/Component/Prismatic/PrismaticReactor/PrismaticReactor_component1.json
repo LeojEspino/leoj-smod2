@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1000309,
+  "Name": "Large Prismatic Reactor ",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1000309,
+  "Faction": 10005,
+  "Level": 400,
+  "Icon": "prismatic_reactor_2.png",
+  "Layout": "001100011110111111111111011110001100",
+  "CellType": "2"
+}

@@ -1,0 +1,54 @@
+{
+  "ItemType": 15,
+  "Id": 100073,
+  "StartCondition": 2,
+  "Weight": 1000.0,
+  "Requirement": {
+    "Type": 20,
+    "Faction": 10005
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "The Prismatics are engaging!",
+      "Enemy": 100073,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 3,
+          "ButtonText": ">>>"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "Retreat!"
+        }
+      ]
+    },
+    {
+      "Id": 998,
+      "Type": 42
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    },
+    {
+      "Id": 2,
+      "Type": 30,
+      "DefaultTransition": 998
+    },
+    {
+      "Id": 3,
+      "Type": 20,
+      "DefaultTransition": 4,
+      "FailureTransition": 2,
+      "Enemy": 100073
+    },
+    {
+      "Id": 4,
+      "Type": 25,
+      "DefaultTransition": 999
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 1000296,
+  "Name": "AI-Only Light Crusher",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "ionisation_ray.png",
+  "Layout": "1111111111111111",
+  "CellType": "4",
+  "DeviceId": 1000298,
+  "WeaponId": 1000263,
+  "AmmunitionId": 1000296,
+  "WeaponSlotType": "T"
+}

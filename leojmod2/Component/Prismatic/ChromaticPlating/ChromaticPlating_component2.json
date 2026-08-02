@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1000312,
+  "Name": "Heavy Chromatic Plating",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1000312,
+  "Faction": 10005,
+  "Level": 350,
+  "Icon": "chromatic_plating_S.png",
+  "Layout": "111111111",
+  "CellType": "1"
+}

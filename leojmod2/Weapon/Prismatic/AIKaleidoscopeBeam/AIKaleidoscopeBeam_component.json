@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 1000302,
+  "Name": "AI-Only Kaleidoscope Beam",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "harmonic_beam.png",
+  "Layout": "0111001110011100111001110",
+  "CellType": "4",
+  "DeviceId": 1000304,
+  "WeaponId": 1000236,
+  "AmmunitionId": 1000302,
+  "WeaponSlotType": "L"
+}

@@ -36,6 +36,7 @@
       "Condition": 1,
       "EffectType": 4,
       "VisualEffect": 2003,
+      "AudioClip": "deathmark_sfx",
       "Color": "#00000000",
       "Size": 1.0,
       "Lifetime": 0.5

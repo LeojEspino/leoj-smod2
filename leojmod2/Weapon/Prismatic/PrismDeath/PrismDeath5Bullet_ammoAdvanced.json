@@ -5,7 +5,8 @@
     "Size": 1.0,
     "Velocity": 20.0,
     "Range": 40.0,
-    "BulletPrefab": 2010
+    "BulletPrefab": 2010,
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {

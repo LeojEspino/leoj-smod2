@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 1000340,
+  "Name": "DummyTimer",
+  "Description": "Hey you aren't supposed to have this!!!",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 1000340,
+  "Icon": "Dummy.png",
+  "Layout": "1",
+  "CellType": "\u0000",
+  "DeviceId": 1000340
+}

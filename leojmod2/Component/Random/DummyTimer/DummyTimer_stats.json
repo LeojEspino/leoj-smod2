@@ -1,0 +1,12 @@
+{
+  "ItemType": 11,
+  "Id": 1000340,
+  "ArmorPoints": 1000000.0,
+  "ArmorRepairRate": 1000000.0,
+  "ArmorRepairCooldownModifier": -1.0,
+  "EnergyPoints": 1000000.0,
+  "EnergyRechargeRate": 1000000.0,
+  "Weight": 1000.0,
+  "EnginePower": 2000.0,
+  "TurnRate": 2000.0
+}

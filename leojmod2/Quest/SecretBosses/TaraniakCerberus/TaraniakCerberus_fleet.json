@@ -1,7 +1,7 @@
 {
   "ItemType": 18,
   "Id": 20020,
-  "LevelBonus": 100,
+  "LevelBonus": 150,
   "NoRandomShips": true,
   "SpecificShips": [
     200570

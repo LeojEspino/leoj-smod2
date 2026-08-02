@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1000310,
+  "Name": "Light Chromatic Plating",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1000310,
+  "Faction": 10005,
+  "Level": 300,
+  "Icon": "chromatic_plating_S.png",
+  "Layout": "1",
+  "CellType": "1"
+}

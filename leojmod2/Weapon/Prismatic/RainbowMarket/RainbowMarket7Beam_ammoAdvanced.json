@@ -17,7 +17,7 @@
       "Color": "#FF3232",
       "ColorMode": 1,
       "Size": 2.0,
-      "PowerMultiplier": 100.0,
+      "PowerMultiplier": 250.0,
       "Rotation": "0",
       "OffsetX": "0"
     },
@@ -28,7 +28,7 @@
       "Color": "#FFBB32",
       "ColorMode": 1,
       "Size": 2.0,
-      "PowerMultiplier": 100.0,
+      "PowerMultiplier": 250.0,
       "Rotation": "0",
       "OffsetX": "0"
     },
@@ -39,7 +39,7 @@
       "Color": "#BAFF32",
       "ColorMode": 1,
       "Size": 2.0,
-      "PowerMultiplier": 100.0,
+      "PowerMultiplier": 250.0,
       "Rotation": "0",
       "OffsetX": "0"
     },
@@ -50,7 +50,7 @@
       "Color": "#32FF32",
       "ColorMode": 1,
       "Size": 2.0,
-      "PowerMultiplier": 100.0,
+      "PowerMultiplier": 250.0,
       "Rotation": "0",
       "OffsetX": "0"
     },
@@ -61,7 +61,7 @@
       "Color": "#32FFBB",
       "ColorMode": 1,
       "Size": 2.0,
-      "PowerMultiplier": 100.0,
+      "PowerMultiplier": 250.0,
       "Rotation": "0",
       "OffsetX": "0"
     },
@@ -72,7 +72,7 @@
       "Color": "#32BAFF",
       "ColorMode": 1,
       "Size": 2.0,
-      "PowerMultiplier": 100.0,
+      "PowerMultiplier": 250.0,
       "Rotation": "0",
       "OffsetX": "0"
     },
@@ -83,7 +83,7 @@
       "Color": "#3232FF",
       "ColorMode": 1,
       "Size": 2.0,
-      "PowerMultiplier": 100.0,
+      "PowerMultiplier": 250.0,
       "Rotation": "0",
       "OffsetX": "0"
     },
@@ -94,7 +94,7 @@
       "Color": "#BB32FF",
       "ColorMode": 1,
       "Size": 2.0,
-      "PowerMultiplier": 100.0,
+      "PowerMultiplier": 250.0,
       "Rotation": "0",
       "OffsetX": "0"
     },
@@ -105,7 +105,7 @@
       "Color": "#FF32BA",
       "ColorMode": 1,
       "Size": 2.0,
-      "PowerMultiplier": 100.0,
+      "PowerMultiplier": 250.0,
       "Rotation": "0",
       "OffsetX": "0"
     }

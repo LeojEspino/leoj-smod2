@@ -1,0 +1,11 @@
+{
+  "ItemType": 1,
+  "Id": 1000341,
+  "Name": "DummyTimer2",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 1,
+  "Icon": "Dummy.png",
+  "Layout": "1",
+  "CellType": "\u0000",
+  "DeviceId": 1000341
+}

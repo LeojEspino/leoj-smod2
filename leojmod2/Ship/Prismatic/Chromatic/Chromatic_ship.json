@@ -28,5 +28,10 @@
       "WeaponClass": "B"
     }
   ],
+  "Features": {
+    "ShipWeightBonus": -0.5,
+    "VelocityBonus": 1.0,
+    "TurnRateBonus": 1.0
+  },
   "BuiltinDevices": []
 }

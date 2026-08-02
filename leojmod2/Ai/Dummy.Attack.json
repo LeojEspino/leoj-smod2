@@ -55,7 +55,10 @@
                 "MinValue": 0.5,
                 "MaxValue": 1.0
               },
-              {}
+              {
+                "Type": 111,
+                "Cooldown": 0.1
+              }
             ]
           },
           {

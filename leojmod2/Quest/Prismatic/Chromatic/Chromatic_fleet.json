@@ -1,0 +1,12 @@
+{
+  "ItemType": 18,
+  "Id": 100074,
+  "Factions": {},
+  "LevelBonus": 200,
+  "NoRandomShips": true,
+  "SpecificShips": [
+    1000114,
+    53650
+  ],
+  "CombatRules": 100074
+}

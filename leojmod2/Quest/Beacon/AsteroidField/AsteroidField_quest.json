@@ -16,6 +16,17 @@
           "ButtonText": ">>>"
         },
         {
+          "TargetNode": 4,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 30,
+              "ItemId": 100099
+            }
+          },
+          "ButtonText": "Use Stalker-X's Trispectrophyrs to mine for you"
+        },
+        {
           "TargetNode": 999,
           "ButtonText": "Nah"
         }

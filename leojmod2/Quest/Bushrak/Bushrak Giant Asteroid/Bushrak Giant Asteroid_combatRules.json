@@ -5,7 +5,6 @@
   "BattleMapSize": 100,
   "TimeLimit": "999",
   "LootCondition": 2,
-  "ExpCondition": 2,
   "DisableAsteroids": true,
   "DisablePlanet": true,
   "CustomSoundtrack": [

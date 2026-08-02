@@ -1,0 +1,37 @@
+{
+  "ItemType": 25,
+  "Id": 1000304,
+  "Body": {
+    "Size": 6.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 18.0,
+    "BulletPrefab": 100014
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "AudioClip": "se_ufo",
+      "Color": "#00000000",
+      "Size": 5.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000305,
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 10002,
+      "AudioClip": "se_focusfix",
+      "Color": "#00000000",
+      "Size": 10.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 1
+}

@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1000334,
+  "Name": "Rainbow Market",
+  "Description": "Doesn't do anything on it's own, but upon the ship's death, summons a temporary Chromatic to destroy the field!",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "star_icon.png",
+  "Layout": "1",
+  "CellType": "4",
+  "DeviceId": 1000334,
+  "WeaponId": 1000278,
+  "AmmunitionId": 1000334,
+  "WeaponSlotType": "B"
+}

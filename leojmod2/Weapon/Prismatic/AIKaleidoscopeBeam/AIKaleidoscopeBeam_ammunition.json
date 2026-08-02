@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 1000302,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true,
+    "Range": 50.0,
+    "Lifetime": 4.0,
+    "EnergyCost": 50.0,
+    "AiBulletBehavior": 2
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000236,
+      "Color": "#00000000",
+      "Quantity": 3,
+      "Rotation": "i*120"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000262,
+      "Color": "#00000000",
+      "Quantity": 3,
+      "Rotation": "i*120"
+    }
+  ],
+  "ImpactType": 1
+}

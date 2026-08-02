@@ -18,8 +18,8 @@
       "EffectType": 2,
       "Ammunition": 1000181,
       "Color": "#00000000",
-      "Quantity": 10,
-      "Cooldown": 0.05,
+      "Quantity": 5,
+      "Cooldown": 0.1,
       "Rotation": "RANDOM(0,360)",
       "OffsetX": "-20"
     },
