@@ -1,9 +1,10 @@
 {
   "ItemType": 6,
   "Id": 2000796,
+  "ShipRarity": 2,
   "SizeClass": 2,
   "Name": "Twilight",
-  "Faction": 1,
+  "Faction": 10001,
   "IconImage": "twilight.png",
   "IconScale": 1.0,
   "ModelImage": "twilight.png",
