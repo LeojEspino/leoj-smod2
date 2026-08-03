@@ -7,7 +7,11 @@
   "ComponentStatsId": 1000312,
   "Faction": 10005,
   "Level": 350,
-  "Icon": "chromatic_plating_S.png",
+  "Icon": "chromatic_plating_L.png",
   "Layout": "111111111",
-  "CellType": "1"
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    1
+  ]
 }

@@ -11,5 +11,13 @@
   "Layout": "0110111111110110",
   "CellType": "\u0000",
   "DroneBayId": 1000307,
-  "DroneId": 1000117
+  "DroneId": 1000117,
+  "PossibleModifications": [
+    17,
+    18,
+    20,
+    19,
+    2,
+    1
+  ]
 }

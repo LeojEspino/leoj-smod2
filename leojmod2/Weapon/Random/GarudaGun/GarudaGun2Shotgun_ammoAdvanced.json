@@ -1,0 +1,29 @@
+{
+  "ItemType": 25,
+  "Id": 1000344,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 30.0,
+    "Range": 20.0,
+    "Lifetime": 1.0,
+    "EnergyCost": 10.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "flandre_fire_swing",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1000343,
+      "Color": "#00000000",
+      "Quantity": 5,
+      "Rotation": "RANDOM(-10,10)",
+      "OffsetX": "RANDOM(-1,1)"
+    }
+  ],
+  "ImpactType": 1
+}

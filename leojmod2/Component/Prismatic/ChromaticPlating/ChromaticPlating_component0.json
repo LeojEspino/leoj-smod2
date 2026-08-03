@@ -9,5 +9,9 @@
   "Level": 300,
   "Icon": "chromatic_plating_S.png",
   "Layout": "1",
-  "CellType": "1"
+  "CellType": "1",
+  "PossibleModifications": [
+    3,
+    1
+  ]
 }

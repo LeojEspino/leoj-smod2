@@ -201,6 +201,130 @@
             ]
           },
           "Weight": 1.0
+        },
+        {
+          "TargetNode": 15,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 200571
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+        {
+          "TargetNode": 16,
+          "Requirement": {
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 26,
+                    "Loot": {
+                      "Type": 30,
+                      "ItemId": 1000104
+                    }
+                  }
+                ]
+              },
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 100045
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+		{
+          "TargetNode": 17,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 1000118
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+		{
+          "TargetNode": 18,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 1000120
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+		{
+          "TargetNode": 19,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 1000122
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+		{
+          "TargetNode": 20,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 1000124
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
+        },
+		{
+          "TargetNode": 21,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 1000126
+                }
+              }
+            ]
+          },
+          "Weight": 1.0
         }
       ]
     },
@@ -219,7 +343,7 @@
     {
       "Id": 7,
       "Type": 10,
-      "Message": "There is a Veniri Cruiser from a quest that appears in atleast 800 reputation. It is quite fast while having the same weaponry of Excalibur!",
+      "Message": "There is a Veniri Cruiser from a quest that appears in atleast 800 reputation. It is quite fast while having the same weaponry of Excalibur! It can also be used to find hidden stuff, try rummaging around in faction territory when you get this!",
       "Character": 5365,
       "Actions": [
         {
@@ -332,6 +456,118 @@
       "Id": 14,
       "Type": 10,
       "Message": "There is a Bushrak Capital Ship from a quest that appears in atleast 800 reputation. It's a bit weak for a capital but it has 4 unique destroyer hangar bays!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Type": 10,
+      "Message": "I hear there are rumors of a Creature eating ships in an organic faction's territory...",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+    {
+      "Id": 16,
+      "Type": 10,
+      "Message": "\"Hey remember that Pioneer you got? It's equipped with an experimental scanner, try visiting some Faction's territory with it!\"",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+	{
+      "Id": 17,
+      "Type": 10,
+      "Message": "There is a Cruiser you can randomly encounter in beacons beyond 100 LY! It looks like a mix between a bird and a Falcon!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+	{
+      "Id": 18,
+      "Type": 10,
+      "Message": "There is a Capital Ship you can randomly encounter in beacons beyond 100 LY! It has alot of weapon slots at this point but its all broadside!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+	{
+      "Id": 19,
+      "Type": 10,
+      "Message": "There is a Battleship you can randomly encounter in beacons beyond 150 LY! It's got quite a large frontal slot with 2 large side weapon slots too!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+	{
+      "Id": 20,
+      "Type": 10,
+      "Message": "There is a Battleship you can randomly encounter in beacons beyond 200 LY! It's quite fast and holds 2 massive weapon slots, but it's a bit fragile!",
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Another hint?"
+        },
+        {
+          "TargetNode": 2,
+          "ButtonText": "K cool"
+        }
+      ]
+    },
+	{
+      "Id": 21,
+      "Type": 10,
+      "Message": "There is a Capital Ship you can randomly encounter in beacons beyond 250 LY! It looks like a giant bird, most of it's weaponry is on it's backside!",
       "Character": 5365,
       "Actions": [
         {

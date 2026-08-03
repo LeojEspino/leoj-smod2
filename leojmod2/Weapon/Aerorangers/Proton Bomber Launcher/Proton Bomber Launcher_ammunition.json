@@ -4,11 +4,13 @@
   "Body": {
     "Size": 0.5,
     "Velocity": 15.0,
+    "Range": 100.0,
     "Lifetime": 10.0,
     "Weight": 0.25,
     "HitPoints": 40,
     "BulletPrefab": 20003,
-    "EnergyCost": 25.0
+    "EnergyCost": 25.0,
+    "AiBulletBehavior": 1
   },
   "Controller": {
     "Type": 1,

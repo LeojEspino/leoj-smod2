@@ -1,0 +1,51 @@
+{
+  "ItemType": 6,
+  "Id": 1000118,
+  "SizeClass": 2,
+  "Name": "Eagle",
+  "IconImage": "FalconREXi.png",
+  "IconScale": 1.0,
+  "ModelImage": "FalconREXm.png",
+  "ModelScale": 1.6,
+  "EngineColor": "#40FFA4D6",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.75
+      },
+      "Size": 0.3
+    }
+  ],
+  "Layout": "0000001000000000001110000000000131000000000033300000014003330041001400333004104340033300434434333333343443333333333344333355533334013355555331000105555501000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.3,
+        "y": 0.7
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.7
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.1,
+        "y": 0.9
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.1,
+        "y": -0.9
+      },
+      "WeaponClass": "CL"
+    }
+  ],
+  "BuiltinDevices": []
+}

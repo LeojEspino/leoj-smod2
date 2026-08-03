@@ -1,5 +1,19 @@
 {
   "ItemType": 107,
+  "BeatAllEnemiesFactionList": [
+    1,
+    10,
+    11,
+    13,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
   "FuelTankCapacity": "BaseFuelCapacity + 90*level",
   "ExperienceBonus": "0.25*level",
   "FlightSpeed": "BaseFlightSpeed + 2.0*level",

@@ -9,5 +9,10 @@
   "Level": 350,
   "Icon": "prismatic_reactor.png",
   "Layout": "0010001110111110111000100",
-  "CellType": "2"
+  "CellType": "2",
+  "PossibleModifications": [
+    9,
+    12,
+    1
+  ]
 }

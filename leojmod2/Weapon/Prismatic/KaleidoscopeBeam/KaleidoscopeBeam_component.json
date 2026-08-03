@@ -13,5 +13,12 @@
   "DeviceId": 1000247,
   "WeaponId": 1000236,
   "AmmunitionId": 1000261,
-  "WeaponSlotType": "L"
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
 }

@@ -2,9 +2,11 @@
   "ItemType": 1,
   "Id": 1000342,
   "Name": "Chromatic Beacon",
+  "Description": "Go to a Prismatic's starbase and interact with the Faction Mission to summon a special ship.",
   "DisplayCategory": 6,
   "ComponentStatsId": 1,
   "Faction": 10005,
   "Icon": "star_circle.png",
-  "Layout": "1"
+  "Layout": "1",
+  "CellType": "\u0000"
 }

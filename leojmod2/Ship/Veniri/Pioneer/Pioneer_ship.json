@@ -4,6 +4,7 @@
   "ShipRarity": 3,
   "SizeClass": 2,
   "Name": "Pioneer",
+  "Description": "This ship is equipped with an experimental scanner. It may be worth visiting factions with it....",
   "Faction": 1,
   "IconImage": "pioneer.png",
   "IconScale": 1.0,

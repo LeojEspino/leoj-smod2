@@ -12,5 +12,10 @@
   "Color": "#00FF00",
   "Layout": "1111",
   "CellType": "2",
-  "DeviceId": 1000303
+  "DeviceId": 1000303,
+  "PossibleModifications": [
+    6,
+    2,
+    1
+  ]
 }

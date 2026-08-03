@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 1000343,
+  "Name": "Garuda Feather Maker",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Level": 80,
+  "Icon": "cannon2.png",
+  "Color": "#7F3300",
+  "Layout": "0100010001000100",
+  "CellType": "4",
+  "WeaponId": 1000343,
+  "AmmunitionId": 1000344,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

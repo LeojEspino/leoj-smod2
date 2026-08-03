@@ -4,6 +4,7 @@
   "Body": {
     "Size": 2.0,
     "ParentVelocityEffect": 0.1,
+    "Range": 100.0,
     "Lifetime": 0.5,
     "BulletPrefab": 20001,
     "EnergyCost": 5.0,

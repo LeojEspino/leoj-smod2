@@ -45,6 +45,51 @@
         {
           "TargetNode": 23,
           "Weight": 1.0
+        },
+		{
+          "TargetNode": 27,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 100,
+            "MaxValue": 10000
+          },
+          "Weight": 1.0
+        },
+		{
+          "TargetNode": 31,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 100,
+            "MaxValue": 10000
+          },
+          "Weight": 1.0
+        },
+		{
+          "TargetNode": 35,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 150,
+            "MaxValue": 10000
+          },
+          "Weight": 1.0
+        },
+		{
+          "TargetNode": 39,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 200,
+            "MaxValue": 10000
+          },
+          "Weight": 1.0
+        },
+		{
+          "TargetNode": 43,
+          "Requirement": {
+            "Type": 6,
+            "MinValue": 250,
+            "MaxValue": 10000
+          },
+          "Weight": 1.0
         }
       ]
     },
@@ -322,6 +367,221 @@
       "Type": 35,
       "DefaultTransition": 999,
       "Loot": 100062
+    },
+	{
+      "Id": 27,
+      "Type": 10,
+      "Message": "A special ship appeared!",
+      "Enemy": 100076,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 28,
+          "ButtonText": "ATTACK!"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "HECK NAW!"
+        }
+      ]
+    },
+    {
+      "Id": 28,
+      "Type": 20,
+      "DefaultTransition": 29,
+      "FailureTransition": 2,
+      "Enemy": 100076
+    },
+    {
+      "Id": 29,
+      "Type": 10,
+      "Message": "Nice you beaten them!",
+      "Loot": 100076,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 30,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 30,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100076
+    },
+	{
+      "Id": 31,
+      "Type": 10,
+      "Message": "A special ship appeared!",
+      "Enemy": 100077,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 32,
+          "ButtonText": "ATTACK!"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "HECK NAW!"
+        }
+      ]
+    },
+    {
+      "Id": 32,
+      "Type": 20,
+      "DefaultTransition": 33,
+      "FailureTransition": 2,
+      "Enemy": 100077
+    },
+    {
+      "Id": 33,
+      "Type": 10,
+      "Message": "Nice you beaten them!",
+      "Loot": 100077,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 34,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 34,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100077
+    },
+	{
+      "Id": 35,
+      "Type": 10,
+      "Message": "A special ship appeared!",
+      "Enemy": 100078,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 36,
+          "ButtonText": "ATTACK!"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "HECK NAW!"
+        }
+      ]
+    },
+    {
+      "Id": 36,
+      "Type": 20,
+      "DefaultTransition": 37,
+      "FailureTransition": 2,
+      "Enemy": 100078
+    },
+    {
+      "Id": 37,
+      "Type": 10,
+      "Message": "Nice you beaten them!",
+      "Loot": 100078,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 38,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 38,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100078
+    },
+	{
+      "Id": 39,
+      "Type": 10,
+      "Message": "A special ship appeared!",
+      "Enemy": 100079,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 40,
+          "ButtonText": "ATTACK!"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "HECK NAW!"
+        }
+      ]
+    },
+    {
+      "Id": 40,
+      "Type": 20,
+      "DefaultTransition": 41,
+      "FailureTransition": 2,
+      "Enemy": 100079
+    },
+    {
+      "Id": 41,
+      "Type": 10,
+      "Message": "Nice you beaten them!",
+      "Loot": 100079,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 42,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 42,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100079
+    },
+	{
+      "Id": 43,
+      "Type": 10,
+      "Message": "A special ship appeared!",
+      "Enemy": 100080,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 44,
+          "ButtonText": "ATTACK!"
+        },
+        {
+          "TargetNode": 999,
+          "ButtonText": "HECK NAW!"
+        }
+      ]
+    },
+    {
+      "Id": 44,
+      "Type": 20,
+      "DefaultTransition": 45,
+      "FailureTransition": 2,
+      "Enemy": 100080
+    },
+    {
+      "Id": 45,
+      "Type": 10,
+      "Message": "Nice you beaten them!",
+      "Loot": 100080,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 46,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 46,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100080
     }
   ]
 }
