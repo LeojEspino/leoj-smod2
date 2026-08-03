@@ -46,7 +46,7 @@
           "TargetNode": 23,
           "Weight": 1.0
         },
-		{
+        {
           "TargetNode": 27,
           "Requirement": {
             "Type": 6,
@@ -55,7 +55,7 @@
           },
           "Weight": 1.0
         },
-		{
+        {
           "TargetNode": 31,
           "Requirement": {
             "Type": 6,
@@ -64,7 +64,7 @@
           },
           "Weight": 1.0
         },
-		{
+        {
           "TargetNode": 35,
           "Requirement": {
             "Type": 6,
@@ -73,7 +73,7 @@
           },
           "Weight": 1.0
         },
-		{
+        {
           "TargetNode": 39,
           "Requirement": {
             "Type": 6,
@@ -82,7 +82,7 @@
           },
           "Weight": 1.0
         },
-		{
+        {
           "TargetNode": 43,
           "Requirement": {
             "Type": 6,
@@ -368,7 +368,7 @@
       "DefaultTransition": 999,
       "Loot": 100062
     },
-	{
+    {
       "Id": 27,
       "Type": 10,
       "Message": "A special ship appeared!",
@@ -411,7 +411,7 @@
       "DefaultTransition": 999,
       "Loot": 100076
     },
-	{
+    {
       "Id": 31,
       "Type": 10,
       "Message": "A special ship appeared!",
@@ -454,7 +454,7 @@
       "DefaultTransition": 999,
       "Loot": 100077
     },
-	{
+    {
       "Id": 35,
       "Type": 10,
       "Message": "A special ship appeared!",
@@ -497,7 +497,7 @@
       "DefaultTransition": 999,
       "Loot": 100078
     },
-	{
+    {
       "Id": 39,
       "Type": 10,
       "Message": "A special ship appeared!",
@@ -540,7 +540,7 @@
       "DefaultTransition": 999,
       "Loot": 100079
     },
-	{
+    {
       "Id": 43,
       "Type": 10,
       "Message": "A special ship appeared!",

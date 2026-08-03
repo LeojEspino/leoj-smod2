@@ -12,7 +12,7 @@
   "Controller": {
     "Type": 3,
     "StartingVelocityModifier": 0.1,
-    "Size": "20 - COS( DEG2RAD( t * 180 + 200 ) )",
+    "Size": "1 - COS( DEG2RAD( t * 180 + 200 ) )",
     "Length": "200"
   },
   "Triggers": [
