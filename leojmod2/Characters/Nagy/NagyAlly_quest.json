@@ -1,0 +1,32 @@
+{
+  "ItemType": 15,
+  "Id": 200772,
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Level": 250,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "alright alright , 250ly ? well done ! take me with you bro ..",
+      "Loot": 20002,
+      "Character": 2004,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 200772
+    },
+    {
+      "Id": 999,
+      "Type": 40
+    }
+  ]
+}
