@@ -246,7 +246,7 @@
           },
           "Weight": 1.0
         },
-		{
+        {
           "TargetNode": 17,
           "Requirement": {
             "Type": 3,
@@ -262,7 +262,7 @@
           },
           "Weight": 1.0
         },
-		{
+        {
           "TargetNode": 18,
           "Requirement": {
             "Type": 3,
@@ -278,7 +278,7 @@
           },
           "Weight": 1.0
         },
-		{
+        {
           "TargetNode": 19,
           "Requirement": {
             "Type": 3,
@@ -294,7 +294,7 @@
           },
           "Weight": 1.0
         },
-		{
+        {
           "TargetNode": 20,
           "Requirement": {
             "Type": 3,
@@ -310,7 +310,7 @@
           },
           "Weight": 1.0
         },
-		{
+        {
           "TargetNode": 21,
           "Requirement": {
             "Type": 3,
@@ -500,7 +500,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 17,
       "Type": 10,
       "Message": "There is a Cruiser you can randomly encounter in beacons beyond 100 LY! It looks like a mix between a bird and a Falcon!",
@@ -516,7 +516,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 18,
       "Type": 10,
       "Message": "There is a Capital Ship you can randomly encounter in beacons beyond 100 LY! It has alot of weapon slots at this point but its all broadside!",
@@ -532,7 +532,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 19,
       "Type": 10,
       "Message": "There is a Battleship you can randomly encounter in beacons beyond 150 LY! It's got quite a large frontal slot with 2 large side weapon slots too!",
@@ -548,7 +548,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 20,
       "Type": 10,
       "Message": "There is a Battleship you can randomly encounter in beacons beyond 200 LY! It's quite fast and holds 2 massive weapon slots, but it's a bit fragile!",
@@ -564,7 +564,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 21,
       "Type": 10,
       "Message": "There is a Capital Ship you can randomly encounter in beacons beyond 250 LY! It looks like a giant bird, most of it's weaponry is on it's backside!",
