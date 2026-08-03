@@ -21,7 +21,7 @@
 		"Aptos",
 		"Open Sans"
 	],
-	"ActiveTheme": 12,	// index starts with 0, then 1,2....
+	"ActiveTheme": 013,	// index starts with 0, then 1,2....
 	"Themes": [
 		// Default dark DBE theme
 		// Do not delete

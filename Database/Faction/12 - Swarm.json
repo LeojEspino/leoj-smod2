@@ -1,7 +1,7 @@
 {
   "ItemType": 14,
   "Id": 12,
-  "Name": "Swarm Nest",
+  "Name": "Swarm",
   "Color": "#947D43",
   "HomeStarDistance": 250,
   "WanderingShipsDistance": 200,
