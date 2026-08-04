@@ -6,8 +6,11 @@
   "Availability": 3,
   "ComponentStatsId": 1,
   "Icon": "nagy.png",
-  "Layout": "1",
+  "Layout": "0",
   "CellType": "\u0000",
   "DroneBayId": 2001,
-  "DroneId": 2008892
+  "DroneId": 2008892,
+  "Restrictions": {
+    "ComponentGroupTag": 200287
+  }
 }

@@ -10,7 +10,7 @@
   "CustomAI": 0,
   "Components": [
     {
-      "ComponentId": 100022,
+      "ComponentId": 152,
       "Modification": 0,
       "Quality": 0,
       "X": 5,
@@ -134,16 +134,6 @@
       "Modification": 0,
       "Quality": 0,
       "X": 3,
-      "Y": 9,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 77,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 5,
       "Y": 9,
       "BarrelId": -1,
       "Behaviour": 0,

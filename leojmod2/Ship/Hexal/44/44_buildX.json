@@ -10,14 +10,14 @@
   "CustomAI": 0,
   "Components": [
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 5,
       "Y": 1,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 10006,
@@ -27,17 +27,17 @@
       "Y": 1,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 11,
+      "ComponentId": 10004,
       "Modification": 0,
       "Quality": 0,
       "X": 9,
       "Y": 1,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 10006,
@@ -47,17 +47,17 @@
       "Y": 1,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 14,
       "Y": 1,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 74,
@@ -67,17 +67,17 @@
       "Y": 2,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 0
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 5,
       "Y": 2,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 74,
@@ -87,37 +87,37 @@
       "Y": 2,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 0
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 14,
       "Y": 2,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 9,
       "Y": 3,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 10,
       "Y": 3,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 74,
@@ -127,17 +127,37 @@
       "Y": 4,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 0
     },
     {
-      "ComponentId": 100030,
+      "ComponentId": 67,
       "Modification": 0,
       "Quality": 0,
       "X": 5,
       "Y": 4,
       "BarrelId": 0,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 6,
+      "Y": 4,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 7,
+      "Y": 4,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": 1
     },
     {
       "ComponentId": 71,
@@ -147,7 +167,7 @@
       "Y": 4,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 71,
@@ -157,17 +177,37 @@
       "Y": 4,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 100030,
+      "ComponentId": 67,
       "Modification": 0,
       "Quality": 0,
       "X": 12,
       "Y": 4,
       "BarrelId": 1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 13,
+      "Y": 4,
+      "BarrelId": 1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 14,
+      "Y": 4,
+      "BarrelId": 1,
+      "Behaviour": 0,
+      "KeyBinding": 1
     },
     {
       "ComponentId": 74,
@@ -177,74 +217,64 @@
       "Y": 4,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 0
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 5,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 100022,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 6,
+      "Y": 5,
+      "BarrelId": 0,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 100022,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 12,
+      "Y": 5,
+      "BarrelId": 1,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 14,
+      "Y": 5,
+      "BarrelId": 1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 2,
       "Y": 6,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 66,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 8,
-      "Y": 6,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 66,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 10,
-      "Y": 6,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 12,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 17,
-      "Y": 6,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 12,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 1,
-      "Y": 7,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 12,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 2,
-      "Y": 7,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 71,
+      "ComponentId": 74,
       "Modification": 0,
       "Quality": 0,
       "X": 3,
-      "Y": 7,
+      "Y": 6,
       "BarrelId": -1,
       "Behaviour": 0,
       "KeyBinding": 0
@@ -254,47 +284,37 @@
       "Modification": 0,
       "Quality": 0,
       "X": 5,
-      "Y": 7,
-      "BarrelId": -1,
+      "Y": 6,
+      "BarrelId": 0,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 67,
+      "ComponentId": 71,
       "Modification": 0,
       "Quality": 0,
-      "X": 6,
-      "Y": 7,
+      "X": 8,
+      "Y": 6,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 67,
+      "ComponentId": 71,
       "Modification": 0,
       "Quality": 0,
-      "X": 7,
-      "Y": 7,
+      "X": 10,
+      "Y": 6,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 67,
+      "ComponentId": 74,
       "Modification": 0,
       "Quality": 0,
-      "X": 12,
-      "Y": 7,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 67,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 13,
-      "Y": 7,
+      "X": 14,
+      "Y": 6,
       "BarrelId": -1,
       "Behaviour": 0,
       "KeyBinding": 0
@@ -304,90 +324,170 @@
       "Modification": 0,
       "Quality": 0,
       "X": 14,
-      "Y": 7,
-      "BarrelId": -1,
+      "Y": 6,
+      "BarrelId": 1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 71,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
-      "X": 15,
+      "X": 17,
+      "Y": 6,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10003,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 1,
       "Y": 7,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 2,
+      "Y": 7,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 69,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 6,
+      "Y": 7,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 69,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 7,
+      "Y": 7,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 69,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 12,
+      "Y": 7,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 69,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 13,
+      "Y": 7,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 17,
       "Y": 7,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 18,
       "Y": 7,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 10006,
+      "ComponentId": 10004,
       "Modification": 0,
       "Quality": 0,
       "X": 0,
       "Y": 8,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 100044,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
-      "X": 4,
+      "X": 2,
+      "Y": 8,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 78,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 3,
+      "Y": 8,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 100024,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
       "Y": 8,
       "BarrelId": 2,
       "Behaviour": 0,
       "KeyBinding": 0
     },
     {
-      "ComponentId": 56,
+      "ComponentId": 57,
       "Modification": 0,
       "Quality": 0,
       "X": 7,
       "Y": 8,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 100044,
+      "ComponentId": 100036,
       "Modification": 0,
       "Quality": 0,
-      "X": 7,
+      "X": 8,
       "Y": 8,
       "BarrelId": 3,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 100044,
+      "ComponentId": 67,
       "Modification": 0,
       "Quality": 0,
-      "X": 9,
+      "X": 11,
       "Y": 8,
       "BarrelId": 3,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 56,
@@ -397,57 +497,147 @@
       "Y": 8,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 100044,
+      "ComponentId": 100024,
       "Modification": 0,
       "Quality": 0,
-      "X": 12,
+      "X": 13,
       "Y": 8,
       "BarrelId": 4,
       "Behaviour": 0,
       "KeyBinding": 0
     },
     {
-      "ComponentId": 10006,
+      "ComponentId": 78,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 16,
+      "Y": 8,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 17,
       "Y": 8,
       "BarrelId": -1,
       "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10004,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 18,
+      "Y": 8,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 74,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 2,
+      "Y": 9,
+      "BarrelId": -1,
+      "Behaviour": 0,
       "KeyBinding": 0
     },
     {
-      "ComponentId": 71,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
-      "X": 3,
+      "X": 2,
       "Y": 9,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 71,
+      "ComponentId": 78,
       "Modification": 0,
       "Quality": 0,
-      "X": 15,
+      "X": 4,
       "Y": 9,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
     },
     {
       "ComponentId": 56,
       "Modification": 0,
       "Quality": 0,
       "X": 7,
+      "Y": 9,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 11,
+      "Y": 9,
+      "BarrelId": 3,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 74,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 15,
+      "Y": 9,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 78,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 15,
+      "Y": 9,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10003,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 17,
+      "Y": 9,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10004,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 0,
       "Y": 10,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 66,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 10,
+      "BarrelId": 2,
+      "Behaviour": 0,
+      "KeyBinding": 1
     },
     {
       "ComponentId": 100013,
@@ -457,27 +647,47 @@
       "Y": 10,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 67,
       "Modification": 0,
       "Quality": 0,
-      "X": 0,
+      "X": 11,
+      "Y": 10,
+      "BarrelId": 3,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 66,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 13,
+      "Y": 10,
+      "BarrelId": 4,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10004,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 18,
+      "Y": 10,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10003,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 2,
       "Y": 11,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 11,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 1,
-      "Y": 11,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 74,
@@ -487,17 +697,57 @@
       "Y": 11,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 56,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 7,
+      "Y": 11,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
     },
     {
       "ComponentId": 67,
       "Modification": 0,
       "Quality": 0,
-      "X": 3,
+      "X": 8,
       "Y": 11,
-      "BarrelId": -1,
+      "BarrelId": 3,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 9,
+      "Y": 11,
+      "BarrelId": 3,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 10,
+      "Y": 11,
+      "BarrelId": 3,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 11,
+      "Y": 11,
+      "BarrelId": 3,
+      "Behaviour": 0,
+      "KeyBinding": 1
     },
     {
       "ComponentId": 74,
@@ -507,47 +757,47 @@
       "Y": 11,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
-    },
-    {
-      "ComponentId": 67,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 16,
-      "Y": 11,
-      "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 0
     },
     {
-      "ComponentId": 11,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 17,
       "Y": 11,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
-      "X": 19,
-      "Y": 11,
+      "X": 1,
+      "Y": 12,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 59,
+      "ComponentId": 10003,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 2,
+      "Y": 12,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 57,
       "Modification": 0,
       "Quality": 0,
       "X": 6,
       "Y": 12,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
     },
     {
       "ComponentId": 61,
@@ -557,30 +807,50 @@
       "Y": 12,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 17,
+      "Y": 12,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10003,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 18,
+      "Y": 12,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 2,
       "Y": 13,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 67,
+      "ComponentId": 78,
       "Modification": 0,
       "Quality": 0,
       "X": 3,
       "Y": 13,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 100036,
+      "ComponentId": 67,
       "Modification": 0,
       "Quality": 0,
       "X": 5,
@@ -590,6 +860,16 @@
       "KeyBinding": 1
     },
     {
+      "ComponentId": 100034,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 6,
+      "Y": 13,
+      "BarrelId": 5,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
       "ComponentId": 56,
       "Modification": 0,
       "Quality": 0,
@@ -597,7 +877,7 @@
       "Y": 13,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
     },
     {
       "ComponentId": 100034,
@@ -617,47 +897,67 @@
       "Y": 13,
       "BarrelId": 6,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 67,
+      "ComponentId": 78,
       "Modification": 0,
       "Quality": 0,
       "X": 16,
       "Y": 13,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 17,
       "Y": 13,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 2,
       "Y": 14,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 71,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 3,
       "Y": 14,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 78,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 4,
+      "Y": 14,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 14,
+      "BarrelId": 5,
+      "Behaviour": 0,
+      "KeyBinding": 1
     },
     {
       "ComponentId": 67,
@@ -667,27 +967,77 @@
       "Y": 14,
       "BarrelId": 6,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 71,
+      "ComponentId": 78,
       "Modification": 0,
       "Quality": 0,
       "X": 15,
       "Y": 14,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 16,
+      "Y": 14,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 17,
       "Y": 14,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 71,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 3,
+      "Y": 15,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 5,
+      "Y": 15,
+      "BarrelId": 5,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 6,
+      "Y": 15,
+      "BarrelId": 5,
+      "Behaviour": 0,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 67,
+      "Modification": 0,
+      "Quality": 0,
+      "X": 7,
+      "Y": 15,
+      "BarrelId": 5,
+      "Behaviour": 0,
+      "KeyBinding": 1
     },
     {
       "ComponentId": 71,
@@ -697,7 +1047,7 @@
       "Y": 15,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 71,
@@ -707,7 +1057,7 @@
       "Y": 15,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 67,
@@ -717,7 +1067,7 @@
       "Y": 15,
       "BarrelId": 6,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 67,
@@ -727,7 +1077,7 @@
       "Y": 15,
       "BarrelId": 6,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 67,
@@ -737,27 +1087,17 @@
       "Y": 15,
       "BarrelId": 6,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 71,
       "Modification": 0,
       "Quality": 0,
-      "X": 3,
-      "Y": 16,
+      "X": 15,
+      "Y": 15,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 12,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 4,
-      "Y": 16,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 10006,
@@ -767,7 +1107,7 @@
       "Y": 16,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
     },
     {
       "ComponentId": 10006,
@@ -777,37 +1117,17 @@
       "Y": 16,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 2
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 15,
-      "Y": 16,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 12,
-      "Modification": 0,
-      "Quality": 0,
-      "X": 16,
-      "Y": 16,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
-    },
-    {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 4,
       "Y": 17,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 10004,
@@ -817,7 +1137,7 @@
       "Y": 17,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
       "ComponentId": 10004,
@@ -827,17 +1147,17 @@
       "Y": 17,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     },
     {
-      "ComponentId": 12,
+      "ComponentId": 10003,
       "Modification": 0,
       "Quality": 0,
       "X": 15,
       "Y": 17,
       "BarrelId": -1,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": 1
     }
   ],
   "NotAvailableInGame": false,

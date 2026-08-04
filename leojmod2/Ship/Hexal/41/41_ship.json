@@ -23,5 +23,9 @@
       "WeaponClass": "CT"
     }
   ],
+  "Features": {
+    "ShipWeightBonus": -0.25,
+    "ArmorBonus": -0.25
+  },
   "BuiltinDevices": []
 }
