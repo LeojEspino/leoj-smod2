@@ -7,6 +7,7 @@
     "AttachedToParent": true,
     "Range": 50.0,
     "Lifetime": 3.0,
+    "EnergyCost": 100.0,
     "AiBulletBehavior": 3
   },
   "Triggers": [

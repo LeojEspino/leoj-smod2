@@ -5,9 +5,19 @@
   "StartCondition": 6,
   "Weight": 1.0,
   "Requirement": {
-    "Type": 6,
-    "MinValue": 300,
-    "MaxValue": 10000
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 6,
+        "MinValue": 300,
+        "MaxValue": 10000
+      },
+      {
+        "Type": 25,
+        "ItemId": 10004,
+        "MinValue": 1
+      }
+    ]
   },
   "Nodes": [
     {

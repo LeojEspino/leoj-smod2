@@ -6,88 +6,261 @@
     {
       "Id": 1,
       "Type": 16,
+      "DefaultTransition": 47,
       "Transitions": [
         {
           "TargetNode": 3,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 10001
+                }
+              }
+            ]
+          },
           "Weight": 1.0
         },
         {
           "TargetNode": 7,
           "Requirement": {
-            "Type": 6,
-            "MinValue": 50,
-            "MaxValue": 10000
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 6,
+                "MinValue": 50,
+                "MaxValue": 10000
+              },
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 26,
+                    "Loot": {
+                      "Type": 30,
+                      "ItemId": 10004
+                    }
+                  }
+                ]
+              }
+            ]
           },
           "Weight": 1.0
         },
         {
           "TargetNode": 11,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 100093
+                }
+              }
+            ]
+          },
           "Weight": 1.0
         },
         {
           "TargetNode": 15,
           "Requirement": {
-            "Type": 6,
-            "MinValue": 50,
-            "MaxValue": 10000
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 6,
+                "MinValue": 50,
+                "MaxValue": 10000
+              },
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 26,
+                    "Loot": {
+                      "Type": 30,
+                      "ItemId": 100091
+                    }
+                  }
+                ]
+              }
+            ]
           },
           "Weight": 1.0
         },
         {
           "TargetNode": 19,
           "Requirement": {
-            "Type": 6,
-            "MinValue": 150,
-            "MaxValue": 10000
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 6,
+                "MinValue": 150,
+                "MaxValue": 10000
+              },
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 26,
+                    "Loot": {
+                      "Type": 30,
+                      "ItemId": 100097
+                    }
+                  }
+                ]
+              }
+            ]
           },
           "Weight": 1.0
         },
         {
           "TargetNode": 23,
+          "Requirement": {
+            "Type": 3,
+            "Requirements": [
+              {
+                "Type": 26,
+                "Loot": {
+                  "Type": 30,
+                  "ItemId": 100095
+                }
+              }
+            ]
+          },
           "Weight": 1.0
         },
         {
           "TargetNode": 27,
           "Requirement": {
-            "Type": 6,
-            "MinValue": 100,
-            "MaxValue": 10000
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 6,
+                "MinValue": 100,
+                "MaxValue": 10000
+              },
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 26,
+                    "Loot": {
+                      "Type": 30,
+                      "ItemId": 1000118
+                    }
+                  }
+                ]
+              }
+            ]
           },
           "Weight": 1.0
         },
         {
           "TargetNode": 31,
           "Requirement": {
-            "Type": 6,
-            "MinValue": 100,
-            "MaxValue": 10000
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 6,
+                "MinValue": 100,
+                "MaxValue": 10000
+              },
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 26,
+                    "Loot": {
+                      "Type": 30,
+                      "ItemId": 1000120
+                    }
+                  }
+                ]
+              }
+            ]
           },
           "Weight": 1.0
         },
         {
           "TargetNode": 35,
           "Requirement": {
-            "Type": 6,
-            "MinValue": 150,
-            "MaxValue": 10000
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 6,
+                "MinValue": 150,
+                "MaxValue": 10000
+              },
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 26,
+                    "Loot": {
+                      "Type": 30,
+                      "ItemId": 1000122
+                    }
+                  }
+                ]
+              }
+            ]
           },
           "Weight": 1.0
         },
         {
           "TargetNode": 39,
           "Requirement": {
-            "Type": 6,
-            "MinValue": 200,
-            "MaxValue": 10000
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 6,
+                "MinValue": 200,
+                "MaxValue": 10000
+              },
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 26,
+                    "Loot": {
+                      "Type": 30,
+                      "ItemId": 1000124
+                    }
+                  }
+                ]
+              }
+            ]
           },
           "Weight": 1.0
         },
         {
           "TargetNode": 43,
           "Requirement": {
-            "Type": 6,
-            "MinValue": 250,
-            "MaxValue": 10000
+            "Type": 2,
+            "Requirements": [
+              {
+                "Type": 6,
+                "MinValue": 250,
+                "MaxValue": 10000
+              },
+              {
+                "Type": 3,
+                "Requirements": [
+                  {
+                    "Type": 26,
+                    "Loot": {
+                      "Type": 30,
+                      "ItemId": 1000126
+                    }
+                  }
+                ]
+              }
+            ]
           },
           "Weight": 1.0
         }
@@ -582,6 +755,25 @@
       "Type": 35,
       "DefaultTransition": 999,
       "Loot": 100080
+    },
+    {
+      "Id": 47,
+      "Type": 10,
+      "Message": "Oh um, there aren't any more available unique ships over here! Either you already grabbed them all or you need to progress further! Here's some money though!",
+      "Loot": 100081,
+      "Character": 5365,
+      "Actions": [
+        {
+          "TargetNode": 48,
+          "ButtonText": ">>>"
+        }
+      ]
+    },
+    {
+      "Id": 48,
+      "Type": 35,
+      "DefaultTransition": 999,
+      "Loot": 100081
     }
   ]
 }

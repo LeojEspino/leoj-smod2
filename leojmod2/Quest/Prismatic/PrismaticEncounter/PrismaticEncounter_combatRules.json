@@ -1,7 +1,6 @@
 {
   "ItemType": 30,
   "Id": 100073,
-  "TimeLimit": "MAX(1, 100 - level)",
   "CustomSoundtrack": [
     {
       "Audio": "Lunar Rainbow"

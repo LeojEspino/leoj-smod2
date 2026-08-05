@@ -1,7 +1,6 @@
 {
   "ItemType": 30,
   "Id": 1,
-  "TimeLimit": "MAX(1, 100 - level)",
   "CustomSoundtrack": [
     {
       "Audio": "Night Sakura of Dead Spirits"

@@ -1,7 +1,6 @@
 {
   "ItemType": 30,
   "Id": 100069,
-  "TimeLimit": "MAX(1, 100 - level)",
   "LootCondition": 2,
   "CustomSoundtrack": [
     {
