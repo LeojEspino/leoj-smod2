@@ -1,0 +1,42 @@
+{
+  "ItemType": 6,
+  "Id": 200140,
+  "Name": "Hitman",
+  "Faction": 2010,
+  "IconImage": "hitman.png",
+  "IconScale": 1.0,
+  "ModelImage": "hitman.png",
+  "ModelScale": 1.4,
+  "EngineColor": "#40FFF096",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000000000000000000000001100000003333000400322300441122221144335555334422555522400050050000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.0888889,
+        "y": 0.9
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.0888889,
+        "y": -0.9
+      },
+      "WeaponClass": "CL"
+    }
+  ],
+  "Features": {
+    "BuiltinDevices": [
+      3
+    ]
+  },
+  "BuiltinDevices": []
+}

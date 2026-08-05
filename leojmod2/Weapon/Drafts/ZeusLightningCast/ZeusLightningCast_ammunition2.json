@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 200916,
+  "Body": {
+    "Size": 1.0,
+    "Length": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 60.0,
+    "Lifetime": 3.0,
+    "BulletPrefab": 5,
+    "AiBulletBehavior": 2
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "AudioClip": "explosion_04",
+      "Ammunition": 2000230,
+      "Color": "#0038FF",
+      "Quantity": 1,
+      "Size": 5.0,
+      "Cooldown": 1.0,
+      "PowerMultiplier": 100.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    }
+  ],
+  "ImpactType": 2
+}

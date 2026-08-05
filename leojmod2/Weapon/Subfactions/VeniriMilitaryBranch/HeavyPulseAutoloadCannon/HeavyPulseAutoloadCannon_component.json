@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 2000333,
+  "Name": "Heavy Pulse Autoload Cannon",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 2010,
+  "Icon": "cannon_1x6",
+  "Color": "#D67D7A",
+  "Layout": "0010000100001000010000100",
+  "CellType": "4",
+  "WeaponId": 2000333,
+  "AmmunitionId": 2000333,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

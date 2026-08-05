@@ -1,0 +1,27 @@
+{
+  "ItemType": 1,
+  "Id": 2000601,
+  "Name": "Sword Of Heavens - Saber",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10003,
+  "Level": 300,
+  "Icon": "doom13.png",
+  "Color": "#00FF00",
+  "Layout": "1111111111111111111111111",
+  "CellType": "4",
+  "WeaponId": 2000601,
+  "AmmunitionId": 2000601,
+  "WeaponSlotType": "A",
+  "PossibleModifications": [
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    66,
+    1
+  ]
+}

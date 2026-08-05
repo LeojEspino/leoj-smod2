@@ -1,0 +1,49 @@
+{
+  "ItemType": 6,
+  "Id": 2000800,
+  "SizeClass": 3,
+  "Name": "Crusader",
+  "Faction": 2010,
+  "IconImage": "crusader.png",
+  "IconScale": 1.0,
+  "ModelImage": "crusader.png",
+  "ModelScale": 2.6,
+  "EngineColor": "#40FFF096",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.5
+      },
+      "Size": 0.3
+    }
+  ],
+  "Layout": "000000000000000000000000000000000000000000000000000040000000000004343400000000004343400000000004242400000011124222421110111124222421111111122222221111000125555521000000005555500000000000000000000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.56
+      },
+      "WeaponClass": "TL"
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": 0.245
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.245
+      },
+      "WeaponClass": "CL"
+    }
+  ],
+  "Features": {
+    "BuiltinDevices": [
+      3
+    ]
+  },
+  "BuiltinDevices": []
+}

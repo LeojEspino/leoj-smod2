@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 200914,
+  "Name": "\"Zeus\" Lightning Cast",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Faction": 10001,
+  "Level": 400,
+  "Icon": "doom12.png",
+  "Color": "#CCE9FE",
+  "Layout": "0110111111110110",
+  "CellType": "4",
+  "WeaponId": 200914,
+  "AmmunitionId": 200914,
+  "WeaponSlotType": "A",
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    1,
+    66,
+    7
+  ]
+}

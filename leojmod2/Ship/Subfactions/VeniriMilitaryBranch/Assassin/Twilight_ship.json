@@ -4,10 +4,10 @@
   "ShipRarity": 2,
   "SizeClass": 2,
   "Name": "Assassin",
-  "Faction": 10001,
-  "IconImage": "twilight.png",
+  "Faction": 2010,
+  "IconImage": "assassin.png",
   "IconScale": 1.0,
-  "ModelImage": "twilight.png",
+  "ModelImage": "assassin.png",
   "ModelScale": 2.0,
   "EngineColor": "#40FFF096",
   "Engines": [
@@ -32,27 +32,26 @@
       "Size": 0.15
     }
   ],
-  "Layout": "0000000000000000100000000011100000004111400000042224000111422241111114222411101552225510005522255000000050000000000000000",
+  "Layout": "0000000000000000300000000033300000004333400000042224000111422241111114222411101142224110001555551000005555500000000000000",
   "Barrels": [
     {
       "Position": {
         "x": 0.5,
         "y": 0.45
       },
-      "WeaponClass": "C"
+      "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": 0.5,
         "y": -0.45
       },
-      "WeaponClass": "C"
+      "WeaponClass": "CL"
     }
   ],
   "Features": {
     "BuiltinDevices": [
-      3,
-      12
+      3
     ]
   },
   "BuiltinDevices": []

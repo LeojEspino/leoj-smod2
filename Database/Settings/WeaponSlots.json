@@ -30,6 +30,11 @@
       "Letter": "B",
       "Name": "Bomb Attacks",
       "Icon": "icon_weapon_B.png"
+    },
+    {
+      "Letter": "A",
+      "Name": "Arena-Wide Attacks",
+      "Icon": "icon_weapon_A.png"
     }
   ]
 }

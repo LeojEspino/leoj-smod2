@@ -1,0 +1,40 @@
+{
+  "ItemType": 25,
+  "Id": 200920,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 100.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 1.0,
+    "BulletPrefab": 4
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 200915,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 2000,
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 0.5
+    }
+  ],
+  "ImpactType": 2
+}

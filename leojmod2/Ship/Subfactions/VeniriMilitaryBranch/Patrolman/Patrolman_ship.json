@@ -1,0 +1,42 @@
+{
+  "ItemType": 6,
+  "Id": 200137,
+  "Name": "Patrolman",
+  "Faction": 2010,
+  "IconImage": "patrolman.png",
+  "IconScale": 1.0,
+  "ModelImage": "patrolman.png",
+  "ModelScale": 1.2,
+  "EngineColor": "#40FFF096",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.65
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "000000000000010000000111000000333000014222410114222411114555411000555000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.05,
+        "y": 0.4
+      },
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.05,
+        "y": -0.4
+      },
+      "WeaponClass": "CL"
+    }
+  ],
+  "Features": {
+    "BuiltinDevices": [
+      3
+    ]
+  },
+  "BuiltinDevices": []
+}

@@ -1,0 +1,47 @@
+{
+  "ItemType": 25,
+  "Id": 2000603,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 4.0
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "Rotation": "t*90",
+    "Size": "0",
+    "Length": "0"
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 2000606,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "Cooldown": 0.1,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 4,
+      "VisualEffect": 2003,
+      "Color": "#00000000",
+      "Size": 6.0,
+      "Lifetime": 0.2,
+      "Cooldown": 0.1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 4,
+      "VisualEffect": 2000,
+      "AudioClip": "launch_04",
+      "Color": "#00000000",
+      "Size": 6.0,
+      "Lifetime": 2.0
+    }
+  ]
+}

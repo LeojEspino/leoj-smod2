@@ -1,0 +1,29 @@
+{
+  "ItemType": 25,
+  "Id": 200914,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 999.0,
+    "Lifetime": 40.0,
+    "Color": "#B7F3FE",
+    "EnergyCost": 200.0,
+    "AiBulletBehavior": 3
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 200920,
+      "Color": "#00000000",
+      "Quantity": 8,
+      "Size": 1.0,
+      "Cooldown": 4.0,
+      "RandomFactor": 1.0,
+      "Rotation": "RANDOM(-1,1) * 180",
+      "OffsetX": "RANDOM(-1,1) * 100",
+      "OffsetY": "RANDOM(-1,1) * 100"
+    }
+  ],
+  "ImpactType": 2
+}

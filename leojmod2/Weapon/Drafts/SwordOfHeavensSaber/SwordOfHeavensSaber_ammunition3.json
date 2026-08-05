@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 2000604,
+  "Body": {
+    "Size": 3.0,
+    "Velocity": 80.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 100.0,
+    "BulletPrefab": 20018,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "ColorMode": 2,
+      "Size": 2.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 3,
+      "EffectType": 4,
+      "AudioClip": "hit_03",
+      "Color": "#00000000"
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 20.0
+    }
+  ]
+}

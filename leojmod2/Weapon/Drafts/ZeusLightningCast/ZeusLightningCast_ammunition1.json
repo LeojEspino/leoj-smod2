@@ -1,0 +1,50 @@
+{
+  "ItemType": 25,
+  "Id": 200915,
+  "Body": {
+    "Size": 3.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 2.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 2000,
+      "AudioClip": "cus_explosion_2",
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 3.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 200916,
+      "Color": "#00000000",
+      "Quantity": 20,
+      "Size": 1.0,
+      "PowerMultiplier": 1.0,
+      "Rotation": "RANDOM(-1,1) * 180",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 4,
+      "VisualEffect": 10004,
+      "AudioClip": "se_ch00_quiet",
+      "Color": "#00000000",
+      "Size": 6.0,
+      "Lifetime": 2.0
+    },
+    {
+      "Condition": 8,
+      "EffectType": 4,
+      "VisualEffect": 2003,
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 0.6,
+      "Cooldown": 0.33
+    }
+  ],
+  "ImpactType": 2
+}

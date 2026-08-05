@@ -1,0 +1,26 @@
+{
+  "ItemType": 1,
+  "Id": 2000331,
+  "Name": "Pulse Autoload Cannon",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 2010,
+  "Icon": "gun5",
+  "Color": "#D67D7A",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 2000331,
+  "AmmunitionId": 2000331,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

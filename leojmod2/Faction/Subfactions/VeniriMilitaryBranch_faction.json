@@ -1,0 +1,10 @@
+{
+  "ItemType": 14,
+  "Id": 2010,
+  "Name": "Veniri Military Branch",
+  "Color": "#00E0D8",
+  "NoTerritories": true,
+  "NoWanderingShips": true,
+  "HideFromMerchants": true,
+  "NoMissions": true
+}

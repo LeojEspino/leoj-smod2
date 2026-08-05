@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 2000722,
+  "Name": "Advanced Laser Cannon",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 2010,
+  "Icon": "laser3",
+  "Color": "#F7AE8B",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 2000722,
+  "AmmunitionId": 2000722,
+  "WeaponSlotType": "L"
+}

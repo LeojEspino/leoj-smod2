@@ -1,0 +1,34 @@
+{
+  "ItemType": 25,
+  "Id": 2000606,
+  "Body": {
+    "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "Lifetime": 4.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 2000605,
+      "Color": "#40FFFFFF",
+      "ColorMode": 3,
+      "Quantity": 1,
+      "Size": 1.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 8,
+      "EffectType": 2,
+      "Ammunition": 2000604,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "Cooldown": 0.2,
+      "Rotation": "0",
+      "OffsetX": "0"
+    }
+  ],
+  "ImpactType": 2
+}
