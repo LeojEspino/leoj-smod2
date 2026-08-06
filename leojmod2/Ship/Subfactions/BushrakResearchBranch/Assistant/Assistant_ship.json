@@ -1,0 +1,44 @@
+{
+  "ItemType": 6,
+  "Id": 2000991,
+  "Name": "Assistant",
+  "Faction": 2011,
+  "IconImage": "assistant.png",
+  "IconScale": 1.0,
+  "ModelImage": "assistant.png",
+  "ModelScale": 1.0,
+  "EngineColor": "#40FFBABA",
+  "Engines": [
+    {
+      "Position": {
+        "x": -1.0
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0011100001110000222000422240142224111555111155511",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.1333333,
+        "y": 0.6666667
+      },
+      "Rotation": -2.0,
+      "WeaponClass": "L"
+    },
+    {
+      "Position": {
+        "x": 0.1333333,
+        "y": -0.6666667
+      },
+      "Rotation": 2.0,
+      "WeaponClass": "L"
+    }
+  ],
+  "Features": {
+    "BuiltinDevices": [
+      8
+    ]
+  },
+  "BuiltinDevices": []
+}

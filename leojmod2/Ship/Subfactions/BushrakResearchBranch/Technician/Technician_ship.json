@@ -1,0 +1,43 @@
+{
+  "ItemType": 6,
+  "Id": 2000994,
+  "SizeClass": 1,
+  "Name": "Technician",
+  "Faction": 2011,
+  "IconImage": "technician.png",
+  "IconScale": 1.0,
+  "ModelImage": "technician.png",
+  "ModelScale": 1.6,
+  "EngineColor": "#40FFBABA",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000000000000033000000002200000040220400004022040011432234111122222211112255221101555555100000550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.111111112,
+        "y": 0.5555556
+      },
+      "WeaponClass": "M"
+    },
+    {
+      "Position": {
+        "x": 0.111111112,
+        "y": -0.5555556
+      },
+      "WeaponClass": "M"
+    }
+  ],
+  "Features": {
+    "BuiltinDevices": [
+      8
+    ]
+  },
+  "BuiltinDevices": []
+}

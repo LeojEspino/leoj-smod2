@@ -1,0 +1,10 @@
+{
+  "ItemType": 14,
+  "Id": 2011,
+  "Name": "Bushrak Research Branch",
+  "Color": "#B22323",
+  "NoTerritories": true,
+  "NoWanderingShips": true,
+  "HideFromMerchants": true,
+  "NoMissions": true
+}
