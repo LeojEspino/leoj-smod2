@@ -5,7 +5,7 @@
   "Name": "Collotheca",
   "Faction": 20001,
   "IconImage": "collotheca_batt_icon.png",
-  "IconScale": 2.0,
+  "IconScale": 1.0,
   "ModelImage": "collotheca_batt.png",
   "ModelScale": 3.0,
   "EngineColor": "#18FF1E22",

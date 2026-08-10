@@ -1,0 +1,18 @@
+{
+  "ItemType": 25,
+  "Id": 2004401,
+  "Body": {
+    "Size": 1.0,
+    "AttachedToParent": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 2004402,
+      "Color": "#00000000",
+      "Rotation": "0",
+      "OffsetX": "00"
+    }
+  ]
+}

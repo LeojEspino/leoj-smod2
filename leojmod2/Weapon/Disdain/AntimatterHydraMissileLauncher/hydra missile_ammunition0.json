@@ -1,0 +1,58 @@
+{
+  "ItemType": 25,
+  "Id": 30004,
+  "Body": {
+    "Size": 0.8,
+    "Velocity": 10.0,
+    "Range": 30.0,
+    "Weight": 0.3,
+    "Color": "#A72EFD",
+    "BulletPrefab": 10,
+    "EnergyCost": 15.0,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.2
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 30005,
+      "Color": "#00000000",
+      "Quantity": 12,
+      "Size": 0.7,
+      "RandomFactor": 1.0,
+      "PowerMultiplier": 1.0,
+      "MaxNestingLevel": 1,
+      "Rotation": "IF(Quantity <= 1, 0, RANDOM(-90, 90))"
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 30006,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 0.7,
+      "PowerMultiplier": 1.0,
+      "MaxNestingLevel": 1
+    },
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#40FFFFFF",
+      "ColorMode": 3,
+      "Size": 6.0,
+      "Lifetime": 0.4,
+      "Cooldown": 0.2,
+      "UseBulletPosition": true
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 35.0
+    }
+  ]
+}

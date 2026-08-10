@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 2000716,
+  "Name": "Antimatter Repel System",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 4,
+  "Level": 50,
+  "Icon": "doom1",
+  "Color": "#8EFFBF",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2000716,
+  "AmmunitionId": 2000716,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    14,
+    2,
+    66,
+    1
+  ]
+}

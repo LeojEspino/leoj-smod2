@@ -1,0 +1,11 @@
+{
+  "ItemType": 14,
+  "Id": 20020,
+  "Name": "Disdain",
+  "Color": "#221B3A",
+  "NoTerritories": true,
+  "NoWanderingShips": true,
+  "WanderingShipsDistance": 500,
+  "HideFromMerchants": true,
+  "NoMissions": true
+}

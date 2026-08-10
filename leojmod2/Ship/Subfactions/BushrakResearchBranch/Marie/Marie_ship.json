@@ -1,0 +1,51 @@
+{
+  "ItemType": 6,
+  "Id": 2000997,
+  "SizeClass": 2,
+  "Name": "Marie",
+  "Faction": 2011,
+  "IconImage": "marie.png",
+  "IconScale": 1.0,
+  "ModelImage": "marie.png",
+  "ModelScale": 2.0,
+  "EngineColor": "#40FFBABA",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.2
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000111000000001110000000011100000000222000004402220440044022204401132222231111122222111111555551110110555011000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.3,
+        "y": 0.65
+      },
+      "WeaponClass": "M"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.65
+      },
+      "WeaponClass": "M"
+    }
+  ],
+  "Features": {
+    "BuiltinDevices": [
+      8
+    ]
+  },
+  "BuiltinDevices": []
+}

@@ -1,0 +1,50 @@
+{
+  "ItemType": 25,
+  "Id": 2000716,
+  "Body": {
+    "DetonateWhenDestroyed": false,
+    "Size": 50.0,
+    "AttachedToParent": true,
+    "Lifetime": 0.1,
+    "Color": "#401080",
+    "EnergyCost": 4.0,
+    "AiBulletBehavior": 3
+  },
+  "Triggers": [
+    {
+      "Condition": 8,
+      "EffectType": 1,
+      "VisualEffect": 10003,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0,
+      "Cooldown": 0.75,
+      "UseBulletPosition": true
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#80FFFFFF",
+      "ColorMode": 3,
+      "Size": 1.0,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 1,
+      "Color": "#80FFFFFF",
+      "ColorMode": 3,
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 17,
+      "Power": 100.0
+    }
+  ]
+}

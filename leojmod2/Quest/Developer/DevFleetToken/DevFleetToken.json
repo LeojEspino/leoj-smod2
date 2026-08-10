@@ -1,0 +1,8 @@
+{
+  "ItemType": 20,
+  "Id": 200666,
+  "Name": "Developer Fleet Token",
+  "Description": "Allows developers to test fleets with no progress required.",
+  "Icon": "star_circle.png",
+  "Color": "#FF0600"
+}

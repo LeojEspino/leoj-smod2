@@ -1,0 +1,27 @@
+{
+  "ItemType": 1,
+  "Id": 200146,
+  "Name": "Small Antimatter Cannon",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 20020,
+  "Level": 400,
+  "Icon": "gun2",
+  "Color": "#4B2F8D",
+  "Layout": "1010",
+  "CellType": "4",
+  "WeaponId": 200146,
+  "AmmunitionId": 200146,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

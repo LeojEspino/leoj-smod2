@@ -1,0 +1,14 @@
+{
+  "ItemType": 5,
+  "Id": 30007,
+  "Range": 1000.0,
+  "DamageMultiplier": 1.0,
+  "DefenseMultiplier": 1.0,
+  "SpeedMultiplier": 1.0,
+  "BuildExtraCycles": 1,
+  "ImprovedAi": true,
+  "Capacity": 1,
+  "ActivationType": 2,
+  "LaunchSound": "se_powerup",
+  "ControlButtonIcon": "controls_drone"
+}

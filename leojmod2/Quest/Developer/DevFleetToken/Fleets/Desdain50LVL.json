@@ -1,0 +1,11 @@
+{
+  "ItemType": 18,
+  "Id": 200662,
+  "Factions": {
+    "Type": 1,
+    "List": [
+      20020
+    ]
+  },
+  "LevelBonus": 50
+}

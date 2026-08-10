@@ -1,0 +1,12 @@
+{
+  "ItemType": 30,
+  "Id": 2003,
+  "InitialEnemyShips": "2",
+  "MaxEnemyShips": "99",
+  "ExpCondition": 1,
+  "CustomSoundtrack": [
+    {
+      "Audio": "IXxuSmw2HFNWXLUyJFO7xKIT3E7diFUSa86wgFiMI413xtfZga5hClZ⁄AgdzP33dhpj+0qc1d5sK2jyH5EqK6g=="
+    }
+  ]
+}

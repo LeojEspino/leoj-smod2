@@ -1,0 +1,27 @@
+{
+  "ItemType": 1,
+  "Id": 200148,
+  "Name": "Heavy Antimatter Cannon",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 20020,
+  "Level": 450,
+  "Icon": "gun6",
+  "Color": "#4B2F8D",
+  "Layout": "110110110",
+  "CellType": "4",
+  "WeaponId": 200148,
+  "AmmunitionId": 200148,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    13,
+    8,
+    16,
+    5,
+    2,
+    7,
+    1,
+    66
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 2006665,
+  "Name": "Core Of Disdain",
+  "Description": "This core reduces energy cooldown to facilitate the use of automated weapons.",
+  "DisplayCategory": 6,
+  "ComponentStatsId": 2006665,
+  "Faction": 20020,
+  "Icon": "reactor191.png",
+  "Color": "#390066",
+  "Layout": "1111",
+  "CellType": "1"
+}

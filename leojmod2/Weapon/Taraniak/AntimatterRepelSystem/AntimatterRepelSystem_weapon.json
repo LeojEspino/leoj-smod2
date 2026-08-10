@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 2000716,
+  "WeaponClass": 2,
+  "FireRate": 0.5,
+  "ActivationType": 1,
+  "EffectSize": 1E-05,
+  "ControlButtonIcon": "controls_shot"
+}

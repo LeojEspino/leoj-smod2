@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 200148,
+  "FireRate": 2.0,
+  "ActivationType": 1,
+  "ShotSound": "gauss_cannon_fire_01",
+  "ShotEffectPrefab": "FlashAdditive",
+  "ControlButtonIcon": "controls_shot"
+}

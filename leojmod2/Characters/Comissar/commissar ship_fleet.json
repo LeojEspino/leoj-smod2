@@ -1,0 +1,8 @@
+{
+  "ItemType": 18,
+  "Id": 30005,
+  "SpecificShips": [
+    30002
+  ],
+  "CombatRules": 1
+}

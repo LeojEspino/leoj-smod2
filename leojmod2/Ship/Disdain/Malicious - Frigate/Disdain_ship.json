@@ -1,0 +1,40 @@
+{
+  "ItemType": 6,
+  "Id": 2006661,
+  "Name": "Malicious",
+  "Faction": 20020,
+  "IconImage": "malicious.png",
+  "IconScale": 1.0,
+  "ModelImage": "malicious.png",
+  "ModelScale": 1.6,
+  "EngineColor": "#4050008E",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.3
+      },
+      "Size": 0.3
+    }
+  ],
+  "Layout": "110000000000000110000404000000000000404000000000000404000000011100404001110001330424033100111222222222111111222222222111001222555222100011335555533110000000555000000000000000000000000000000000000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.5666667,
+        "y": 0.125
+      },
+      "WeaponClass": "CTD"
+    },
+    {
+      "Position": {
+        "x": 0.5666667,
+        "y": -0.125
+      },
+      "WeaponClass": "CTD"
+    }
+  ],
+  "Features": {
+    "EquipmentWeightBonus": -0.75
+  },
+  "BuiltinDevices": []
+}

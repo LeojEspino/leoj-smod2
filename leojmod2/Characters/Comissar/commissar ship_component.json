@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 30008,
+  "Name": "Marine Ally",
+  "DisplayCategory": 5,
+  "ComponentStatsId": 5365,
+  "Icon": "ultramarine.png",
+  "Layout": "0",
+  "CellType": "\u0000",
+  "DroneBayId": 30007,
+  "DroneId": 30002,
+  "Restrictions": {
+    "ComponentGroupTag": 300008
+  }
+}

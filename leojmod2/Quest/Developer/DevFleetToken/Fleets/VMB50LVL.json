@@ -1,0 +1,15 @@
+{
+  "ItemType": 18,
+  "Id": 200660,
+  "Factions": {
+    "Type": 1,
+    "List": [
+      2010
+    ]
+  },
+  "LevelBonus": 50,
+  "SpecificShips": [
+    2000807
+  ],
+  "CombatRules": 2003
+}

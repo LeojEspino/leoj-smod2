@@ -1,0 +1,27 @@
+{
+  "ItemType": 26,
+  "Id": 2006,
+  "Elements": [
+    {
+      "Type": 4,
+      "Image": "long_bullet.png",
+      "Color": "#2D2D2D",
+      "TurnRate": 90.0,
+      "ParticleSize": 0.001
+    },
+    {
+      "Type": 4,
+      "Image": "long_bullet.png",
+      "Color": "#2D2D2D",
+      "TurnRate": -90.0,
+      "ParticleSize": 0.001
+    },
+    {
+      "Type": 1,
+      "Image": "star",
+      "Color": "#2D2D2D",
+      "Size": 0.25,
+      "ParticleSize": 0.001
+    }
+  ]
+}

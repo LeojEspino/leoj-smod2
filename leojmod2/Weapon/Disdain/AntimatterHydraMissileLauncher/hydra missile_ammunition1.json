@@ -1,0 +1,39 @@
+{
+  "ItemType": 25,
+  "Id": 30005,
+  "Body": {
+    "Size": 0.4,
+    "Length": 1.0,
+    "Velocity": 45.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 80.0,
+    "Lifetime": 1.0,
+    "Weight": 0.1,
+    "Color": "#A72EFD",
+    "BulletPrefab": 10,
+    "EnergyCost": 1.0,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.3
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 30006,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 1.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 7.0
+    }
+  ]
+}

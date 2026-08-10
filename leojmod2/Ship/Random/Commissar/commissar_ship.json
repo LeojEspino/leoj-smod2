@@ -1,0 +1,78 @@
+{
+  "ItemType": 6,
+  "Id": 30001,
+  "ShipType": 1,
+  "SizeClass": 3,
+  "Name": "Commissar",
+  "IconImage": "commissar.png",
+  "IconScale": 1.0,
+  "ModelImage": "commissar.png",
+  "ModelScale": 3.0,
+  "EngineColor": "#8C00E6FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6
+      },
+      "Size": 0.4
+    },
+    {
+      "Position": {
+        "x": -0.95,
+        "y": 0.7
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.95,
+        "y": -0.7
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000444000000000000004440000000000000144410000000000011111110000000000111111100000000001122211000000044112222211440000441222222214400004412222222144000011122222221110000111322222311100444113355533114444441135555531144444411555555511444011115500055111100111000000000111000100000000000100",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.85
+      },
+      "AutoAimingArc": 25.0,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": 0.6
+      },
+      "WeaponClass": "MT"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.6
+      },
+      "WeaponClass": "MT"
+    },
+    {
+      "Position": {
+        "x": -0.45,
+        "y": 0.75
+      },
+      "Rotation": 70.0,
+      "AutoAimingArc": 70.0,
+      "WeaponClass": "LC"
+    },
+    {
+      "Position": {
+        "x": -0.45,
+        "y": -0.75
+      },
+      "Rotation": -70.0,
+      "AutoAimingArc": 70.0,
+      "WeaponClass": "LC"
+    }
+  ],
+  "Features": {},
+  "BuiltinDevices": []
+}

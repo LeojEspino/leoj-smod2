@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 2008881,
+  "Name": "Electric Discharger",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Level": 400,
+  "Icon": "doom1",
+  "Color": "#F6D173",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 2008881,
+  "AmmunitionId": 2008881,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    14,
+    2,
+    1,
+    66
+  ]
+}

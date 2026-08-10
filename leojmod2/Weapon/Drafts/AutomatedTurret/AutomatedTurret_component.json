@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 2004401,
+  "Name": "Automated Turret",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 1,
+  "Icon": "turret",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2004401,
+  "AmmunitionId": 2004401,
+  "WeaponSlotType": "D"
+}

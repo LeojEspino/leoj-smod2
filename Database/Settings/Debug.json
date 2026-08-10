@@ -64,6 +64,45 @@
                 ]
               }
             }
+          },
+          {
+            "Loot": {
+              "Type": 41,
+              "MinAmount": 100,
+              "MaxAmount": 100,
+              "Factions": {
+                "Type": 1,
+                "List": [
+                  2010
+                ]
+              }
+            }
+          },
+          {
+            "Loot": {
+              "Type": 41,
+              "MinAmount": 100,
+              "MaxAmount": 100,
+              "Factions": {
+                "Type": 1,
+                "List": [
+                  2011
+                ]
+              }
+            }
+          },
+          {
+            "Loot": {
+              "Type": 41,
+              "MinAmount": 100,
+              "MaxAmount": 100,
+              "Factions": {
+                "Type": 1,
+                "List": [
+                  20020
+                ]
+              }
+            }
           }
         ]
       }
@@ -75,6 +114,15 @@
         "ItemId": 20010,
         "MinAmount": 1,
         "MaxAmount": 1
+      }
+    },
+    {
+      "Code": 2004,
+      "Loot": {
+        "Type": 25,
+        "ItemId": 200666,
+        "MinAmount": 3,
+        "MaxAmount": 3
       }
     }
   ]
