@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 200425,
+  "WeaponClass": 2,
+  "FireRate": 0.3,
+  "ActivationType": 1,
+  "ShotSound": "*flux_03",
+  "EffectSize": 1E-05,
+  "ControlButtonIcon": "controls_gear"
+}

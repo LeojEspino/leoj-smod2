@@ -1,7 +1,25 @@
 {
   "ItemType": 25,
   "Id": 2004403,
-  "Body": {},
-  "Triggers": [],
-  "Effects": []
+  "Body": {
+    "Size": 90.0,
+    "AttachedToParent": true,
+    "Lifetime": 99999.0,
+    "BulletPrefab": 11
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 2004404,
+      "Color": "#EF6F7E",
+      "ColorMode": 1,
+      "Quantity": 1,
+      "Size": 1.0,
+      "Cooldown": 0.25,
+      "Rotation": "0",
+      "OffsetX": ".5"
+    }
+  ],
+  "ImpactType": 2
 }

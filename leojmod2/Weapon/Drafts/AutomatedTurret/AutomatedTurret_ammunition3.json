@@ -1,7 +1,40 @@
 {
   "ItemType": 25,
   "Id": 2004404,
-  "Body": {},
-  "Triggers": [],
-  "Effects": []
+  "Body": {
+    "Size": 0.8,
+    "Velocity": 30.0,
+    "Lifetime": 1.0,
+    "BulletPrefab": 1
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "AudioClip": "shot_04",
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "AudioClip": "hit_01",
+      "Color": "#00000000"
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 6.0
+    }
+  ]
 }

@@ -1,0 +1,9 @@
+{
+  "ItemType": 27,
+  "Id": 200215,
+  "Shape": 1,
+  "Image": "drone_bullet.png",
+  "Size": 1.0,
+  "SecondColor": "#40FFFFFF",
+  "SecondColorMode": 3
+}

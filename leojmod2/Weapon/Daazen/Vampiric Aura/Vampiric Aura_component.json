@@ -1,0 +1,24 @@
+{
+  "ItemType": 1,
+  "Id": 200425,
+  "Name": "Vampiric Aura",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 9,
+  "Level": 150,
+  "Icon": "doom1",
+  "Color": "#FF3600",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 200425,
+  "AmmunitionId": 200425,
+  "WeaponSlotType": "S",
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    1,
+    66
+  ]
+}

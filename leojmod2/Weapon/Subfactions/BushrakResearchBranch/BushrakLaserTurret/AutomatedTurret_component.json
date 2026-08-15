@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 2004410,
+  "Name": "Laser Turret",
+  "Description": "Owned by the Bushrak Research Branch, this automatic laser turret aids you eliminate secondary targets.",
+  "DisplayCategory": 1,
+  "ComponentStatsId": 20001,
+  "Icon": "gun4",
+  "Color": "#B2000B",
+  "Layout": "010010010",
+  "CellType": "4",
+  "WeaponId": 2004410,
+  "AmmunitionId": 2004410,
+  "WeaponSlotType": "D"
+}

@@ -1,0 +1,57 @@
+{
+  "ItemType": 25,
+  "Id": 2000646,
+  "Body": {
+    "DetonateWhenDestroyed": false,
+    "Size": 1.0,
+    "Lifetime": 1.0,
+    "BulletPrefab": 200216
+  },
+  "Controller": {
+    "Type": 3,
+    "StartingVelocityModifier": 0.1,
+    "X": "(t * 40) - (t ^ 2.0 * 20)  + RANDOM(-1,1) * 0.15",
+    "Y": "RANDOM(-1,1) * 0.15",
+    "Rotation": "t *720 + RANDOM(-10,10)",
+    "Size": "1.5 + SIN(t * 66) * 0.5",
+    "Length": "0"
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 2005,
+      "AudioClip": "explosion_02",
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 3,
+      "EffectType": 4,
+      "VisualEffect": 2006,
+      "Color": "#595959",
+      "ColorMode": 2,
+      "Size": 4.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 2000647,
+      "Color": "#FF0016",
+      "ColorMode": 1,
+      "Quantity": 5,
+      "Size": 1.0,
+      "RandomFactor": 0.5,
+      "Rotation": "i * (360/Quantity)",
+      "OffsetX": "-10"
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 3,
+      "Power": 5.0
+    }
+  ]
+}

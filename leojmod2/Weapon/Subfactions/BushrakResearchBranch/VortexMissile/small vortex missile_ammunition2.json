@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 300022,
+  "Body": {
+    "Size": 0.4,
+    "Velocity": 7.0,
+    "ParentVelocityEffect": 0.0,
+    "Range": 8.0,
+    "Weight": 0.05,
+    "BulletPrefab": 3,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.5,
+    "SmartAim": true
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 300023,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    }
+  ]
+}

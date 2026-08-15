@@ -1,0 +1,38 @@
+{
+  "ItemType": 25,
+  "Id": 300020,
+  "Body": {
+    "Size": 0.75,
+    "Velocity": 10.0,
+    "Range": 17.5,
+    "Weight": 0.3,
+    "Color": "#03FB60",
+    "BulletPrefab": 10,
+    "EnergyCost": 15.0,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.2
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "launch_04",
+      "Ammunition": 300021,
+      "ColorMode": 2,
+      "Quantity": 1,
+      "Size": 4.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 4,
+      "VisualEffect": 1,
+      "Color": "#40FFFFFF",
+      "ColorMode": 2,
+      "Size": 10.0,
+      "Lifetime": 0.5
+    }
+  ]
+}

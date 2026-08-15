@@ -1,0 +1,79 @@
+{
+  "ItemType": 25,
+  "Id": 2000645,
+  "Body": {
+    "Size": 1.0,
+    "Lifetime": 0.1,
+    "Color": "#CC000A",
+    "EnergyCost": 30.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 2000646,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 8.0,
+      "PowerMultiplier": 2.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 2000646,
+      "Color": "#990007",
+      "ColorMode": 1,
+      "Quantity": 1,
+      "Size": 6.0,
+      "PowerMultiplier": 1.5,
+      "Rotation": "-5+ RANDOM(-1,1)",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 2000646,
+      "Color": "#990007",
+      "ColorMode": 1,
+      "Quantity": 1,
+      "Size": 4.0,
+      "PowerMultiplier": 1.5,
+      "Rotation": "5 + RANDOM(-1,1)"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 2000646,
+      "Color": "#4C0003",
+      "ColorMode": 1,
+      "Quantity": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 1.0,
+      "Rotation": "-10 + RANDOM(-1,1)",
+      "OffsetX": "0"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 2000646,
+      "Color": "#4C0003",
+      "ColorMode": 1,
+      "Quantity": 1,
+      "Size": 1.0,
+      "PowerMultiplier": 1.0,
+      "Rotation": "10 + RANDOM(-1,1)"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 2000648,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
+      "Rotation": "0",
+      "OffsetX": "0"
+    }
+  ]
+}

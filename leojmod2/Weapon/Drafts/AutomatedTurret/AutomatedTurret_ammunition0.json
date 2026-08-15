@@ -3,7 +3,11 @@
   "Id": 2004401,
   "Body": {
     "Size": 1.0,
-    "AttachedToParent": true
+    "Velocity": 1.0,
+    "ParentVelocityEffect": 0.0,
+    "AttachedToParent": true,
+    "Range": 99999.0,
+    "Lifetime": 99999.0
   },
   "Triggers": [
     {
@@ -11,8 +15,11 @@
       "EffectType": 2,
       "Ammunition": 2004402,
       "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0,
       "Rotation": "0",
-      "OffsetX": "00"
+      "OffsetX": "0"
     }
-  ]
+  ],
+  "ImpactType": 2
 }

@@ -1,8 +1,8 @@
 {
   "ItemType": 3,
   "Id": 2004401,
-  "FireRate": 1E-05,
-  "ActivationType": 2,
+  "WeaponClass": 2,
+  "FireRate": 1.0,
   "EffectSize": 1E-05,
   "ControlButtonIcon": "controls_gear"
 }

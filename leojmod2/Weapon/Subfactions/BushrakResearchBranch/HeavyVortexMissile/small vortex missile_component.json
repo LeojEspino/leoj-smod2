@@ -1,0 +1,25 @@
+{
+  "ItemType": 1,
+  "Id": 300030,
+  "Name": "Heavy \"Vortex\" Missile Launcher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 2011,
+  "Level": 150,
+  "Icon": "rocket1",
+  "Color": "#00FF68",
+  "Layout": "0110011001100110",
+  "CellType": "4",
+  "WeaponId": 300030,
+  "AmmunitionId": 300030,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    13,
+    8,
+    21,
+    16,
+    5,
+    66
+  ]
+}
