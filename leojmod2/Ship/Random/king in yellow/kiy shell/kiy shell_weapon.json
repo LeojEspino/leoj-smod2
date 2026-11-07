@@ -1,5 +1,8 @@
 {
   "ItemType": 3,
   "Id": 30015,
+  "WeaponClass": 1,
+  "FireRate": 0.05,
+  "ActivationType": 2,
   "ControlButtonIcon": "controls_shot"
 }

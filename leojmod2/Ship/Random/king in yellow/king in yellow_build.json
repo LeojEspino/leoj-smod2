@@ -47,7 +47,7 @@
       "Y": 25,
       "BarrelId": 7,
       "Behaviour": 0,
-      "KeyBinding": 0
+      "KeyBinding": -1
     },
     {
       "ComponentId": 66,

@@ -2,35 +2,24 @@
   "ItemType": 25,
   "Id": 30015,
   "Body": {
-    "Size": 8.5,
+    "Size": 10.0,
     "AttachedToParent": true,
-    "Lifetime": 360.0,
-    "HitPoints": 250,
+    "Lifetime": 60.0,
+    "HitPoints": 150,
     "BulletPrefab": 30015,
+    "CanBeDisarmed": true,
     "AiBulletBehavior": 3
-  },
-  "Controller": {
-    "Type": 2,
-    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {
       "Condition": 2,
-      "EffectType": 1,
-      "VisualEffect": 3,
-      "Color": "#FFEA65",
+      "EffectType": 2,
+      "Ammunition": 30016,
+      "Color": "#20FD01",
       "ColorMode": 1,
-      "Size": 10.0,
-      "Lifetime": 0.2,
-      "UseBulletPosition": true
+      "Quantity": 1,
+      "Size": 30.0
     }
   ],
-  "ImpactType": 2,
-  "Effects": [
-    {
-      "Type": 17,
-      "Power": 0.5,
-      "Factor": 0.5
-    }
-  ]
+  "ImpactType": 1
 }

@@ -1,0 +1,29 @@
+{
+  "ItemType": 25,
+  "Id": 30016,
+  "Body": {
+    "Size": 1.0,
+    "Range": 1.0,
+    "Lifetime": 4.0,
+    "FriendlyFire": true,
+    "AiBulletBehavior": 3
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 5,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "UseBulletPosition": true
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 7,
+      "Power": 200.0,
+      "Factor": 2.0
+    }
+  ]
+}
