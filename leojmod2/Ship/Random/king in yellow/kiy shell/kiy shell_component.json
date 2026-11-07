@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 30015,
+  "Name": "kiy shell",
+  "DisplayCategory": 1,
+  "Availability": 4,
+  "ComponentStatsId": 1,
+  "Icon": "kiy_core.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 30015,
+  "AmmunitionId": 30015,
+  "WeaponSlotType": "V"
+}

@@ -1,0 +1,36 @@
+{
+  "ItemType": 25,
+  "Id": 30015,
+  "Body": {
+    "Size": 8.5,
+    "AttachedToParent": true,
+    "Lifetime": 360.0,
+    "HitPoints": 250,
+    "BulletPrefab": 30015,
+    "AiBulletBehavior": 3
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 3,
+      "Color": "#FFEA65",
+      "ColorMode": 1,
+      "Size": 10.0,
+      "Lifetime": 0.2,
+      "UseBulletPosition": true
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 17,
+      "Power": 0.5,
+      "Factor": 0.5
+    }
+  ]
+}
